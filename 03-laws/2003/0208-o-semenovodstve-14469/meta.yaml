@@ -1,0 +1,17 @@
+act_code: '14469'
+requisite: Закон Республики Казахстан от 8 февраля 2003 года № 385
+title:
+  rus: О семеноводстве
+  kaz: Тұқым шаруашылығы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2003-02-08
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2003-02-08
+  rus: 2003-02-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/14469/kaz/08.02.2003
+  rus: https://zan.gov.kz/client/#!/doc/14469/rus/08.02.2003
