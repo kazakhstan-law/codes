@@ -10,15 +10,15 @@ approved_on: 2000-12-22
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2001-04-24
-  rus: 2001-04-24
+  kaz: 2001-11-10
+  rus: 2001-11-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7827/kaz/24.04.2001
-  rus: https://zan.gov.kz/client/#!/doc/7827/rus/24.04.2001
+  kaz: https://zan.gov.kz/client/#!/doc/7827/kaz/10.11.2001
+  rus: https://zan.gov.kz/client/#!/doc/7827/rus/10.11.2001
 caused_by:
-  code: '8744'
-  requisite: Закон Республики Казахстан от 25 апреля 2001 года № 177
+  code: '10397'
+  requisite: Закон Республики Казахстан от 10 ноября 2001 года № 254-II
   title:
     rus: О внесении изменений и дополнений в Закон Республики Казахстан "О республиканском бюджете на 2001 год"
     kaz: '"2001 жылға арналған республикалық бюджет туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/8744/rus
+  link: https://zan.gov.kz/client/#!/doc/10397/rus
