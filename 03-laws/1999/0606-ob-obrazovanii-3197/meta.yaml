@@ -1,0 +1,15 @@
+act_code: '3197'
+requisite: Закон Республики Казахстан от 7 июня 1999 года № 389. Утратил силу Законом Республики Казахстан от 27 июля 2007 года № 319
+title:
+  rus: Об образовании
+  kaz: Білім туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1999-06-06
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1999-06-06
+source:
+  rus: https://zan.gov.kz/client/#!/doc/3197/rus/06.06.1999
