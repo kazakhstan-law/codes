@@ -1,0 +1,17 @@
+act_code: '12527'
+requisite: Закон Республики Казахстан от 24 июня 2002 года N 330
+title:
+  rus: О комплексной предпринимательской лицензии (франчайзинге)
+  kaz: Кешенді кәсіпкерлік лицензия (франчайзинг) туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2002-06-23
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2002-06-23
+  rus: 2002-06-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/12527/kaz/23.06.2002
+  rus: https://zan.gov.kz/client/#!/doc/12527/rus/23.06.2002
