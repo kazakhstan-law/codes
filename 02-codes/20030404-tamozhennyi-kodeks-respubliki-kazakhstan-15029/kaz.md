@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15029/kaz/04.04.2003
+source: https://zan.gov.kz/client/#!/doc/15029/kaz/09.07.2003
 ---
 
 # Қазақстан Республикасының Кеден кодексі
