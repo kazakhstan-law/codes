@@ -1,10 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2/rus/11.06.2001
-repealed_on: 2008-01-01
-repealed_by:
-  code: '9164'
-  title: О введении в действие Кодекса Республики Казахстан "О налогах и других обязательных платежах в бюджет" (Налоговый кодекс)
-  link: https://zan.gov.kz/client/#!/doc/9164/rus
+source: https://zan.gov.kz/client/#!/doc/2/rus/21.06.2001
 ---
 
 # О налогах и других обязательных платежах в бюджет
