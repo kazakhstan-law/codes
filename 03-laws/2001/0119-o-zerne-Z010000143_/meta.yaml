@@ -15,7 +15,24 @@ versions:
 - date: 2001-01-19
   languages:
   - rus
+- date: 2001-07-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '9487'
+    key: Z010000231_
 version_date:
-  rus: 2001-01-19
+  kaz: 2001-07-10
+  rus: 2001-07-10
 source:
-  rus: https://zan.gov.kz/client/#!/doc/7895/rus/19.01.2001
+  kaz: https://zan.gov.kz/client/#!/doc/7895/kaz/10.07.2001
+  rus: https://zan.gov.kz/client/#!/doc/7895/rus/10.07.2001
+caused_by:
+  code: '9487'
+  key: Z010000231_
+  requisite: Закон Республики Казахстан от 11 июля 2001 года № 231-II
+  title:
+    rus: О внесении изменений в Закон Республики Казахстан "О зерне"
+    kaz: '"Астық туралы" Қазақстан Республикасының Заңына өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/9487/rus
