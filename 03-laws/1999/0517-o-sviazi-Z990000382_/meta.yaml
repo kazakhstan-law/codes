@@ -1,0 +1,24 @@
+key: Z990000382_
+akn: /akn/kz/act/1999-05-17/Z990000382_
+act_code: '2976'
+requisite: Закон Республики Казахстан от 18 мая 1999 года N 382. Утратил силу - Законом РК от 5 июля 2004 г. N 567 (P040567)
+title:
+  rus: О связи
+  kaz: Байланыс туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1999-05-17
+approved_by:
+- '102000000000'
+versions:
+- date: 1999-05-17
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 1999-05-17
+  rus: 1999-05-17
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/2976/kaz/17.05.1999
+  rus: https://zan.gov.kz/client/#!/doc/2976/rus/17.05.1999
