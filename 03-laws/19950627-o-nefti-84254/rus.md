@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84254/rus/06.04.2003
+source: https://zan.gov.kz/client/#!/doc/84254/rus/15.05.2003
 ---
 
 # О нефти

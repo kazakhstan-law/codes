@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7832/rus/18.12.2000
+source: https://zan.gov.kz/client/#!/doc/7832/rus/15.05.2003
 ---
 
 # О страховой деятельности

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/28.03.2003
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/15.05.2003
 ---
 
 # ӘКIМШIЛIК ҚҰҚЫҚ БҰЗУШЫЛЫҚ ТУРАЛЫ
