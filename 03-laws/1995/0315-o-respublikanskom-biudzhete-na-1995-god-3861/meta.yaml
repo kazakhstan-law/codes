@@ -1,0 +1,17 @@
+act_code: '3861'
+requisite: Указ Президента Республики Казахстан от 15 марта 1995 г. N 2120 (Имеющий силу Закона)
+title:
+  rus: О республиканском бюджете на 1995 год
+  kaz: '"1995 жылға арналған республикалық бюджет туралы"'
+form: УЗАК
+type_codes:
+- УЗАК
+approved_on: 1995-03-15
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1995-03-15
+  rus: 1995-03-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/3861/kaz/15.03.1995
+  rus: https://zan.gov.kz/client/#!/doc/3861/rus/15.03.1995
