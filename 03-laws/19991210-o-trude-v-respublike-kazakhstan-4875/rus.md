@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4875/rus/10.12.1999
+source: https://zan.gov.kz/client/#!/doc/4875/rus/06.12.2001
 ---
 
 # О труде в Республике Казахстан
