@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104196/kaz/24.12.2001
+repealed_on: 2004-09-06
+repealed_by:
+  code: '20605'
+  title: Жануарлар дүниесiн қорғау, өсiмiн молайту және пайдалану туралы
+  link: https://zan.gov.kz/client/#!/doc/20605/kaz
 ---
 
 # Жануарлар дүниесiн қорғау, өсiмiн молайту және пайдалану туралы
