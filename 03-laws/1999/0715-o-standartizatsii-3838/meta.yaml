@@ -1,0 +1,17 @@
+act_code: '3838'
+requisite: Закон Республики Казахстан от 16 июля 1999 года N 433. Утратил силу  - Законом РК от 9 ноября 2004 г. N 603
+title:
+  rus: О стандартизации
+  kaz: Стандарттау туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1999-07-15
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1999-07-15
+  rus: 1999-07-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/3838/kaz/15.07.1999
+  rus: https://zan.gov.kz/client/#!/doc/3838/rus/15.07.1999
