@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/3559/kaz/08.07.2003
+source: https://zan.gov.kz/client/#!/doc/3559/kaz/09.07.2003
 ---
 
 ## 2. Бөлшектеп сатып алу-сату
