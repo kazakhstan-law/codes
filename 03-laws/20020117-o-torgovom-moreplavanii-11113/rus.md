@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11113/rus/17.01.2002
+source: https://zan.gov.kz/client/#!/doc/11113/rus/21.10.2004
 ---
 
 # О торговом мореплавании
