@@ -14,7 +14,14 @@ versions:
 - date: 1995-06-26
   languages:
   - rus
+- date: 1997-01-22
+  languages:
+  - rus
+  cause:
+    code: V970000033_
 version_date:
-  rus: 1995-06-26
+  rus: 1997-01-22
 source:
-  rus: https://zan.gov.kz/client/#!/doc/707/rus/26.06.1995
+  rus: https://zan.gov.kz/client/#!/doc/707/rus/22.01.1997
+caused_by:
+  code: V970000033_
