@@ -1,0 +1,17 @@
+act_code: '104333'
+requisite: Закон Республики Казахстан от 5 октябpя 1994 года N 174-ХIII
+title:
+  rus: Об амнистии в связи с Международным годом семьи
+  kaz: Халықаралық отбасы жылына байланысты рақымшылық жасау туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1994-10-05
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1994-10-05
+  rus: 1994-10-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/104333/kaz/05.10.1994
+  rus: https://zan.gov.kz/client/#!/doc/104333/rus/05.10.1994
