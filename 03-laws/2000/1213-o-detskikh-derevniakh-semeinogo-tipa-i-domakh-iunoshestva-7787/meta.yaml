@@ -1,0 +1,17 @@
+act_code: '7787'
+requisite: Закон Республики Казахстан от 13 декабря 2000 года N 113-II
+title:
+  rus: О детских деревнях семейного типа и домах юношества
+  kaz: Отбасы үлгiсiндегi балалар ауылы және жасөспiрiмдер үйлерi туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2000-12-13
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2000-12-13
+  rus: 2000-12-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7787/kaz/13.12.2000
+  rus: https://zan.gov.kz/client/#!/doc/7787/rus/13.12.2000
