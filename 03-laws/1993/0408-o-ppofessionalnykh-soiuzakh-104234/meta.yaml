@@ -1,0 +1,17 @@
+act_code: '104234'
+requisite: Закон Республики Казахстан от 9 апpеля 1993 года. Утратил силу Законом Республики Казахстан от 27 июня 2014 года № 211-V
+title:
+  rus: О пpофессиональных союзах
+  kaz: Кәсiптiк одақтар туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1993-04-08
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1995-10-05
+  rus: 1995-10-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/104234/kaz/05.10.1995
+  rus: https://zan.gov.kz/client/#!/doc/104234/rus/05.10.1995
