@@ -10,6 +10,13 @@ approved_on: 1999-07-01
 approved_by:
 - '102000000000'
 version_date:
-  rus: 1999-06-30
+  rus: 1999-11-29
 source:
-  rus: https://zan.gov.kz/client/#!/doc/3559/rus/30.06.1999
+  rus: https://zan.gov.kz/client/#!/doc/3559/rus/29.11.1999
+caused_by:
+  code: '4736'
+  requisite: Закон Республики Казахстан от 29 ноября 1999 года N 486-I
+  title:
+    rus: О внесении изменений в Гражданский кодекс Республики Казахстан (особенная часть)
+    kaz: Қазақстан Республикасының Азаматтық кодексіне (ерекше бөлім) өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/4736/rus
