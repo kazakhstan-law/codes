@@ -15,7 +15,24 @@ versions:
 - date: 1998-12-28
   languages:
   - rus
+- date: 1999-07-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '3906'
+    key: Z990000443_
 version_date:
-  rus: 1998-12-28
+  kaz: 1999-07-19
+  rus: 1999-07-19
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1854/rus/28.12.1998
+  kaz: https://zan.gov.kz/client/#!/doc/1854/kaz/19.07.1999
+  rus: https://zan.gov.kz/client/#!/doc/1854/rus/19.07.1999
+caused_by:
+  code: '3906'
+  key: Z990000443_
+  requisite: Закон Республики Казахстан от 20 июля 1999 г. № 443-1
+  title:
+    rus: О внесении изменений и дополнений в Закон Республики Казахстан "О мерах защиты внутреннего рынка при импорте товаров"
+    kaz: '"Тауарлар импорты жағдайында ішкі рынокты қорғау шаралары туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/3906/rus
