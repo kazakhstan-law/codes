@@ -1,0 +1,18 @@
+act_code: '82355'
+requisite: Указ Пpезидента Республики Казахстан от 23 маpта 1995 г. N 2147 Имеющий силу закона
+title:
+  rus: Об актах Веpховного Совета Республики Казахстан
+  kaz: Қазақстан Республикасы Жоғарғы Кеңесiнiң актiлерi туралы
+form: УЗАК
+type_codes:
+- УЗАК
+- УКАЗ
+approved_on: 1995-03-23
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1995-03-23
+  rus: 1995-03-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/82355/kaz/23.03.1995
+  rus: https://zan.gov.kz/client/#!/doc/82355/rus/23.03.1995
