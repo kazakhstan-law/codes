@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11/rus/10.03.2004
+source: https://zan.gov.kz/client/#!/doc/11/rus/09.12.2004
 ---
 
 # Уголовно-исполнительный кодекс Республики Казахстан
