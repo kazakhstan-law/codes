@@ -1,0 +1,15 @@
+act_code: '104094'
+requisite: Закон Республики Казахстан от 18 янваpя 1992 года. Утратил силу Законом Республики Казахстан от 7 июня 1999 года № 390
+title:
+  rus: ОБ ОБРАЗОВАНИИ
+  kaz: ОБ ОБРАЗОВАНИИ
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1992-01-18
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1997-01-27
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104094/rus/27.01.1997
