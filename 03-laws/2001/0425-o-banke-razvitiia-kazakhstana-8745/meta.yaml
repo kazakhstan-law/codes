@@ -1,0 +1,17 @@
+act_code: '8745'
+requisite: Закон Республики Казахстан от 25 апреля 2001 года № 178
+title:
+  rus: О Банке Развития Казахстана
+  kaz: Қазақстанның Даму Банкі туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2001-04-25
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2001-04-24
+  rus: 2001-04-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/8745/kaz/24.04.2001
+  rus: https://zan.gov.kz/client/#!/doc/8745/rus/24.04.2001
