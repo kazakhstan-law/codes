@@ -1,0 +1,17 @@
+act_code: '3944'
+requisite: Указ Президента Республики Казахстан от 15 сентября 1995 г. N 2457 имеющий силу Закона
+title:
+  rus: О столице Республики Казахстан
+  kaz: Қазақстан Республикасының астанасы туралы
+form: УЗАК
+type_codes:
+- УЗАК
+approved_on: 1995-09-14
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1995-09-14
+  rus: 1995-09-14
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/3944/kaz/14.09.1995
+  rus: https://zan.gov.kz/client/#!/doc/3944/rus/14.09.1995
