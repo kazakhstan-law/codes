@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104454/rus/24.12.2001
+source: https://zan.gov.kz/client/#!/doc/104454/rus/08.08.2002
 ---
 
 # Об охране окружающей среды
