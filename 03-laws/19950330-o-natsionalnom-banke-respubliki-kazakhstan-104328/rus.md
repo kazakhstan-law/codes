@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104328/rus/02.05.2001
+source: https://zan.gov.kz/client/#!/doc/104328/rus/08.07.2003
 ---
 
 # О Национальном Банке Республики Казахстан
