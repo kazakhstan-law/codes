@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104469/kaz/09.07.2003
+source: https://zan.gov.kz/client/#!/doc/104469/kaz/29.11.2003
 ---
 
 # Қазақстан Республикасында зейнетақымен қамсыздандыру туралы
