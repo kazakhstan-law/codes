@@ -17,6 +17,11 @@ caused_by:
   title: Об охране, воспроизводстве и использовании животного мира
   link: https://zan.gov.kz/client/#!/doc/20605/rus
 source: https://zan.gov.kz/client/#!/doc/104196/rus
+repealed_on: 2004-09-06
+repealed_by:
+  code: '20605'
+  title: Об охране, воспроизводстве и использовании животного мира
+  link: https://zan.gov.kz/client/#!/doc/20605/rus
 ---
 
 # Об охране, воспроизводстве и использовании животного мира
