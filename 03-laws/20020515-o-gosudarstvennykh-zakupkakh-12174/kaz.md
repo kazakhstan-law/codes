@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12174/kaz/04.07.2004
+source: https://zan.gov.kz/client/#!/doc/12174/kaz/08.07.2004
 ---
 
 # Мемлекеттік сатып алу туралы
