@@ -1,0 +1,17 @@
+act_code: '104201'
+requisite: Закон Республики Казахстан от 16 июня 1997 года № 127-I
+title:
+  rus: О мобилизационной подготовке и мобилизации
+  kaz: Жұмылдыру дайындығы мен жұмылдыру туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1997-06-16
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1997-06-15
+  rus: 1997-06-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/104201/kaz/15.06.1997
+  rus: https://zan.gov.kz/client/#!/doc/104201/rus/15.06.1997
