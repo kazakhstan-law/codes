@@ -1,0 +1,15 @@
+act_code: '4'
+requisite: Конституционный закон Республики Казахстан от 28 сентября 1995 года N 2464
+title:
+  rus: О выборах в Республике Казахстан
+  kaz: Қазақстан Республикасындағы сайлау туралы
+form: КЗАК
+type_codes:
+- КЗАК
+approved_on: 1995-09-28
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1995-09-28
+source:
+  rus: https://zan.gov.kz/client/#!/doc/4/rus/28.09.1995
