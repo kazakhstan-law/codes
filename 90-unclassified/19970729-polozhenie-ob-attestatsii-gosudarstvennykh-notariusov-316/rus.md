@@ -1,5 +1,5 @@
 ---
-version_id: AI316_0
+version_id: AI316_1
 act_code: '316'
 language: rus
 title: Положение "Об аттестации государственных нотариусов"
@@ -10,12 +10,16 @@ type_codes:
 approved_by:
 - '103001000000'
 approval_date: 1997-07-29
-version_date: 1997-07-29
+version_date: 1997-11-24
 registry_number: '316'
-source: https://zan.gov.kz/client/#!/doc/316/rus/29.07.1997
+caused_by:
+  code: '4784'
+  title: Об утверждении Положения "Об аттестации государственных нотариусов"
+  link: https://zan.gov.kz/client/#!/doc/4784/rus
+source: https://zan.gov.kz/client/#!/doc/316/rus/24.11.1997
 ---
 
-# Положение об аттестации государственных нотариусов Республики Казахстан
+# Положение "Об аттестации государственных нотариусов"
 
 I. Общие положения
 
