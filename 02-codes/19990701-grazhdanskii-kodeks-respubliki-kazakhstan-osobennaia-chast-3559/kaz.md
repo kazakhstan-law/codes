@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3559/kaz/27.02.2004
+source: https://zan.gov.kz/client/#!/doc/3559/kaz/10.03.2004
 ---
 
 # Қазақстан Республикасының азаматтық кодексі
