@@ -1,0 +1,17 @@
+act_code: '104337'
+requisite: Закон Республики Казахстан от 14 июля 1994 года N 137-ХIII
+title:
+  rus: Об уточненном республиканском бюджете на 1994 год
+  kaz: 1994 жылға арналған нақтыланған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1994-07-13
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1994-10-13
+  rus: 1994-10-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/104337/kaz/13.10.1994
+  rus: https://zan.gov.kz/client/#!/doc/104337/rus/13.10.1994
