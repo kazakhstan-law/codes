@@ -1,0 +1,24 @@
+key: Z010000144_
+akn: /akn/kz/act/2001-01-19/Z010000144_
+act_code: '7896'
+requisite: Закон Республики Казахстан от 19 января 2001 года N 144-II. Утратил силу Законом Республики Казахстан от 7 июля 2006 года N 173
+title:
+  rus: О конкуренции и ограничении монополистической деятельности
+  kaz: Бәсеке және монополистік қызметті шектеу туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2001-01-19
+approved_by:
+- '102000000000'
+versions:
+- date: 2001-01-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2001-01-19
+  rus: 2001-01-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7896/kaz/19.01.2001
+  rus: https://zan.gov.kz/client/#!/doc/7896/rus/19.01.2001

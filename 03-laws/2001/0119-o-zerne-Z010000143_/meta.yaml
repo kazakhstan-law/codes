@@ -1,0 +1,21 @@
+key: Z010000143_
+akn: /akn/kz/act/2001-01-19/Z010000143_
+act_code: '7895'
+requisite: Закон Республики Казахстан от 19 января 2001 года № 143
+title:
+  rus: О зерне
+  kaz: Астық туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2001-01-19
+approved_by:
+- '102000000000'
+versions:
+- date: 2001-01-19
+  languages:
+  - rus
+version_date:
+  rus: 2001-01-19
+source:
+  rus: https://zan.gov.kz/client/#!/doc/7895/rus/19.01.2001
