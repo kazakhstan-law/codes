@@ -1,0 +1,17 @@
+act_code: '13736'
+requisite: Указ Президента Республики Казахстан от 10 декабря 2002 года № 992
+title:
+  rus: О создании Национального центра по правам человека
+  kaz: Адам құқықтары жөнiндегі ұлттық орталық құру туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2002-12-10
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2002-12-10
+  rus: 2002-12-10
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/13736/kaz/10.12.2002
+  rus: https://zan.gov.kz/client/#!/doc/13736/rus/10.12.2002
