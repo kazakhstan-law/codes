@@ -1,0 +1,15 @@
+act_code: '8001'
+requisite: Закон Республики Казахстан от 24 января 2001 года N 152-ІІ. Утратил силу - Законом РК от 8 июля 2003 года N 479
+title:
+  rus: О земле
+  kaz: Жер туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2001-01-24
+approved_by:
+- '102000000000'
+version_date:
+  rus: 2001-01-24
+source:
+  rus: https://zan.gov.kz/client/#!/doc/8001/rus/24.01.2001
