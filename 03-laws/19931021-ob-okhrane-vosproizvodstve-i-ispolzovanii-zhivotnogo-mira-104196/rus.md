@@ -1,5 +1,5 @@
 ---
-version_id: AI104196_5
+version_id: AI104196_6
 act_code: '104196'
 language: rus
 title: Об охране, воспроизводстве и использовании животного мира
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 1993-10-21
-version_date: 2001-12-24
+version_date: 2004-07-08
 registry_number: '104196'
 caused_by:
-  code: '10768'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан в связи с принятием Кодекса Республики Казахстан "О налогах и других обязательных платежах в бюджет" (Налоговый кодекс)
-  link: https://zan.gov.kz/client/#!/doc/10768/rus
-source: https://zan.gov.kz/client/#!/doc/104196/rus/24.12.2001
+  code: '20605'
+  title: Об охране, воспроизводстве и использовании животного мира
+  link: https://zan.gov.kz/client/#!/doc/20605/rus
+source: https://zan.gov.kz/client/#!/doc/104196/rus
 ---
 
 # Об охране, воспроизводстве и использовании животного мира
