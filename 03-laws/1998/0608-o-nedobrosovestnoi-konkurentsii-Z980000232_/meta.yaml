@@ -15,7 +15,24 @@ versions:
 - date: 1998-06-08
   languages:
   - rus
+- date: 2000-12-15
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '7831'
+    key: Z000000125_
 version_date:
-  rus: 1998-06-08
+  kaz: 2000-12-15
+  rus: 2000-12-15
 source:
-  rus: https://zan.gov.kz/client/#!/doc/843/rus/08.06.1998
+  kaz: https://zan.gov.kz/client/#!/doc/843/kaz/15.12.2000
+  rus: https://zan.gov.kz/client/#!/doc/843/rus/15.12.2000
+caused_by:
+  code: '7831'
+  key: Z000000125_
+  requisite: Закон Республики Казахстан от 15 декабря 2000 года № 125-II
+  title:
+    rus: О внесении изменений и дополнений в Закон Республики Казахстан "О недобросовестной конкуренции"
+    kaz: '"Теріс пиғылды бәсеке туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/7831/rus
