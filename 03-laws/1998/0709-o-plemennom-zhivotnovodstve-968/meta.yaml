@@ -1,0 +1,17 @@
+act_code: '968'
+requisite: Закон Республики Казахстан от 9 июля 1998 года № 278
+title:
+  rus: О племенном животноводстве
+  kaz: Асыл тұқымды мал шаруашылығы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1998-07-09
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1998-07-08
+  rus: 1998-07-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/968/kaz/08.07.1998
+  rus: https://zan.gov.kz/client/#!/doc/968/rus/08.07.1998
