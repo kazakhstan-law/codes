@@ -1,0 +1,17 @@
+act_code: '104463'
+requisite: Закон Республики Казахстан от 7 июля 1997 года N 150
+title:
+  rus: О судебных приставах
+  kaz: Сот приставтары туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1997-07-07
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1997-07-06
+  rus: 1997-07-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/104463/kaz/06.07.1997
+  rus: https://zan.gov.kz/client/#!/doc/104463/rus/06.07.1997
