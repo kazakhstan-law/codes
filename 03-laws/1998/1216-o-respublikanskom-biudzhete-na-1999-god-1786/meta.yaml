@@ -1,0 +1,15 @@
+act_code: '1786'
+requisite: Закон Республики Казахстан от 16 декабря 1998 года N 318
+title:
+  rus: О республиканском бюджете на 1999 год
+  kaz: 1999 жылға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1998-12-16
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1998-12-16
+source:
+  rus: https://zan.gov.kz/client/#!/doc/1786/rus/16.12.1998
