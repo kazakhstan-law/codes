@@ -1,0 +1,17 @@
+act_code: '4031'
+requisite: Указ Президента Республики Казахстан от 21 декабря 1995 г. N 2700 имеющий силу Закона
+title:
+  rus: О республиканском бюджете на 1996 год
+  kaz: 1996 жылға арналған республикалық бюджет туралы
+form: УЗАК
+type_codes:
+- УЗАК
+approved_on: 1995-12-21
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1995-12-21
+  rus: 1995-12-21
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/4031/kaz/21.12.1995
+  rus: https://zan.gov.kz/client/#!/doc/4031/rus/21.12.1995
