@@ -17,6 +17,11 @@ caused_by:
   title: Об утверждении Положения "Об аттестации государственных нотариусов"
   link: https://zan.gov.kz/client/#!/doc/4784/rus
 source: https://zan.gov.kz/client/#!/doc/316/rus/24.11.1997
+repealed_on: 1997-11-29
+repealed_by:
+  code: '4784'
+  title: Об утверждении Положения "Об аттестации государственных нотариусов"
+  link: https://zan.gov.kz/client/#!/doc/4784/rus
 ---
 
 # Положение "Об аттестации государственных нотариусов"
