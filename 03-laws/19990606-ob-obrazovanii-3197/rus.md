@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3197/rus/06.06.1999
+source: https://zan.gov.kz/client/#!/doc/3197/rus/22.11.1999
 ---
 
 # Об образовании
