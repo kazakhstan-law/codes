@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104432/rus/10.07.2001
+source: https://zan.gov.kz/client/#!/doc/104432/rus/24.12.2001
 ---
 
 # О БАНКРОТСТВЕ

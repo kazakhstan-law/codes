@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/104454/kaz/03.06.2001
+source: https://zan.gov.kz/client/#!/doc/104454/kaz/24.12.2001
 ---
 
 ## 77-бап. Қоршаған ортаны қорғау саласындағы мемлекеттiк бақылау

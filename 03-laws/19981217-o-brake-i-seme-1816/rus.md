@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1816/rus/17.12.1998
+source: https://zan.gov.kz/client/#!/doc/1816/rus/24.12.2001
 ---
 
 # О браке и семье
