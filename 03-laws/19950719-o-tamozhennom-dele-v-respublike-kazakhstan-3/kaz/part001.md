@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/3/kaz/04.07.2001
+source: https://zan.gov.kz/client/#!/doc/3/kaz/09.10.2001
 ---
 
 ## 3-бап. Қазақстан Республикасының кеден аумағы мен кеден шекарасы

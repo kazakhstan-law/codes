@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3/kaz/04.07.2001
+source: https://zan.gov.kz/client/#!/doc/3/kaz/09.10.2001
 ---
 
 # Қазақстан Республикасындағы кеден iсi туралы Қазақстан Республикасының Заңы <*>

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104469/rus/15.07.2001
+source: https://zan.gov.kz/client/#!/doc/104469/rus/09.10.2001
 ---
 
 # О ПЕНСИОННОМ ОБЕСПЕЧЕНИИ В РЕСПУБЛИКЕ КАЗАХСТАН

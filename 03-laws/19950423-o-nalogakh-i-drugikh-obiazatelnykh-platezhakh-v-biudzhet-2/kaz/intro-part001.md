@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/2/kaz/15.07.2001
+source: https://zan.gov.kz/client/#!/doc/2/kaz/09.10.2001
 ---
 
 ## 16-бап. Алынған кредит (займ) үшiн сыйақы (мүдде)
