@@ -1,0 +1,15 @@
+act_code: '104941'
+requisite: Закон Республики Казахстан от 19 июня 1995 года № 2337
+title:
+  rus: О правовом положении иностранцев
+  kaz: Шетелдiктердiң құқықтық жағдайы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1995-06-19
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1995-06-18
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104941/rus/18.06.1995
