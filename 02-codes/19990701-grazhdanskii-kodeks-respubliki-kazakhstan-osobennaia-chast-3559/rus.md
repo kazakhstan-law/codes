@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3559/rus/30.06.1999
+source: https://zan.gov.kz/client/#!/doc/3559/rus/29.11.1999
 ---
 
 # Гражданский кодекс Республики Казахстан (особенная часть)
