@@ -1,0 +1,17 @@
+act_code: '6585'
+requisite: Указ Президента Республики Казахстан от 28 июля 2000 года N 421
+title:
+  rus: Об упразднении специальной экономической зоны города Астаны
+  kaz: Астана қаласының арнайы экономикалық аймағын тарату туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2000-07-27
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2000-07-27
+  rus: 2000-07-27
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/6585/kaz/27.07.2000
+  rus: https://zan.gov.kz/client/#!/doc/6585/rus/27.07.2000
