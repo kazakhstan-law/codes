@@ -1,0 +1,21 @@
+key: Z980000341_
+akn: /akn/kz/act/1998-12-30/Z980000341_
+act_code: '1892'
+requisite: Закон Республики Казахстан от 30 декабря 1998 года № 341-I. Утратил силу Законом Республики Казахстан от 23 января 2001 года № 150
+title:
+  rus: О занятости населения
+  kaz: Халықтың жұмыспен қамтылуы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1998-12-30
+approved_by:
+- '102000000000'
+versions:
+- date: 1998-12-30
+  languages:
+  - rus
+version_date:
+  rus: 1998-12-30
+source:
+  rus: https://zan.gov.kz/client/#!/doc/1892/rus/30.12.1998
