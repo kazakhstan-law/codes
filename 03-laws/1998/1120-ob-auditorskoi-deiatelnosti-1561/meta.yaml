@@ -1,0 +1,15 @@
+act_code: '1561'
+requisite: Закон Республики Казахстан от 20 ноября 1998 года № 304-I
+title:
+  rus: Об аудиторской деятельности
+  kaz: Аудиторлық қызмет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1998-11-20
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1998-11-20
+source:
+  rus: https://zan.gov.kz/client/#!/doc/1561/rus/20.11.1998
