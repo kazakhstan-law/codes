@@ -1,5 +1,5 @@
 ---
-version_id: AI104334_16
+version_id: AI104334_17
 act_code: '104334'
 language: kaz
 title: Жедел-iздестiру қызметi туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 1994-09-15
-version_date: 2004-12-28
+version_date: 2004-12-29
 registry_number: '104334'
 caused_by:
   code: '22403'
   title: Қазақстан Республикасының кейбiр заңнамалық актiлерiне әдiлет органдары мәселелерi бойынша өзгерiстер мен толықтырулар енгізу туралы
   link: https://zan.gov.kz/client/#!/doc/22403/kaz
-source: https://zan.gov.kz/client/#!/doc/104334/kaz/28.12.2004
+source: https://zan.gov.kz/client/#!/doc/104334/kaz/29.12.2004
 ---
 
 # Жедел-iздестiру қызметi туралы
