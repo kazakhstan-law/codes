@@ -23,17 +23,17 @@ versions:
   cause:
     code: '21994'
     key: U040001478_
+- date: 2005-02-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: U050001518_
 version_date:
-  kaz: 2004-12-01
-  rus: 2004-12-01
+  kaz: 2005-02-11
+  rus: 2005-02-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/19180/kaz/01.12.2004
-  rus: https://zan.gov.kz/client/#!/doc/19180/rus/01.12.2004
+  kaz: https://zan.gov.kz/client/#!/doc/19180/kaz/11.02.2005
+  rus: https://zan.gov.kz/client/#!/doc/19180/rus/11.02.2005
 caused_by:
-  code: '21994'
-  key: U040001478_
-  requisite: Указ Президента Республики Казахстан от 1 декабря 2004 года N 1478
-  title:
-    rus: О внесении изменения в Указ Президента Республики Казахстан от 31 марта 2004 года N 1327
-    kaz: Қазақстан Республикасы Президентінің 2004 жылғы 31 наурыздағы N 1327 Жарлығына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/21994/rus
+  code: U050001518_
