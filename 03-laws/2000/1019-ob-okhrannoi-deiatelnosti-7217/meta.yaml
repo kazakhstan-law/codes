@@ -1,0 +1,17 @@
+act_code: '7217'
+requisite: Закон Республики Казахстан от 19 октября 2000 года № 85
+title:
+  rus: Об охранной деятельности
+  kaz: Күзет қызметі туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2000-10-19
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2000-10-18
+  rus: 2000-10-18
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7217/kaz/18.10.2000
+  rus: https://zan.gov.kz/client/#!/doc/7217/rus/18.10.2000
