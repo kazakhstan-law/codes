@@ -10,15 +10,15 @@ approved_on: 2001-01-19
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2001-07-10
-  rus: 2001-07-10
+  kaz: 2003-10-12
+  rus: 2003-10-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7895/kaz/10.07.2001
-  rus: https://zan.gov.kz/client/#!/doc/7895/rus/10.07.2001
+  kaz: https://zan.gov.kz/client/#!/doc/7895/kaz/12.10.2003
+  rus: https://zan.gov.kz/client/#!/doc/7895/rus/12.10.2003
 caused_by:
-  code: '9487'
-  requisite: Закон Республики Казахстан от 11 июля 2001 года № 231-II
+  code: '17240'
+  requisite: Закон Республики Казахстан от 13 октября 2003 года N 488
   title:
-    rus: О внесении изменений в Закон Республики Казахстан "О зерне"
-    kaz: '"Астық туралы" Қазақстан Республикасының Заңына өзгерістер енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/9487/rus
+    rus: О внесении изменений и дополнений в Закон Республики Казахстан "О зерне"
+    kaz: '"Астық туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/17240/rus
