@@ -10,8 +10,15 @@ approved_on: 2002-05-17
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2002-05-16
-  rus: 2002-05-16
+  kaz: 2004-09-05
+  rus: 2004-09-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/12134/kaz/16.05.2002
-  rus: https://zan.gov.kz/client/#!/doc/12134/rus/16.05.2002
+  kaz: https://zan.gov.kz/client/#!/doc/12134/kaz/05.09.2004
+  rus: https://zan.gov.kz/client/#!/doc/12134/rus/05.09.2004
+caused_by:
+  code: '21157'
+  requisite: Указ Президента Республики Казахстан от 6 сентября 2004 года N 1434
+  title:
+    rus: О внесении дополнений в Указ Президента Республики Казахстан от 17 мая 2002 года N 873
+    kaz: Қазақстан Республикасы Президентінің 2002 жылғы 17 мамырдағы N 873 Жарлығына толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/21157/rus
