@@ -10,15 +10,10 @@ approved_on: 1997-12-13
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2003-09-24
-  rus: 2003-09-24
+  kaz: 2004-03-10
+  rus: 2004-03-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/9/kaz/24.09.2003
-  rus: https://zan.gov.kz/client/#!/doc/9/rus/24.09.2003
+  kaz: https://zan.gov.kz/client/#!/doc/9/kaz/10.03.2004
+  rus: https://zan.gov.kz/client/#!/doc/9/rus/10.03.2004
 caused_by:
-  code: '17059'
-  requisite: Закон Республики Казахстан от 25 сентября 2003 года N 484
-  title:
-    rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам борьбы с коррупцией
-    kaz: Қазақстан Республикасының кейбiр заң актiлерiне сыбайлас жемқорлыққа қарсы күрес мәселелерi бойынша өзгерiстер мен толықтырулар енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/17059/rus
+  code: P040000529_
