@@ -1,0 +1,15 @@
+act_code: '104442'
+requisite: Закон Республики Казахстан от 5 марта 1997 года N 77. Утратил силу - Законом РК от 2 июля 2003 года N 461
+title:
+  rus: О рынке ценных бумаг
+  kaz: Бағалы қағаздар рыногы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1997-03-05
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1997-03-05
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104442/rus/05.03.1997
