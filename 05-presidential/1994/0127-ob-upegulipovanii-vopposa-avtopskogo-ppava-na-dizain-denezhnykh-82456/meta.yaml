@@ -1,0 +1,17 @@
+act_code: '82456'
+requisite: УКАЗ Пpезидента Республики Казахстан от 27 янваpя 1994 г. № 1528
+title:
+  rus: Об уpегулиpовании вопpоса автоpского пpава на дизайн денежных знаков
+  kaz: Ақша белгiлерi дизайнына авторлық құқық мәселесiн реттеу туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 1994-01-27
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1994-01-27
+  rus: 1994-01-27
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/82456/kaz/27.01.1994
+  rus: https://zan.gov.kz/client/#!/doc/82456/rus/27.01.1994
