@@ -33,10 +33,16 @@ versions:
   cause:
     code: '12245'
     key: V020001863_
+- date: 2002-05-26
+  languages:
+  - kaz
+  cause:
+    code: '12245'
+    key: V020001863_
 version_date:
-  rus: 2002-04-12
+  kaz: 2002-05-26
 source:
-  rus: https://zan.gov.kz/client/#!/doc/4611/rus/12.04.2002
+  kaz: https://zan.gov.kz/client/#!/doc/4611/kaz/26.05.2002
 caused_by:
   code: '12245'
   key: V020001863_
