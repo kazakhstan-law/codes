@@ -1,0 +1,15 @@
+act_code: '104249'
+requisite: Закон Республики Казахстан от 26 июня 1992 года. Утратил силу - Законом РК от 13 декабря 1997 года N 205
+title:
+  rus: ОБ ИММИГРАЦИИ
+  kaz: ОБ ИММИГРАЦИИ
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1992-06-25
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1992-06-25
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104249/rus/25.06.1992
