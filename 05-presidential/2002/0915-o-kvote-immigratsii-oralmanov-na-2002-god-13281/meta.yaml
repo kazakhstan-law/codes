@@ -10,8 +10,15 @@ approved_on: 2002-09-15
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2002-09-15
-  rus: 2002-09-15
+  kaz: 2002-10-15
+  rus: 2002-10-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/13281/kaz/15.09.2002
-  rus: https://zan.gov.kz/client/#!/doc/13281/rus/15.09.2002
+  kaz: https://zan.gov.kz/client/#!/doc/13281/kaz/15.10.2002
+  rus: https://zan.gov.kz/client/#!/doc/13281/rus/15.10.2002
+caused_by:
+  code: '13494'
+  requisite: Указ Президента Республики Казахстан от 16 октября 2002 года N 964
+  title:
+    rus: О внесении изменения в Указ Президента Республики Казахстан от 16 сентября 2002 года N 945
+    kaz: Қазақстан Республикасы Президентінің 2002 жылғы 16 қыркүйектегі N 945 Жарлығына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/13494/rus
