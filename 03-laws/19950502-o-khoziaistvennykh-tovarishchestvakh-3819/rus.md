@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3819/rus/07.12.1996
+source: https://zan.gov.kz/client/#!/doc/3819/rus/18.06.1997
 ---
 
 # О хозяйственных товариществах

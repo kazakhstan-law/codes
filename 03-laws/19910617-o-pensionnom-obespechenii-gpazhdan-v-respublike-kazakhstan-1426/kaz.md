@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1426/kaz/15.07.1996
+source: https://zan.gov.kz/client/#!/doc/1426/kaz/18.06.1997
 ---
 
 # Қазақстан Республикасында азаматтарды зейнетақымен қамтамасыз ету туралы
