@@ -1,0 +1,15 @@
+act_code: '104093'
+requisite: Закон Республики Казахстан от 3 июля 1992 года № 1508-XII. Утратил силу Законом Республики Казахстан от 13 июня 2001 года № 212
+title:
+  rus: О туpизме
+  kaz: О туpизме
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1992-07-02
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1993-04-07
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104093/rus/07.04.1993
