@@ -31,11 +31,27 @@ versions:
   - rus
   cause:
     code: '8802'
+- date: 2002-09-23
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '13233'
+    key: U020000951_
+  also_caused_by:
+  - code: '13262'
+    key: U020000802_
 version_date:
-  kaz: 2001-05-11
-  rus: 2001-05-11
+  kaz: 2002-09-23
+  rus: 2002-09-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2335/kaz/11.05.2001
-  rus: https://zan.gov.kz/client/#!/doc/2335/rus/11.05.2001
+  kaz: https://zan.gov.kz/client/#!/doc/2335/kaz/23.09.2002
+  rus: https://zan.gov.kz/client/#!/doc/2335/rus/23.09.2002
 caused_by:
-  code: '8802'
+  code: '13233'
+  key: U020000951_
+  requisite: Указ Президента Республики Казахстан от 24 сентября 2002 года N 951
+  title:
+    rus: О внесении изменений и дополнений в некоторые Указы Президента Республики Казахстан
+    kaz: Қазақстан Республикасы Президентiнiң кейбiр Жарлықтарына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/13233/rus
