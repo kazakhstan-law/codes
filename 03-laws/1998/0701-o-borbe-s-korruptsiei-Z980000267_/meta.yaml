@@ -27,15 +27,21 @@ versions:
   cause:
     code: '5874'
     key: Z000000046_
+- date: 2001-06-07
+  languages:
+  - rus
+  cause:
+    code: '9128'
+    key: Z010000206_
 version_date:
-  rus: 2000-04-27
+  rus: 2001-06-07
 source:
-  rus: https://zan.gov.kz/client/#!/doc/937/rus/27.04.2000
+  rus: https://zan.gov.kz/client/#!/doc/937/rus/07.06.2001
 caused_by:
-  code: '5874'
-  key: Z000000046_
-  requisite: Закон Республики Казахстан от 28 апреля 2000 года N 46
+  code: '9128'
+  key: Z010000206_
+  requisite: Закон Республики Казахстан от 8 июня 2001 года № 206-ІІ
   title:
     rus: О внесении дополнения в Закон Республики Казахстан "О борьбе с коррупцией"
     kaz: '"Сыбайлас жемқорлыққа қарсы күрес туралы" Қазақстан Республикасының Заңына толықтыру енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/5874/rus
+  link: https://zan.gov.kz/client/#!/doc/9128/rus
