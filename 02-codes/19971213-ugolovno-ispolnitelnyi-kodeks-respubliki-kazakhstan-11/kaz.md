@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11/kaz/24.12.2001
+source: https://zan.gov.kz/client/#!/doc/11/kaz/21.12.2002
 ---
 
 # ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ҚЫЛМЫСТЫҚ-АТҚАРУ КОДЕКСI
