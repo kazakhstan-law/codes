@@ -1,0 +1,15 @@
+act_code: '104323'
+requisite: Закон Республики Казахстан от 5 октября 1995 года N 2486
+title:
+  rus: О производственном кооперативе
+  kaz: Өндiрiстiк кооператив туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1995-10-05
+approved_by:
+- '101000000000'
+version_date:
+  rus: 1996-07-14
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104323/rus/14.07.1996
