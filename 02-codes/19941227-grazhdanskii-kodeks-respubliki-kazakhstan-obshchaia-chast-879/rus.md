@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/879/rus/04.11.1999
+source: https://zan.gov.kz/client/#!/doc/879/rus/08.11.2000
 ---
 
 # ГРАЖДАНСКИЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
