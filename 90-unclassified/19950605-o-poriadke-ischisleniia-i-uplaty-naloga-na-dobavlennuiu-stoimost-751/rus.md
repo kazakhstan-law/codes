@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/751/rus/20.03.1998
+source: https://zan.gov.kz/client/#!/doc/751/rus/21.05.1998
 ---
 
 # О порядке исчисления и уплаты налога на добавленную стоимость
