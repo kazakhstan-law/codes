@@ -15,7 +15,14 @@ versions:
 - date: 1995-11-14
   languages:
   - rus
+- date: 1995-12-14
+  languages:
+  - rus
+  cause:
+    code: U950002636_
 version_date:
-  rus: 1995-11-14
+  rus: 1995-12-14
 source:
-  rus: https://zan.gov.kz/client/#!/doc/104233/rus/14.11.1995
+  rus: https://zan.gov.kz/client/#!/doc/104233/rus/14.12.1995
+caused_by:
+  code: U950002636_
