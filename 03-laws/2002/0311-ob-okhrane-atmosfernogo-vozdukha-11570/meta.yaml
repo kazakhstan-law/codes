@@ -1,0 +1,17 @@
+act_code: '11570'
+requisite: Закон Республики Казахстан от 11 марта 2002 года N 302. Утратил силу Кодексом Республики Казахстан от 9 января 2007 года N 212
+title:
+  rus: Об охране атмосферного воздуха
+  kaz: Атмосфералық ауаны қорғау туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2002-03-11
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2002-03-11
+  rus: 2002-03-11
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/11570/kaz/11.03.2002
+  rus: https://zan.gov.kz/client/#!/doc/11570/rus/11.03.2002
