@@ -1,0 +1,15 @@
+act_code: '104421'
+requisite: Закон Республики Казахстан от 31 декабря 1996 года N 59-1
+title:
+  rus: О РЕСПУБЛИКАНСКОМ БЮДЖЕТЕ НА 1997 ГОД
+  kaz: 1997 жылға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1996-12-31
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1996-12-31
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104421/rus/31.12.1996
