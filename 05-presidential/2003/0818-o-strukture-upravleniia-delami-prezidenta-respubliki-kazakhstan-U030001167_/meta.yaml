@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2004-03-17
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '19020'
+    key: U040001308_
 version_date:
-  kaz: 2003-08-17
-  rus: 2003-08-17
+  kaz: 2004-03-17
+  rus: 2004-03-17
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/16614/kaz/17.08.2003
-  rus: https://zan.gov.kz/client/#!/doc/16614/rus/17.08.2003
+  kaz: https://zan.gov.kz/client/#!/doc/16614/kaz/17.03.2004
+  rus: https://zan.gov.kz/client/#!/doc/16614/rus/17.03.2004
+caused_by:
+  code: '19020'
+  key: U040001308_
+  requisite: Указ Президента Республики Казахстан от 17 марта 2004 года N 1308
+  title:
+    rus: Об отдельных вопросах Управления делами Президента Республики Казахстан
+    kaz: Қазақстан Республикасы Президенті Іс басқармасының жекелеген мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/19020/rus
