@@ -1,0 +1,17 @@
+act_code: '14828'
+requisite: Указ Президента Республики Казахстан от 10 февраля 2003 года N 1017
+title:
+  rus: О квоте иммиграции оралманов на 2003 год
+  kaz: Оралмандардың 2003 жылға арналған көшіп келу квотасы туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2003-02-10
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2003-02-10
+  rus: 2003-02-10
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/14828/kaz/10.02.2003
+  rus: https://zan.gov.kz/client/#!/doc/14828/rus/10.02.2003
