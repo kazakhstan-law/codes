@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3/rus/06.12.2001
+source: https://zan.gov.kz/client/#!/doc/3/rus/21.03.2002
 ---
 
 # О таможенном деле в Республике Казахстан
