@@ -1,0 +1,17 @@
+act_code: '18187'
+requisite: Закон Республики Казахстан от 13 января 2004 года № 522. Утратил силу Кодексом Республики Казахстан от 18 сентября 2009 года № 193-IV
+title:
+  rus: О лекарственных средствах
+  kaz: Дәрiлiк заттар туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2004-01-13
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2004-01-13
+  rus: 2004-01-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/18187/kaz/13.01.2004
+  rus: https://zan.gov.kz/client/#!/doc/18187/rus/13.01.2004
