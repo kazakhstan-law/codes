@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104432/kaz/08.08.2002
+source: https://zan.gov.kz/client/#!/doc/104432/kaz/13.03.2003
 ---
 
 # Банкроттық туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104432/rus/08.08.2002
+source: https://zan.gov.kz/client/#!/doc/104432/rus/13.03.2003
 ---
 
 # О банкротстве
