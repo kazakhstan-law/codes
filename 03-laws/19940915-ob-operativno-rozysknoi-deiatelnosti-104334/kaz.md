@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104334/kaz/28.12.2004
+source: https://zan.gov.kz/client/#!/doc/104334/kaz/29.12.2004
 ---
 
 # Жедел-iздестiру қызметi туралы
