@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104458/rus/04.05.2003
+source: https://zan.gov.kz/client/#!/doc/104458/rus/10.06.2003
 ---
 
 # О нотариате
