@@ -1,0 +1,17 @@
+act_code: '3945'
+requisite: Указ Президента Республики Казахстан, имеющий силу Закона от 3 октября 1995 г. № 2475. Утратил силу - Законом Республики Казахстан от 18 декабря 2000 года № 127-II
+title:
+  rus: О страховании
+  kaz: Сақтандыру туралы
+form: УЗАК
+type_codes:
+- УЗАК
+approved_on: 1995-10-03
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1995-10-03
+  rus: 1995-10-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/3945/kaz/03.10.1995
+  rus: https://zan.gov.kz/client/#!/doc/3945/rus/03.10.1995
