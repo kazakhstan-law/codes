@@ -10,6 +10,15 @@ approved_on: 1998-04-22
 approved_by:
 - '102000000000'
 version_date:
-  rus: 1998-04-21
+  kaz: 1999-07-15
+  rus: 1999-07-15
 source:
-  rus: https://zan.gov.kz/client/#!/doc/529/rus/21.04.1998
+  kaz: https://zan.gov.kz/client/#!/doc/529/kaz/15.07.1999
+  rus: https://zan.gov.kz/client/#!/doc/529/rus/15.07.1999
+caused_by:
+  code: '3657'
+  requisite: Закон Республики Казахстан от 16 июля 1999 года N 436
+  title:
+    rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан
+    kaz: Қазақстан Республикасының кейбір заң актілеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/3657/rus
