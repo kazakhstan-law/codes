@@ -1,0 +1,17 @@
+act_code: '229'
+requisite: Закон Республики Казахстан от 24 марта 1998 года № 213. Утратил силу Законом Республики Казахстан от 6 апреля 2016 года № 480-V
+title:
+  rus: О нормативных правовых актах
+  kaz: Нормативтiк құқықтық актiлер туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1998-03-24
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1998-03-24
+  rus: 1998-03-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229/kaz/24.03.1998
+  rus: https://zan.gov.kz/client/#!/doc/229/rus/24.03.1998
