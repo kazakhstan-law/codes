@@ -1,0 +1,17 @@
+act_code: '1816'
+requisite: Закон Республики Казахстан от 17 декабря 1998 года № 321-I. Утратил силу Кодексом Республики Казахстан от 26 декабря 2011 года № 518-IV
+title:
+  rus: О браке и семье
+  kaz: Неке және отбасы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1998-12-17
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1998-12-17
+  rus: 1998-12-17
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/1816/kaz/17.12.1998
+  rus: https://zan.gov.kz/client/#!/doc/1816/rus/17.12.1998
