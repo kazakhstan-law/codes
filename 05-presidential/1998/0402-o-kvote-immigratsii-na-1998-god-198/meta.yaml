@@ -1,0 +1,17 @@
+act_code: '198'
+requisite: Указ Президента Республики Казахстан от 3 апреля 1998 года № 3894
+title:
+  rus: О квоте иммиграции на 1998 год
+  kaz: 1998 жылға арналған көшiп келу квотасы туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 1998-04-02
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1998-04-02
+  rus: 1998-04-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/198/kaz/02.04.1998
+  rus: https://zan.gov.kz/client/#!/doc/198/rus/02.04.1998
