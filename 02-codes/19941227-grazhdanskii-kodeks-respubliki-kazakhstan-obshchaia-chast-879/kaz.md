@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/879/kaz/20.05.2002
+source: https://zan.gov.kz/client/#!/doc/879/kaz/07.01.2003
 ---
 
 # ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ АЗАМАТТЫҚ КОДЕКСI ЖАЛПЫ БӨЛIМ
