@@ -1,0 +1,17 @@
+act_code: '17331'
+requisite: Указ Президента Республики Казахстан от 31 октября 2003 года N 1216
+title:
+  rus: О квоте иммиграции оралманов на 2004 год
+  kaz: Оралмандардың 2004 жылға арналған көшiп келу квотасы туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2003-10-31
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2003-10-31
+  rus: 2003-10-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/17331/kaz/31.10.2003
+  rus: https://zan.gov.kz/client/#!/doc/17331/rus/31.10.2003
