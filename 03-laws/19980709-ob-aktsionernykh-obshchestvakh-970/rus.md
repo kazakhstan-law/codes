@@ -1,5 +1,5 @@
 ---
-version_id: AI970_7
+version_id: AI970_8
 act_code: '970'
 language: rus
 title: Об акционерных обществах
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 1998-07-09
-version_date: 2002-05-20
+version_date: 2003-05-07
 registry_number: '970'
 caused_by:
-  code: '12175'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам государственного имущества
-  link: https://zan.gov.kz/client/#!/doc/12175/rus
-source: https://zan.gov.kz/client/#!/doc/970/rus/20.05.2002
+  code: '15348'
+  title: Об акционерных обществах
+  link: https://zan.gov.kz/client/#!/doc/15348/rus
+source: https://zan.gov.kz/client/#!/doc/970/rus/07.05.2003
 ---
 
 # Об акционерных обществах
