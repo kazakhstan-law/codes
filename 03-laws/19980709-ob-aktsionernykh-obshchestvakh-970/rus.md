@@ -1,10 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/970/rus/09.07.1998
-repealed_on: 2003-05-12
-repealed_by:
-  code: '970'
-  title: Об акционерных обществах
-  link: https://zan.gov.kz/client/#!/doc/970/rus
+source: https://zan.gov.kz/client/#!/doc/970/rus/15.07.1999
 ---
 
 # ОБ АКЦИОНЕРНЫХ ОБЩЕСТВАХ
