@@ -1,0 +1,17 @@
+act_code: '13281'
+requisite: Указ Президента Республики Казахстан от 16 сентября 2002 года N 945
+title:
+  rus: О квоте иммиграции оралманов на 2002 год
+  kaz: Оралмандардың 2002 жылға арналған көшіп келу квотасы туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2002-09-15
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2002-09-15
+  rus: 2002-09-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/13281/kaz/15.09.2002
+  rus: https://zan.gov.kz/client/#!/doc/13281/rus/15.09.2002
