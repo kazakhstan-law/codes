@@ -33,15 +33,21 @@ versions:
   cause:
     code: '337'
     key: Z970000200_
+- date: 1998-06-28
+  languages:
+  - rus
+  cause:
+    code: '920'
+    key: Z980000236_
 version_date:
-  rus: 1997-12-08
+  rus: 1998-06-28
 source:
-  rus: https://zan.gov.kz/client/#!/doc/104328/rus/08.12.1997
+  rus: https://zan.gov.kz/client/#!/doc/104328/rus/28.06.1998
 caused_by:
-  code: '337'
-  key: Z970000200_
-  requisite: Закон Республики Казахстан от 8 декабря 1997 года № 200-I
+  code: '920'
+  key: Z980000236_
+  requisite: Закон Республики Казахстан от 29 июня 1998 года № 236
   title:
     rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан
     kaz: Қазақстан Республикасының кейбiр заң актiлерiне өзгерiстер мен толықтырулар енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/337/rus
+  link: https://zan.gov.kz/client/#!/doc/920/rus
