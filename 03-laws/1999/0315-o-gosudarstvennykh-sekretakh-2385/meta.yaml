@@ -1,0 +1,15 @@
+act_code: '2385'
+requisite: Закон Республики Казахстан от 15 марта 1999 года № 349-I
+title:
+  rus: О государственных секретах
+  kaz: Мемлекеттік құпиялар туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1999-03-15
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1999-03-15
+source:
+  rus: https://zan.gov.kz/client/#!/doc/2385/rus/15.03.1999
