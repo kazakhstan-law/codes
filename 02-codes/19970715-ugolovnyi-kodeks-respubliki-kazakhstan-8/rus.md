@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8/rus/15.07.1999
+source: https://zan.gov.kz/client/#!/doc/8/rus/22.07.1999
 ---
 
 # УГОЛОВНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
