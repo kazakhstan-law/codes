@@ -1,0 +1,15 @@
+act_code: '7827'
+requisite: Закон Республики Казахстан от 22 декабря 2000 года № 131-II
+title:
+  rus: О республиканском бюджете на 2001 год
+  kaz: 2001 жылға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2000-12-22
+approved_by:
+- '102000000000'
+version_date:
+  rus: 2000-12-22
+source:
+  rus: https://zan.gov.kz/client/#!/doc/7827/rus/22.12.2000
