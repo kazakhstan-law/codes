@@ -1,0 +1,17 @@
+act_code: '14457'
+requisite: Закон Республики Казахстан от 8 февраля 2003 года № 386. Утратил силу Законом Республики Казахстан от 9 апреля 2016 года № 498-V
+title:
+  rus: О почте
+  kaz: Пошта туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2003-02-08
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2003-02-08
+  rus: 2003-02-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/14457/kaz/08.02.2003
+  rus: https://zan.gov.kz/client/#!/doc/14457/rus/08.02.2003
