@@ -10,8 +10,15 @@ approved_on: 2003-12-05
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2003-12-05
-  rus: 2003-12-05
+  kaz: 2004-06-15
+  rus: 2004-06-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/17718/kaz/05.12.2003
-  rus: https://zan.gov.kz/client/#!/doc/17718/rus/05.12.2003
+  kaz: https://zan.gov.kz/client/#!/doc/17718/kaz/15.06.2004
+  rus: https://zan.gov.kz/client/#!/doc/17718/rus/15.06.2004
+caused_by:
+  code: '20244'
+  requisite: Закон Республики Казахстан от 16 июня 2004 года № 564
+  title:
+    rus: О внесении изменений и дополнений в Закон Республики Казахстан "О республиканском бюджете на 2004 год"
+    kaz: '"2004 жылға арналған республикалық бюджет туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/20244/rus
