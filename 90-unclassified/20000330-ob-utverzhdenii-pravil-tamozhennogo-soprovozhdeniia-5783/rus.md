@@ -18,6 +18,11 @@ caused_by:
   title: О предварительных операциях
   link: https://zan.gov.kz/client/#!/doc/8803/rus
 source: https://zan.gov.kz/client/#!/doc/5783/rus/15.02.2001
+repealed_on: 2001-03-29
+repealed_by:
+  code: '8803'
+  title: О предварительных операциях
+  link: https://zan.gov.kz/client/#!/doc/8803/rus
 ---
 
 # Об утверждении Правил таможенного сопровождения
