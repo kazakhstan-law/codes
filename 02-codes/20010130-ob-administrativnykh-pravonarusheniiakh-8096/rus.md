@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8096/rus/05.05.2004
+source: https://zan.gov.kz/client/#!/doc/8096/rus/05.07.2004
 ---
 
 # Об административных правонарушениях
