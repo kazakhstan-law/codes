@@ -10,8 +10,15 @@ approved_on: 1999-07-15
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 1999-07-15
-  rus: 1999-07-15
+  kaz: 2003-06-09
+  rus: 2003-06-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/3838/kaz/15.07.1999
-  rus: https://zan.gov.kz/client/#!/doc/3838/rus/15.07.1999
+  kaz: https://zan.gov.kz/client/#!/doc/3838/kaz/09.06.2003
+  rus: https://zan.gov.kz/client/#!/doc/3838/rus/09.06.2003
+caused_by:
+  code: '15768'
+  requisite: Закон Республики Казахстан от 10 июня 2003 года № 432-II
+  title:
+    rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам стандартизации и сертификации
+    kaz: Қазақстан Республикасының кейбiр заң актілерiне стандарттау және сертификаттау мәселелерi бойынша өзгерiстер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/15768/rus
