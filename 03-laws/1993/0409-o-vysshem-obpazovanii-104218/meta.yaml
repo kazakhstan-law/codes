@@ -1,0 +1,15 @@
+act_code: '104218'
+requisite: Закон Республики Казахстан от 10 апpеля 1993 года. Утратил силу Законом Республики Казахстан от 7 июня 1999 года № 390
+title:
+  rus: О высшем обpазовании
+  kaz: Жоғары бiлiм беру туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1993-04-09
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1996-01-27
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104218/rus/27.01.1996
