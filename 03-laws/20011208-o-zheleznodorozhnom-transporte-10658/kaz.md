@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/10658/kaz/08.07.2004
+source: https://zan.gov.kz/client/#!/doc/10658/kaz/20.12.2004
 ---
 
 # Темір жол көлігі туралы

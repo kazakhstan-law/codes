@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84254/rus/01.12.2004
+source: https://zan.gov.kz/client/#!/doc/84254/rus/20.12.2004
 ---
 
 # О нефти
@@ -18,4 +18,4 @@ source: https://zan.gov.kz/client/#!/doc/84254/rus/01.12.2004
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | Глава 1. Общие положения |
-| [`ch011`](rus/ch011.md) | Глава 11. Правовые условия |
+| [`ch010`](rus/ch010.md) | Глава 10. Коммерческие условия |
