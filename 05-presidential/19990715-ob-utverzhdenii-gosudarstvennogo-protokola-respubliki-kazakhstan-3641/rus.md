@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3641/rus/13.11.2001
+source: https://zan.gov.kz/client/#!/doc/3641/rus/23.09.2002
 ---
 
 # Об утверждении Государственного протокола Республики Казахстан
