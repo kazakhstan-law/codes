@@ -68,11 +68,17 @@ versions:
   - rus
   cause:
     code: '21953'
+- date: 2004-12-15
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '22169'
 version_date:
-  kaz: 2004-11-29
-  rus: 2004-11-29
+  kaz: 2004-12-15
+  rus: 2004-12-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2335/kaz/29.11.2004
-  rus: https://zan.gov.kz/client/#!/doc/2335/rus/29.11.2004
+  kaz: https://zan.gov.kz/client/#!/doc/2335/kaz/15.12.2004
+  rus: https://zan.gov.kz/client/#!/doc/2335/rus/15.12.2004
 caused_by:
-  code: '21953'
+  code: '22169'
