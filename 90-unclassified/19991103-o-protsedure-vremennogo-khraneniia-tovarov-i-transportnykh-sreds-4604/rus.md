@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/4604/rus/15.02.2001
+repealed_on: 2001-03-29
+repealed_by:
+  code: '8803'
+  title: О предварительных операциях
+  link: https://zan.gov.kz/client/#!/doc/8803/rus
 ---
 
 # О процедуре временного хранения товаров и транспортных средств
