@@ -1,0 +1,17 @@
+act_code: '14085'
+requisite: Закон Республики Казахстан от 8 января 2003 года № 373. Утратил силу Кодексом Республики Казахстан от 29 октября 2015 года № 375-V
+title:
+  rus: Об инвестициях
+  kaz: Инвестициялар туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2003-01-08
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2003-01-08
+  rus: 2003-01-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/14085/kaz/08.01.2003
+  rus: https://zan.gov.kz/client/#!/doc/14085/rus/08.01.2003
