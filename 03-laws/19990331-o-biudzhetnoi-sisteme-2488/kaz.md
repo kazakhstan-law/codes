@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2488/kaz/19.06.2003
+source: https://zan.gov.kz/client/#!/doc/2488/kaz/29.12.2003
 ---
 
 # Бюджет жүйесі туралы

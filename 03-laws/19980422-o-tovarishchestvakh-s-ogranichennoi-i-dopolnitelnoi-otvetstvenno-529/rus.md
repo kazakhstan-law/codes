@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/529/rus/15.05.2003
+source: https://zan.gov.kz/client/#!/doc/529/rus/29.12.2003
 ---
 
 # О товариществах с ограниченной и дополнительной ответственностью
