@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104454/kaz/08.08.2002
+source: https://zan.gov.kz/client/#!/doc/104454/kaz/24.05.2004
 ---
 
 # Қоршаған ортаны қорғау туралы
