@@ -11,8 +11,15 @@ approved_on: 2003-12-04
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2003-12-04
-  rus: 2003-12-04
+  kaz: 2004-05-06
+  rus: 2004-05-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/17723/kaz/04.12.2003
-  rus: https://zan.gov.kz/client/#!/doc/17723/rus/04.12.2003
+  kaz: https://zan.gov.kz/client/#!/doc/17723/kaz/06.05.2004
+  rus: https://zan.gov.kz/client/#!/doc/17723/rus/06.05.2004
+caused_by:
+  code: '20086'
+  requisite: Указ Президента Республики Казахстан от 7 мая 2004 года № 1362
+  title:
+    rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
+    kaz: Қазақстан Республикасы Президентiнiң кейбiр жарлықтарына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/20086/rus
