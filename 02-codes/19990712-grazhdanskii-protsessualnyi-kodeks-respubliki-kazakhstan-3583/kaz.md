@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3583/kaz/10.03.2004
+source: https://zan.gov.kz/client/#!/doc/3583/kaz/08.07.2004
 ---
 
 # Қазақстан Республикасының Азаматтық іс жүргізу кодексі

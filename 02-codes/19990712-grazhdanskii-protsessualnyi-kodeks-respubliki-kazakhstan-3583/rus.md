@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3583/rus/10.03.2004
+source: https://zan.gov.kz/client/#!/doc/3583/rus/08.07.2004
 ---
 
 # Гражданский процессуальный кодекс Республики Казахстан
