@@ -1,0 +1,15 @@
+act_code: '104308'
+requisite: Закон Республики Казахстан от 31 мая 1996 года № 3
+title:
+  rus: Об общественных объединениях
+  kaz: Қоғамдық бiрлестiктер туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1996-05-31
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1996-05-30
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104308/rus/30.05.1996
