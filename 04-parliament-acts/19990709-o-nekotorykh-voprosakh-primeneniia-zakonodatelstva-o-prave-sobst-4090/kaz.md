@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4090/kaz/17.06.2004
+source: https://zan.gov.kz/client/#!/doc/4090/kaz/18.06.2004
 ---
 
 # Тұрғын үйге меншік құқы туралы заңдарды қолданудың кейбір мәселелері туралы
