@@ -1,0 +1,17 @@
+act_code: '3837'
+requisite: Закон Республики Казахстан от 13 июля 1999 года № 421. Утратил силу Законом Республики Казахстан 8 июня 2015 года № 316-V
+title:
+  rus: Об антидемпинговых мерах
+  kaz: Демпингке қарсы шаралар туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1999-07-12
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1999-07-12
+  rus: 1999-07-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/3837/kaz/12.07.1999
+  rus: https://zan.gov.kz/client/#!/doc/3837/rus/12.07.1999
