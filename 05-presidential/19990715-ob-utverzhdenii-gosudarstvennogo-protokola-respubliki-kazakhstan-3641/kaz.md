@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3641/kaz/18.12.2003
+source: https://zan.gov.kz/client/#!/doc/3641/kaz/14.04.2004
 ---
 
 # Қазақстан Республикасының Мемлекеттік протоколын бекіту туралы
