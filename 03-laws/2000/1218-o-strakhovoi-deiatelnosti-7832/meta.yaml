@@ -1,0 +1,17 @@
+act_code: '7832'
+requisite: Закон Республики Казахстан от 18 декабря 2000 года № 126
+title:
+  rus: О страховой деятельности
+  kaz: Сақтандыру қызметі туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2000-12-18
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2000-12-18
+  rus: 2000-12-18
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7832/kaz/18.12.2000
+  rus: https://zan.gov.kz/client/#!/doc/7832/rus/18.12.2000
