@@ -1,0 +1,17 @@
+act_code: '17718'
+requisite: Закон Республики Казахстан от 5 декабря 2003 года N 505
+title:
+  rus: О республиканском бюджете на 2004 год
+  kaz: 2004 жылға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2003-12-05
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2003-12-05
+  rus: 2003-12-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/17718/kaz/05.12.2003
+  rus: https://zan.gov.kz/client/#!/doc/17718/rus/05.12.2003
