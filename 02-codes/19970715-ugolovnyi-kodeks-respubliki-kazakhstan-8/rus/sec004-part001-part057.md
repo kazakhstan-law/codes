@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8/rus/09.07.1998
+source: https://zan.gov.kz/client/#!/doc/8/rus/15.07.1999
 ---
 
 ## Статья 117. Незаконное производство аборта
