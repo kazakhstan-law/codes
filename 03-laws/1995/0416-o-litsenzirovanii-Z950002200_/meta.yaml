@@ -105,15 +105,21 @@ versions:
   cause:
     code: '6462'
     key: Z000000079_
+- date: 2000-12-18
+  languages:
+  - rus
+  cause:
+    code: '7832'
+    key: Z000000126_
 version_date:
-  rus: 2000-07-04
+  rus: 2000-12-18
 source:
-  rus: https://zan.gov.kz/client/#!/doc/104119/rus/04.07.2000
+  rus: https://zan.gov.kz/client/#!/doc/104119/rus/18.12.2000
 caused_by:
-  code: '6462'
-  key: Z000000079_
-  requisite: Закон Республики Казахстан от 5 июля 2000 года N 79-II
+  code: '7832'
+  key: Z000000126_
+  requisite: Закон Республики Казахстан от 18 декабря 2000 года № 126
   title:
-    rus: О внесении изменений и дополнений в Закон Республики Казахстан "О лицензировании"
-    kaz: '"Лицензиялау туралы" Қазақстан Республикасының Заңына өзгерiстер мен толықтырулар енгiзу туралы'
-  link: https://zan.gov.kz/client/#!/doc/6462/rus
+    rus: О страховой деятельности
+    kaz: Сақтандыру қызметі туралы
+  link: https://zan.gov.kz/client/#!/doc/7832/rus
