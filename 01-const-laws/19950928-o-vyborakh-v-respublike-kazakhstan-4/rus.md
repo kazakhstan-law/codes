@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4/rus/07.05.1998
+source: https://zan.gov.kz/client/#!/doc/4/rus/06.11.1998
 ---
 
 # О выборах в Республике Казахстан
