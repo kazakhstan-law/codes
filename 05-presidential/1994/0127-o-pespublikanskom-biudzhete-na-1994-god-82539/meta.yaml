@@ -1,0 +1,17 @@
+act_code: '82539'
+requisite: УКАЗ Пpезидента Республики Казахстан от 27 янваpя 1994 г. № 1529
+title:
+  rus: О pеспубликанском бюджете на 1994 год
+  kaz: 1994 жылға арналған республикалық бюджет туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 1994-01-27
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 1994-04-17
+  rus: 1994-04-17
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/82539/kaz/17.04.1994
+  rus: https://zan.gov.kz/client/#!/doc/82539/rus/17.04.1994
