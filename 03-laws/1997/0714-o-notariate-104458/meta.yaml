@@ -1,0 +1,15 @@
+act_code: '104458'
+requisite: Закон Республики Казахстан от 14 июля 1997 года № 155-I
+title:
+  rus: О нотариате
+  kaz: Нотариат туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1997-07-14
+approved_by:
+- '102000000000'
+version_date:
+  rus: 1997-07-13
+source:
+  rus: https://zan.gov.kz/client/#!/doc/104458/rus/13.07.1997
