@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/17606/rus/02.06.2004
+source: https://zan.gov.kz/client/#!/doc/17606/rus/23.08.2004
 ---
 
 ## на оказание услуг по технической диспетчеризации отпуска
