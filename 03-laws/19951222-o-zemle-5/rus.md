@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5/rus/09.07.1998
+source: https://zan.gov.kz/client/#!/doc/5/rus/10.05.1999
 ---
 
 # О земле

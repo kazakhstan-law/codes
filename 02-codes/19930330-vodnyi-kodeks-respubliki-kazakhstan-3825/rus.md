@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3825/rus/24.12.1996
+source: https://zan.gov.kz/client/#!/doc/3825/rus/10.05.1999
 ---
 
 # В О Д Н Ы Й К О Д Е К С РЕСПУБЛИКИ КАЗАХСТАН
