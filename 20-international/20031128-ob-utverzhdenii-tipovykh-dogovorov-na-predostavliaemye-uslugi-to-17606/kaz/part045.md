@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/17606/kaz/23.08.2004
+source: https://zan.gov.kz/client/#!/doc/17606/kaz/26.01.2005
 ---
 
 ## 5. Тараптардың құқықтары мен мiндеттерi
