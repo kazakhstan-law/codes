@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/970/rus/15.12.1999
+source: https://zan.gov.kz/client/#!/doc/970/rus/15.12.2001
 ---
 
 # ОБ АКЦИОНЕРНЫХ ОБЩЕСТВАХ
