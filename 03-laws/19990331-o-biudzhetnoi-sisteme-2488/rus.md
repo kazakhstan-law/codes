@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2488/rus/31.10.2002
+source: https://zan.gov.kz/client/#!/doc/2488/rus/19.06.2003
 ---
 
 # О бюджетной системе
