@@ -1,0 +1,17 @@
+act_code: '104389'
+requisite: Закон Республики Казахстан от 15 июля 1996 года N 29. Утратил силу Законом РК от 17 апреля 2014 года № 194-V
+title:
+  rus: О безопасности дорожного движения
+  kaz: Жол жүрiсi қауiпсiздiгi туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1996-07-14
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 1996-07-14
+  rus: 1996-07-14
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/104389/kaz/14.07.1996
+  rus: https://zan.gov.kz/client/#!/doc/104389/rus/14.07.1996
