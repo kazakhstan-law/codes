@@ -10,6 +10,15 @@ approved_on: 1998-06-25
 approved_by:
 - '102000000000'
 version_date:
-  rus: 1998-06-25
+  kaz: 2000-04-27
+  rus: 2000-04-27
 source:
-  rus: https://zan.gov.kz/client/#!/doc/844/rus/25.06.1998
+  kaz: https://zan.gov.kz/client/#!/doc/844/kaz/27.04.2000
+  rus: https://zan.gov.kz/client/#!/doc/844/rus/27.04.2000
+caused_by:
+  code: '5873'
+  requisite: Закон Республики Казахстан от 28 апреля 2000 года N 45
+  title:
+    rus: О внесении изменений в Закон Республики Казахстан "О национальной безопасности Республики Казахстан"
+    kaz: '"Қазақстан Республикасының ұлттық қауіпсіздігі туралы" Қазақстан Республикасының Заңына өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/5873/rus
