@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9/kaz/21.12.2002
+source: https://zan.gov.kz/client/#!/doc/9/kaz/24.09.2003
 ---
 
 # Қазақстан Республикасының қылмыстық іс жүргізу кодексі
