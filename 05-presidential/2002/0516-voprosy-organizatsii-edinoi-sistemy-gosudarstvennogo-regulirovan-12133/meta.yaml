@@ -10,8 +10,15 @@ approved_on: 2002-05-16
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2002-05-16
-  rus: 2002-05-16
+  kaz: 2003-12-31
+  rus: 2003-12-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/12133/kaz/16.05.2002
-  rus: https://zan.gov.kz/client/#!/doc/12133/rus/16.05.2002
+  kaz: https://zan.gov.kz/client/#!/doc/12133/kaz/31.12.2003
+  rus: https://zan.gov.kz/client/#!/doc/12133/rus/31.12.2003
+caused_by:
+  code: '18098'
+  requisite: Указ Президента Республики Казахстан от 31 декабря 2003 года № 1271
+  title:
+    rus: Об утверждении Положения и структуры Национального Банка Республики Казахстан
+    kaz: Қазақстан Республикасы Ұлттық Банкiнiң ережесiн және құрылымын бекiту туралы
+  link: https://zan.gov.kz/client/#!/doc/18098/rus
