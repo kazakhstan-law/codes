@@ -1,0 +1,17 @@
+act_code: '23826'
+requisite: Закон Республики Казахстан от 3 мая 2005 года № 47. Утратил силу Законом Республики Казахстан от 4 июля 2013 года № 129-V
+title:
+  rus: О торгово-промышленных палатах
+  kaz: Сауда-өнеркәсiп палаталары туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2005-05-03
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2005-05-03
+  rus: 2005-05-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/23826/kaz/03.05.2005
+  rus: https://zan.gov.kz/client/#!/doc/23826/rus/03.05.2005
