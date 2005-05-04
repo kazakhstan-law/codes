@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15924/rus/19.06.2003
+source: https://zan.gov.kz/client/#!/doc/15924/rus/04.05.2005
 ---
 
 ## Земельный кодекс Республики Казахстан
