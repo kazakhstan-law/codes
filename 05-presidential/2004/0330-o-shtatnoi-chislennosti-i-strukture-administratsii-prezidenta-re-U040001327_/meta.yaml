@@ -35,11 +35,24 @@ versions:
   - rus
   cause:
     code: U050001524_
+- date: 2005-05-18
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '24332'
+    key: U050001575_
 version_date:
-  kaz: 2005-03-04
-  rus: 2005-03-04
+  kaz: 2005-05-18
+  rus: 2005-05-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/19180/kaz/04.03.2005
-  rus: https://zan.gov.kz/client/#!/doc/19180/rus/04.03.2005
+  kaz: https://zan.gov.kz/client/#!/doc/19180/kaz/18.05.2005
+  rus: https://zan.gov.kz/client/#!/doc/19180/rus/18.05.2005
 caused_by:
-  code: U050001524_
+  code: '24332'
+  key: U050001575_
+  requisite: Указ Президента Республики Казахстан от 18 мая 2005 года № 1575
+  title:
+    rus: О внесении изменения в Указ Президента Республики Казахстан от 31 марта 2004 года N 1327
+    kaz: Қазақстан Республикасы Президентінің 2004 жылғы 31 наурыздағы N 1327 Жарлығына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/24332/rus
