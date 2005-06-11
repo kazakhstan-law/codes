@@ -64,10 +64,16 @@ versions:
   cause:
     code: '24398'
     key: Z050000056_
+- date: 2005-06-11
+  languages:
+  - kaz
+  cause:
+    code: '24398'
+    key: Z050000056_
 version_date:
-  rus: 2005-06-09
+  kaz: 2005-06-11
 source:
-  rus: https://zan.gov.kz/client/#!/doc/8745/rus/09.06.2005
+  kaz: https://zan.gov.kz/client/#!/doc/8745/kaz/11.06.2005
 caused_by:
   code: '24398'
   key: Z050000056_
