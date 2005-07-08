@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8/kaz/09.12.2004
+source: https://zan.gov.kz/client/#!/doc/8/kaz/08.07.2005
 ---
 
 # Қазақстан Республикасының Қылмыстық кодексi
