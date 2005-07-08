@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/19551/kaz/20.12.2004
+source: https://zan.gov.kz/client/#!/doc/19551/kaz/08.07.2005
 ---
 
 # Қазақстан Республикасының Бюджет кодексі
