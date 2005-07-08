@@ -10,11 +10,11 @@ approved_on: 1999-07-22
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2003-09-24
-  rus: 2003-09-24
+  kaz: 2005-07-08
+  rus: 2005-07-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4054/kaz/24.09.2003
-  rus: https://zan.gov.kz/client/#!/doc/4054/rus/24.09.2003
+  kaz: https://zan.gov.kz/client/#!/doc/4054/kaz/08.07.2005
+  rus: https://zan.gov.kz/client/#!/doc/4054/rus/08.07.2005
 caused_by:
   code: '17059'
   requisite: Закон Республики Казахстан от 25 сентября 2003 года N 484
