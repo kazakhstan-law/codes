@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/17606/rus/01.06.2005
+source: https://zan.gov.kz/client/#!/doc/17606/rus/27.10.2005
 ---
 
 ## 9. Ответственность Сторон
