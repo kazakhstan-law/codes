@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15029/rus/20.06.2005
+source: https://zan.gov.kz/client/#!/doc/15029/rus/22.11.2005
 ---
 
 ## Таможенный кодекс Республики Казахстан
