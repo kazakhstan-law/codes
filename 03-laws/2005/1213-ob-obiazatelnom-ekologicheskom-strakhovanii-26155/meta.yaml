@@ -1,0 +1,17 @@
+act_code: '26155'
+requisite: Закон Республики Казахстан от 13 декабря 2005 года № 93-III
+title:
+  rus: Об обязательном экологическом страховании
+  kaz: Мiндетті экологиялық сақтандыру туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2005-12-13
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2005-12-13
+  rus: 2005-12-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/26155/kaz/13.12.2005
+  rus: https://zan.gov.kz/client/#!/doc/26155/rus/13.12.2005
