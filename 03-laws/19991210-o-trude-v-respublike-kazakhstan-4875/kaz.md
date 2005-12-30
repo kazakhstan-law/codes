@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4875/kaz/23.12.2004
+source: https://zan.gov.kz/client/#!/doc/4875/kaz/30.12.2005
 ---
 
 # Қазақстан Республикасындағы еңбек туралы
