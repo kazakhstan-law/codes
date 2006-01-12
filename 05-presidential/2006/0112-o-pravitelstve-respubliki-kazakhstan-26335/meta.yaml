@@ -1,0 +1,17 @@
+act_code: '26335'
+requisite: Указ Президента Республики Казахстан от 12 января 2006 года N 1
+title:
+  rus: О Правительстве Республики Казахстан
+  kaz: Қазақстан Республикасының Үкіметі туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2006-01-12
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2006-01-12
+  rus: 2006-01-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/26335/kaz/12.01.2006
+  rus: https://zan.gov.kz/client/#!/doc/26335/rus/12.01.2006
