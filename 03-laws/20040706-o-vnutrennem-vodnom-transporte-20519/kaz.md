@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20519/kaz/05.07.2004
+source: https://zan.gov.kz/client/#!/doc/20519/kaz/31.01.2006
 ---
 
 # Iшкi су көлiгi туралы
@@ -16,4 +16,4 @@ source: https://zan.gov.kz/client/#!/doc/20519/kaz/05.07.2004
 | Часть | Название |
 |---|---|
 | [`ch001`](kaz/ch001.md) | 1-тарау. Жалпы ережелер |
-| [`ch009`](kaz/ch009.md) | 9-тарау. Порттар |
+| [`ch008`](kaz/ch008.md) | 8-тарау. Кемені жалға алу |

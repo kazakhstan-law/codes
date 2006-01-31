@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16225/kaz/10.01.2006
+source: https://zan.gov.kz/client/#!/doc/16225/kaz/31.01.2006
 ---
 
 # Қазақстан Республикасының Су Кодексі
