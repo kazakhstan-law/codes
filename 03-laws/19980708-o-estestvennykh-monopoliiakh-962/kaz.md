@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/962/kaz/31.01.2006
+source: https://zan.gov.kz/client/#!/doc/962/kaz/20.02.2006
 ---
 
 1-бап. Осы Заңның мақсаты
@@ -78,4 +78,4 @@ source: https://zan.gov.kz/client/#!/doc/962/kaz/31.01.2006
 | Часть | Название |
 |---|---|
 | [`part001`](kaz/part001.md) | 1-бап. Осы Заңның мақсаты |
-| [`part029`](kaz/part029.md) | 19-1 бап. Уәкiлеттi органның ұйғарымдары |
+| [`part028`](kaz/part028.md) | 19-бап. Осы Заңды бұзудың салдарлары |
