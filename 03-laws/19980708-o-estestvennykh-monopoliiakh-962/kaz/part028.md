@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/962/kaz/20.02.2006
+source: https://zan.gov.kz/client/#!/doc/962/kaz/05.05.2006
 ---
 
 ## 19-бап. Осы Заңды бұзудың салдарлары

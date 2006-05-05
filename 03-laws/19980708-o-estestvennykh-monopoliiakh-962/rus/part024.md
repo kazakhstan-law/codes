@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/20.02.2006
+source: https://zan.gov.kz/client/#!/doc/962/rus/05.05.2006
 ---
 
 ## Статья 18-6. Порядок проведения проверок субъектов естественных монополий
