@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9187/rus/05.05.2006
+source: https://zan.gov.kz/client/#!/doc/9187/rus/06.05.2006
 ---
 
 ## О налогах и других обязательных платежах в бюджет (Налоговый кодекс)
