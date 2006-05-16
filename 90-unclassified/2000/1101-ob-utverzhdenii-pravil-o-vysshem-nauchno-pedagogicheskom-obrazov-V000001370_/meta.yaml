@@ -21,10 +21,16 @@ versions:
   cause:
     code: '24439'
     key: V050003676_
+- date: 2006-05-16
+  languages:
+  - kaz
+  cause:
+    code: '24439'
+    key: V050003676_
 version_date:
-  rus: 2005-05-16
+  kaz: 2006-05-16
 source:
-  rus: https://zan.gov.kz/client/#!/doc/8035/rus/16.05.2005
+  kaz: https://zan.gov.kz/client/#!/doc/8035/kaz/16.05.2006
 caused_by:
   code: '24439'
   key: V050003676_
