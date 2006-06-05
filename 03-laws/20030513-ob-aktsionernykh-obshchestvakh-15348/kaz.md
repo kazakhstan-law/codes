@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15348/kaz/08.07.2005
+source: https://zan.gov.kz/client/#!/doc/15348/kaz/05.06.2006
 ---
 
 # Акционерлік қоғамдар туралы
