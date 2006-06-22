@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/05.06.2006
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/22.06.2006
 ---
 
 # Әкімшілік құқық бұзушылық туралы
