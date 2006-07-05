@@ -1,0 +1,17 @@
+act_code: '28756'
+requisite: Закон Республики Казахстан от 5 июля 2006 года № 163
+title:
+  rus: О взаимном страховании
+  kaz: Өзара сақтандыру туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2006-07-05
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2006-07-05
+  rus: 2006-07-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/28756/kaz/05.07.2006
+  rus: https://zan.gov.kz/client/#!/doc/28756/rus/05.07.2006
