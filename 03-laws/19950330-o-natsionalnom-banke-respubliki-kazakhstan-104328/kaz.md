@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104328/kaz/20.02.2006
+source: https://zan.gov.kz/client/#!/doc/104328/kaz/05.07.2006
 ---
 
 # Қазақстан Республикасының Ұлттық Банкі туралы
