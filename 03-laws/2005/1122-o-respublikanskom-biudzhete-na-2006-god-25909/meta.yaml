@@ -10,8 +10,15 @@ approved_on: 2005-11-22
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2005-11-22
-  rus: 2005-11-22
+  kaz: 2006-07-05
+  rus: 2006-07-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/25909/kaz/22.11.2005
-  rus: https://zan.gov.kz/client/#!/doc/25909/rus/22.11.2005
+  kaz: https://zan.gov.kz/client/#!/doc/25909/kaz/05.07.2006
+  rus: https://zan.gov.kz/client/#!/doc/25909/rus/05.07.2006
+caused_by:
+  code: '28753'
+  requisite: Закон Республики Казахстан от 5 июля 2006 года № 159
+  title:
+    rus: О внесении изменений и дополнений в Закон Республики Казахстан "О республиканском бюджете на 2006 год"
+    kaz: '"2006 жылға арналған республикалық бюджет туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/28753/rus
