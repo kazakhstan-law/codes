@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/879/kaz/22.06.2006
+source: https://zan.gov.kz/client/#!/doc/879/kaz/05.07.2006
 ---
 
 # ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ АЗАМАТТЫҚ КОДЕКСI
