@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/6/kaz/31.01.2006
+source: https://zan.gov.kz/client/#!/doc/6/kaz/07.07.2006
 ---
 
 # Жер қойнауы және жер қойнауын пайдалану туралы
