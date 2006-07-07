@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16195/kaz/31.01.2006
+source: https://zan.gov.kz/client/#!/doc/16195/kaz/07.07.2006
 ---
 
 # Қазақстан Республикасының Орман кодексі
