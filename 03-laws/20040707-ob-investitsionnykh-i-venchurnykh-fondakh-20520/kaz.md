@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20520/kaz/06.07.2004
+source: https://zan.gov.kz/client/#!/doc/20520/kaz/07.07.2006
 ---
 
 # Инвестициялық қорлар туралы
