@@ -1,0 +1,17 @@
+act_code: '28852'
+requisite: Закон Республики Казахстан от 7 июля 2006 года № 175
+title:
+  rus: Об особо охраняемых природных территориях
+  kaz: Ерекше қорғалатын табиғи аумақтар туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2006-07-07
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2006-07-07
+  rus: 2006-07-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/28852/kaz/07.07.2006
+  rus: https://zan.gov.kz/client/#!/doc/28852/rus/07.07.2006
