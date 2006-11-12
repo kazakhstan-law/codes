@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7966/kaz/04.11.2006
+source: https://zan.gov.kz/client/#!/doc/7966/kaz/12.11.2006
 ---
 
 # Қазақстан Республикасындағы жергілікті мемлекеттік басқару туралы
