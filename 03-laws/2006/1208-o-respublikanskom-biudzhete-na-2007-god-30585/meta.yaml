@@ -1,0 +1,17 @@
+act_code: '30585'
+requisite: Закон Республики Казахстан от 8 декабря 2006 года № 194
+title:
+  rus: О республиканском бюджете на 2007 год
+  kaz: 2007 жылға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2006-12-08
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2006-12-08
+  rus: 2006-12-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/30585/kaz/08.12.2006
+  rus: https://zan.gov.kz/client/#!/doc/30585/rus/08.12.2006
