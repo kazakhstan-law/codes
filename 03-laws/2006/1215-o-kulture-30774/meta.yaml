@@ -1,0 +1,17 @@
+act_code: '30774'
+requisite: Закон Республики Казахстан от 15 декабря 2006 года № 207
+title:
+  rus: О культуре
+  kaz: Мәдениет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2006-12-15
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2006-12-15
+  rus: 2006-12-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/30774/kaz/15.12.2006
+  rus: https://zan.gov.kz/client/#!/doc/30774/rus/15.12.2006
