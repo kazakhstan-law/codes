@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/07.07.2006
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/29.12.2006
 ---
 
 # Байланыс туралы

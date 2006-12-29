@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15742/kaz/07.07.2006
+source: https://zan.gov.kz/client/#!/doc/15742/kaz/29.12.2006
 ---
 
 # Денсаулық сақтау жүйесі туралы
