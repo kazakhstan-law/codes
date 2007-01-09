@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104432/kaz/07.07.2006
+source: https://zan.gov.kz/client/#!/doc/104432/kaz/09.01.2007
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
@@ -237,6 +237,8 @@ source: https://zan.gov.kz/client/#!/doc/104432/kaz/07.07.2006
 107-бап. Осы Заңды бұзғаны үшін жауапкершілік
 
 яя
+
+яяяя
 
 # Банкроттық туралы
 

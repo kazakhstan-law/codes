@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15924/kaz/07.07.2006
+source: https://zan.gov.kz/client/#!/doc/15924/kaz/09.01.2007
 ---
 
 # Қазақстан Республикасының Жер кодексі
