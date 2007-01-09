@@ -1,5 +1,5 @@
 ---
-version_id: AI15327_4
+version_id: AI15327_6
 act_code: '15327'
 language: kaz
 title: Ақпараттандыру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2003-05-07
-version_date: 2006-01-31
+version_date: 2007-01-09
 registry_number: '15327'
 caused_by:
-  code: '26604'
-  title: Қазақстан Республикасының кейбiр заңнамалық актiлерiне кәсiпкерлiк мәселелерi бойынша өзгерiстер мен толықтырулар енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/26604/kaz
-source: https://zan.gov.kz/client/#!/doc/15327/kaz/31.01.2006
+  code: '31306'
+  title: Ақпараттандыру туралы
+  link: https://zan.gov.kz/client/#!/doc/31306/kaz
+source: https://zan.gov.kz/client/#!/doc/15327/kaz/09.01.2007
 ---
 
 # Ақпараттандыру туралы
