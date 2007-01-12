@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1816/kaz/10.01.2006
+source: https://zan.gov.kz/client/#!/doc/1816/kaz/12.01.2007
 ---
 
 # Неке және отбасы туралы
