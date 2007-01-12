@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3197/kaz/07.07.2006
+source: https://zan.gov.kz/client/#!/doc/3197/kaz/12.01.2007
 ---
 
 # Білім туралы
