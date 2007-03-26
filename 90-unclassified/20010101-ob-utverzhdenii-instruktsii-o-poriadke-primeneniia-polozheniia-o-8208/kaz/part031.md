@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8208/kaz/22.07.2004
+source: https://zan.gov.kz/client/#!/doc/8208/kaz/26.03.2007
 ---
 
 ## Ішкі істер органдарына қызметке қабылдау туралы ҚОРЫТЫНДЫ

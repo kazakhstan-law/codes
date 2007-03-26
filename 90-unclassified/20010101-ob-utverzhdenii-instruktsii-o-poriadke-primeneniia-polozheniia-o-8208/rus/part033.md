@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8208/rus/22.07.2004
+source: https://zan.gov.kz/client/#!/doc/8208/rus/26.03.2007
 ---
 
 ## ЛИЧНЫЙ ЛИСТОК
