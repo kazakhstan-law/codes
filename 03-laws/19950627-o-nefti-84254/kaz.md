@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84254/kaz/12.01.2007
+source: https://zan.gov.kz/client/#!/doc/84254/kaz/07.05.2007
 ---
 
 # Мұнай туралы
