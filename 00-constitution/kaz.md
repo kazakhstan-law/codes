@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1/kaz/06.10.1998
+source: https://zan.gov.kz/client/#!/doc/1/kaz/21.05.2007
 ---
 
 # Қазақстан Республикасының Конституциясы
