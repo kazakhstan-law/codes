@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15606/kaz/15.04.2006
+source: https://zan.gov.kz/client/#!/doc/15606/kaz/28.05.2007
 ---
 
 # Кастодиандық үлгi шарттардың нысандарын бекiту туралы
