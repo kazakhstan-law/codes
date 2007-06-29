@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9/rus/22.05.2007
+source: https://zan.gov.kz/client/#!/doc/9/rus/29.06.2007
 ---
 
 ## Оглавление
@@ -1351,6 +1351,8 @@ source: https://zan.gov.kz/client/#!/doc/9/rus/22.05.2007
 яяя
 
 яяя
+
+яяяяя
 
 # Уголовно-процессуальный кодекс Республики Казахстан
 
