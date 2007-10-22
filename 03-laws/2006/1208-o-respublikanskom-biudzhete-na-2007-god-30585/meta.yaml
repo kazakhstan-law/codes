@@ -10,15 +10,15 @@ approved_on: 2006-12-08
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2007-07-05
-  rus: 2007-07-05
+  kaz: 2007-10-22
+  rus: 2007-10-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/30585/kaz/05.07.2007
-  rus: https://zan.gov.kz/client/#!/doc/30585/rus/05.07.2007
+  kaz: https://zan.gov.kz/client/#!/doc/30585/kaz/22.10.2007
+  rus: https://zan.gov.kz/client/#!/doc/30585/rus/22.10.2007
 caused_by:
-  code: '33962'
-  requisite: Закон Республики Казахстан от 5 июля 2007 года № 273
+  code: '35453'
+  requisite: Закон Республики Казахстан от 22 октября 2007 года № 1-IV
   title:
     rus: О внесении изменений и дополнений в Закон Республики Казахстан "О республиканском бюджете на 2007 год"
     kaz: '"2007 жылға арналған республикалық бюджет туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/33962/rus
+  link: https://zan.gov.kz/client/#!/doc/35453/rus
