@@ -1,0 +1,17 @@
+act_code: '36063'
+requisite: Закон Республики Казахстан от 6 декабря 2007 года N 8-IV
+title:
+  rus: О республиканском бюджете на 2008 год
+  kaz: 2008 жылға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2007-12-06
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2007-12-06
+  rus: 2007-12-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/36063/kaz/06.12.2007
+  rus: https://zan.gov.kz/client/#!/doc/36063/rus/06.12.2007
