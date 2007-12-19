@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15924/rus/27.07.2007
+source: https://zan.gov.kz/client/#!/doc/15924/rus/19.12.2007
 ---
 
 ## Земельный кодекс Республики Казахстан
@@ -429,6 +429,8 @@ source: https://zan.gov.kz/client/#!/doc/15924/rus/27.07.2007
 яяя
 
 яяяяя
+
+яяяяяяя
 
 # Земельный кодекс Республики Казахстан
 
