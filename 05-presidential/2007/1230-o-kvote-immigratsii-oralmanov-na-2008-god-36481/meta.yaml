@@ -1,0 +1,17 @@
+act_code: '36481'
+requisite: Указ Президента Республики Казахстан от 30 декабря 2007 года N 506
+title:
+  rus: О квоте иммиграции оралманов на 2008 год
+  kaz: Оралмандардың 2008 жылға арналған көшіп келу квотасы туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2007-12-30
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2007-12-30
+  rus: 2007-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/36481/kaz/30.12.2007
+  rus: https://zan.gov.kz/client/#!/doc/36481/rus/30.12.2007
