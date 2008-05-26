@@ -1,9 +1,7 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/19.12.2007
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/26.05.2008
 ---
-
-## МАЗМҰНЫ
 
 1-бөлiм . ЖАЛПЫ ЕРЕЖЕЛЕР
 
@@ -1868,6 +1866,8 @@ source: https://zan.gov.kz/client/#!/doc/8096/kaz/19.12.2007
 я
 
 яяя
+
+я
 
 # Әкімшілік құқық бұзушылық туралы
 
