@@ -1,0 +1,18 @@
+act_code: '40214'
+requisite: Закон Республики Казахстан от 24 июня 2008 года № 45-IV
+title:
+  rus: О ратификации Договора о Комиссии таможенного союза
+  kaz: Кеден одағының комиссиясы туралы шартты ратификациялау туралы
+form: ДОГ
+type_codes:
+- ДОГ
+- ЗАК
+approved_on: 2008-06-24
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2008-06-24
+  rus: 2008-06-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/40214/kaz/24.06.2008
+  rus: https://zan.gov.kz/client/#!/doc/40214/rus/24.06.2008
