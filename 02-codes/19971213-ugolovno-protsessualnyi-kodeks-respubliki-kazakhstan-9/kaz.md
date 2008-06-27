@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9/kaz/29.06.2007
+source: https://zan.gov.kz/client/#!/doc/9/kaz/27.06.2008
 ---
 
 Жалпы бөлім
@@ -1281,6 +1281,8 @@ source: https://zan.gov.kz/client/#!/doc/9/kaz/29.06.2007
 яяяя
 
 яяя
+
+яяяя
 
 # Қазақстан Республикасының Қылмыстық іс жүргізу кодексі
 
