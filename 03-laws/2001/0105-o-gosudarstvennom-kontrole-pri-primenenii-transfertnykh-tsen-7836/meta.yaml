@@ -10,8 +10,13 @@ approved_on: 2001-01-05
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2001-01-05
-  rus: 2001-01-05
+  rus: 2008-07-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7836/kaz/05.01.2001
-  rus: https://zan.gov.kz/client/#!/doc/7836/rus/05.01.2001
+  rus: https://zan.gov.kz/client/#!/doc/7836/rus/05.07.2008
+caused_by:
+  code: '40647'
+  requisite: Закон Республики Казахстан от 5 июля 2008 года N 67-IV
+  title:
+    rus: О трансфертном ценообразовании
+    kaz: Трансферттік баға белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/40647/rus
