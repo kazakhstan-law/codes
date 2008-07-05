@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/7836/rus/05.07.2008
+repealed_on: 2009-01-01
+repealed_by:
+  code: '40647'
+  title: О трансфертном ценообразовании
+  link: https://zan.gov.kz/client/#!/doc/40647/rus
 ---
 
 ## Оглавление
