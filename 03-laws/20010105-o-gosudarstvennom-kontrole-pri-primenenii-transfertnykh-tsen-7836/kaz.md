@@ -13,6 +13,11 @@ approval_date: 2001-01-05
 version_date: 2001-01-05
 registry_number: '7836'
 source: https://zan.gov.kz/client/#!/doc/7836/kaz/05.01.2001
+repealed_on: 2009-01-01
+repealed_by:
+  code: '40647'
+  title: Трансферттік баға белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/40647/kaz
 ---
 
 1-бап . Қазақстан Республикасының трансферттiк бағаларды қолдану кезiндегi мемлекеттiк бақылау жөнiндегi заңдары
