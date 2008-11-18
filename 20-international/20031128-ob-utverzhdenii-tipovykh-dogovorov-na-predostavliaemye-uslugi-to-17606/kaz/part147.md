@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/17606/kaz/19.02.2008
+source: https://zan.gov.kz/client/#!/doc/17606/kaz/18.11.2008
 ---
 
 ## 11. Шарттың қолданылу мерзiмi
