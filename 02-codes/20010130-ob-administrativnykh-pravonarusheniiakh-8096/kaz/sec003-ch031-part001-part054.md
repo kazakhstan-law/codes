@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/05.07.2008
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/20.11.2008
 ---
 
 ## 576-3-бап. Қазақстан Республикасының Ұлттық қауiпсiздiк органдары
