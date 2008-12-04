@@ -1,0 +1,17 @@
+act_code: '42597'
+requisite: Закон Республики Казахстан от 4 декабря 2008 года № 96-IV
+title:
+  rus: О республиканском бюджете на 2009-2011 годы
+  kaz: 2009-2011 жылдарға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2008-12-04
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2008-12-04
+  rus: 2008-12-04
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/42597/kaz/04.12.2008
+  rus: https://zan.gov.kz/client/#!/doc/42597/rus/04.12.2008
