@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/21.11.2008
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/29.12.2008
 ---
 
 1-тарау . Жалпы ережелер
