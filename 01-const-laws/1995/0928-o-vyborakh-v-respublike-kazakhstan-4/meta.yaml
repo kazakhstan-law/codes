@@ -10,15 +10,15 @@ approved_on: 1995-09-28
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2007-06-19
-  rus: 2007-06-19
+  kaz: 2009-02-09
+  rus: 2009-02-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4/kaz/19.06.2007
-  rus: https://zan.gov.kz/client/#!/doc/4/rus/19.06.2007
+  kaz: https://zan.gov.kz/client/#!/doc/4/kaz/09.02.2009
+  rus: https://zan.gov.kz/client/#!/doc/4/rus/09.02.2009
 caused_by:
-  code: '33777'
-  requisite: Конституционный закон Республики Казахстан от 19 июня 2007 года № 268
+  code: '44128'
+  requisite: Конституционный закон Республики Казахстан от 9 февраля 2009 года № 124-IV
   title:
     rus: О внесении изменений и дополнений в Конституционный закон Республики Казахстан "О выборах в Республике Казахстан"
     kaz: '"Қазақстан Республикасындағы сайлау туралы" Қазақстан Республикасының Конституциялық заңына өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/33777/rus
+  link: https://zan.gov.kz/client/#!/doc/44128/rus
