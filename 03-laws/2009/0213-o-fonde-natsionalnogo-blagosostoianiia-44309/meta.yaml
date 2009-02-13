@@ -1,0 +1,17 @@
+act_code: '44309'
+requisite: Закон Республики Казахстан от 13 февраля 2009 года № 134-IV. Утратил силу Законом Республики Казахстан от 1 февраля 2012 года № 550-IV
+title:
+  rus: О Фонде национального благосостояния
+  kaz: Ұлттық әл-ауқат қоры туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2009-02-13
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2009-02-13
+  rus: 2009-02-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/44309/kaz/13.02.2009
+  rus: https://zan.gov.kz/client/#!/doc/44309/rus/13.02.2009
