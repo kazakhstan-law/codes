@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/29.12.2008
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/20.02.2009
 ---
 
 ## 576-2-бап. Қазақстан Республикасы Әдiлет министрлiгi қылмыстық-атқару жүйесiнiң органдары
