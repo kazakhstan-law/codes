@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/18098/rus/20.08.2008
+source: https://zan.gov.kz/client/#!/doc/18098/rus/27.03.2009
 ---
 
 ## Положение о Национальном Банке Республики Казахстан
