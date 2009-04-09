@@ -1,30 +1,30 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42597/rus/04.12.2008
+source: https://zan.gov.kz/client/#!/doc/42597/rus/09.04.2009
 ---
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td>
-Сумма,
-тыс. тенге
-</td>
 </tr>
 <tr>
 <th colspan="3">1</th>
@@ -66,8 +66,8 @@ source: https://zan.gov.kz/client/#!/doc/42597/rus/04.12.2008
 <td></td>
 <td>1</td>
 <td>
-Поступления от продажи
-финансовых активов внутри страны
+Поступления от продажи финансовых
+активов внутри страны
 </td>
 <td>1 500 000</td>
 </tr>
@@ -87,11 +87,11 @@ source: https://zan.gov.kz/client/#!/doc/42597/rus/04.12.2008
 </tr>
 <tr>
 <th>V. Дефицит бюджета</th>
-<th>-571 364 125</th>
+<th>- 573 624 995</th>
 </tr>
 <tr>
 <th>VI. Финансирование дефицита бюджета</th>
-<th>571 364 125</th>
+<th>573 624 995</th>
 </tr>
 </table>
 

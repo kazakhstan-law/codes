@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/42597/kaz/04.12.2008
+source: https://zan.gov.kz/client/#!/doc/42597/kaz/09.04.2009
 ---
 
 <table>
@@ -67,12 +67,16 @@ source: https://zan.gov.kz/client/#!/doc/42597/kaz/04.12.2008
 </td>
 </tr>
 <tr>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
 <th>V. Бюджет тапшылығы</th>
-<th>-514 947 380</th>
+<th>-573 624 995</th>
 </tr>
 <tr>
 <th>VI. Бюджет тапшылығын қаржыландыру</th>
-<th>514 947 380</th>
+<th>573 624 995</th>
 </tr>
 </table>
 
@@ -81,4 +85,4 @@ source: https://zan.gov.kz/client/#!/doc/42597/kaz/04.12.2008
 > *Қазақстан Республикасының*  
 > *2008 жылғы 4 желтоқсандағы*  
 > *N 96-ІV Заңына*  
-> *4-ҚОСЫМША*
+> *2-ҚОСЫМША*
