@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/84226/rus/04.05.2009
+repealed_on: 2009-11-07
+repealed_by:
+  code: '45652'
+  title: О товарных биржах
+  link: https://zan.gov.kz/client/#!/doc/45652/rus
 ---
 
 # О товарных биржах
