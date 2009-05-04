@@ -17,6 +17,11 @@ caused_by:
   title: Тауар биржалары туралы
   link: https://zan.gov.kz/client/#!/doc/45652/kaz
 source: https://zan.gov.kz/client/#!/doc/84226/kaz/04.05.2009
+repealed_on: 2009-11-07
+repealed_by:
+  code: '45652'
+  title: Тауар биржалары туралы
+  link: https://zan.gov.kz/client/#!/doc/45652/kaz
 ---
 
 # Тауар биржалары туралы
