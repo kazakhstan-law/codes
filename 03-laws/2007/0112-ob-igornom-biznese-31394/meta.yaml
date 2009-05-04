@@ -10,8 +10,15 @@ approved_on: 2007-01-12
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2007-01-12
-  rus: 2007-01-12
+  kaz: 2009-05-04
+  rus: 2009-05-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/31394/kaz/12.01.2007
-  rus: https://zan.gov.kz/client/#!/doc/31394/rus/12.01.2007
+  kaz: https://zan.gov.kz/client/#!/doc/31394/kaz/04.05.2009
+  rus: https://zan.gov.kz/client/#!/doc/31394/rus/04.05.2009
+caused_by:
+  code: '45710'
+  requisite: Закон Республики Казахстан от 4 мая 2009 года № 157-IV
+  title:
+    rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам игорного бизнеса
+    kaz: Қазақстан Республикасының кейбір заңнамалық актілеріне ойын бизнесі мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/45710/rus
