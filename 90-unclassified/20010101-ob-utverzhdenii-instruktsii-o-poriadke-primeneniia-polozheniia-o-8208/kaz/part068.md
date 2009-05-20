@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8208/kaz/15.03.2008
+source: https://zan.gov.kz/client/#!/doc/8208/kaz/20.05.2009
 ---
 
 ## Аттестациялық комиссия отырысының N _____ХАТТАМАСЫ

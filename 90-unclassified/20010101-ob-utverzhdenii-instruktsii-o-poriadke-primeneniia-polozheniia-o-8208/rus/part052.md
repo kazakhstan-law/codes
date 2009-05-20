@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8208/rus/15.03.2008
+source: https://zan.gov.kz/client/#!/doc/8208/rus/20.05.2009
 ---
 
 ## У В Е Д О М Л Е Н И Е об увольнении из органов внутренних дел
