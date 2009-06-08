@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/962/kaz/29.12.2008
+source: https://zan.gov.kz/client/#!/doc/962/kaz/08.06.2009
 ---
 
 1-бап. Осы Заңның мақсаты

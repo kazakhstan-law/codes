@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/29.12.2008
+source: https://zan.gov.kz/client/#!/doc/962/rus/08.06.2009
 ---
 
 ## Статья 18-1. Государственный контроль в сфере естественной монополии

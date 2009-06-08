@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/962/kaz/29.12.2008
+source: https://zan.gov.kz/client/#!/doc/962/kaz/08.06.2009
 ---
 
 ## 18-4-бап. Табиғи монополия субъектiсiнiң сатып алуды жүзеге асыруы кезiндегi мемлекеттiк бақылау
