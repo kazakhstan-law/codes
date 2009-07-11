@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/925/kaz/27.07.2007
+source: https://zan.gov.kz/client/#!/doc/925/kaz/11.07.2009
 ---
 
 1-тарау . Негiзгi ережелер
