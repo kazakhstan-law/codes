@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/11.07.2009
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/16.07.2009
 ---
 
 ## 576-1-бап. Акцизделетiн өнiм өндiрудi және олардың айналымын мемлекеттiк бақылау жөнiндегi органдар
