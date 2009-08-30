@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/879/rus/28.08.2009
+source: https://zan.gov.kz/client/#!/doc/879/rus/30.08.2009
 ---
 
 ## Гражданский кодекс Республики Казахстан
