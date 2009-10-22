@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15924/kaz/24.07.2009
+source: https://zan.gov.kz/client/#!/doc/15924/kaz/22.10.2009
 ---
 
 І бөлiм . Негізгі ережелер
