@@ -23,17 +23,24 @@ versions:
   cause:
     code: '45652'
     key: Z090000155_
+- date: 2009-11-08
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '45709'
+    key: Z090000156_
 version_date:
-  kaz: 2009-05-04
-  rus: 2009-05-04
+  kaz: 2009-11-08
+  rus: 2009-11-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22410/kaz/04.05.2009
-  rus: https://zan.gov.kz/client/#!/doc/22410/rus/04.05.2009
+  kaz: https://zan.gov.kz/client/#!/doc/22410/kaz/08.11.2009
+  rus: https://zan.gov.kz/client/#!/doc/22410/rus/08.11.2009
 caused_by:
-  code: '45652'
-  key: Z090000155_
-  requisite: Закон Республики Казахстан от 4 мая 2009 года № 155-IV
+  code: '45709'
+  key: Z090000156_
+  requisite: Закон Республики Казахстан от 4 мая 2009 года № 156-IV
   title:
-    rus: О товарных биржах
-    kaz: Тауар биржалары туралы
-  link: https://zan.gov.kz/client/#!/doc/45652/rus
+    rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам товарных бирж
+    kaz: Қазақстан Республикасының кейбір заңнамалық актілеріне тауар биржалары мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/45709/rus
