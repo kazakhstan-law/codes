@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8096/rus/22.10.2009
+source: https://zan.gov.kz/client/#!/doc/8096/rus/08.11.2009
 ---
 
 ## Части документа
@@ -10,9 +10,9 @@ source: https://zan.gov.kz/client/#!/doc/8096/rus/22.10.2009
 
 | Часть | Название |
 |---|---|
-| [`intro`](rus/intro.md) | Общая часть |
-| [`intro-part004`](rus/intro-part004.md) | `!` граждан |
-| [`intro-part005`](rus/intro-part005.md) | права и обязанности |
+| [`intro`](rus/intro.md) | intro |
+| [`intro-part001`](rus/intro-part001.md) | `!` Общая часть |
+| [`intro-part003`](rus/intro-part003.md) | права и обязанности |
 | [`sec001`](rus/sec001.md) | Раздел 1. Общие положения |
 | [`sec002`](rus/sec002.md) | Раздел 2. Административное правонарушение и административная ответственность |
 | [`sec002-ch010`](rus/sec002-ch010.md) | Глава 10. Административные правонарушения, посягающие на права личности |
