@@ -1,0 +1,18 @@
+act_code: '49094'
+requisite: Закон Республики Казахстан от 24 ноября 2009 года № 204-IV
+title:
+  rus: О ратификации Протокола о предоставлении тарифных льгот
+  kaz: Тарифтік жеңілдіктер беру туралы хаттаманы ратификациялау туралы
+form: ПРОТ
+type_codes:
+- ЗАК
+- ПРОТ
+approved_on: 2009-11-24
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2009-11-24
+  rus: 2009-11-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/49094/kaz/24.11.2009
+  rus: https://zan.gov.kz/client/#!/doc/49094/rus/24.11.2009
