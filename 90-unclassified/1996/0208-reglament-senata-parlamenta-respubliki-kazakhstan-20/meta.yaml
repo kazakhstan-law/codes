@@ -9,13 +9,15 @@ approved_on: 1996-02-08
 approved_by:
 - '102000000000'
 version_date:
-  rus: 2006-06-29
+  kaz: 2009-12-11
+  rus: 2009-12-11
 source:
-  rus: https://zan.gov.kz/client/#!/doc/20/rus/29.06.2006
+  kaz: https://zan.gov.kz/client/#!/doc/20/kaz/11.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/20/rus/11.12.2009
 caused_by:
-  code: '35987'
-  requisite: Постановление Сената Парламента Республики Казахстан от 29 июня 2006 года N 399-III
+  code: '49944'
+  requisite: Постановление Сената Парламента Республики Казахстан от 11 декабря 2009 года № 526-IV
   title:
     rus: О внесении изменений и дополнений в Регламент Сената Парламента Республики Казахстан
     kaz: Қазақстан Республикасы Парламенті Сенатының Регламентіне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/35987/rus
+  link: https://zan.gov.kz/client/#!/doc/49944/rus
