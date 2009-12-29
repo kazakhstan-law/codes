@@ -11,15 +11,10 @@ approved_on: 1999-12-29
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2008-02-19
-  rus: 2008-02-19
+  kaz: 2009-12-29
+  rus: 2009-12-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4909/kaz/19.02.2008
-  rus: https://zan.gov.kz/client/#!/doc/4909/rus/19.02.2008
+  kaz: https://zan.gov.kz/client/#!/doc/4909/kaz/29.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/4909/rus/29.12.2009
 caused_by:
-  code: '37710'
-  requisite: Указ Президента Республики Казахстан от 19 февраля 2008 года № 542
-  title:
-    rus: О внесении дополнения и изменения в некоторые указы Президента Республики Казахстан
-    kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына толықтыру мен өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/37710/rus
+  code: U090000911_
