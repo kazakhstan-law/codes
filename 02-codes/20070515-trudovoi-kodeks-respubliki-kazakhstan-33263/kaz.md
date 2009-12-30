@@ -1,8 +1,6 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/33263/kaz/07.12.2009
+source: https://zan.gov.kz/client/#!/doc/33263/kaz/30.12.2009
 ---
-
-## МАЗМҰНЫ
 
 Жалпы бөлім
 
