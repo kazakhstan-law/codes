@@ -1,5 +1,5 @@
 ---
-version_id: AI104325_78
+version_id: AI104325_80
 act_code: '104325'
 language: rus
 title: О банках и банковской деятельности в Республике Казахстан
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '101000000000'
 approval_date: 1995-08-31
-version_date: 2009-12-30
+version_date: 2010-01-01
 registry_number: '104325'
 caused_by:
-  code: '50410'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам обязательного и взаимного страхования, налогообложения
-  link: https://zan.gov.kz/client/#!/doc/50410/rus
-source: https://zan.gov.kz/client/#!/doc/104325/rus/30.12.2009
+  code: '41972'
+  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам устойчивости финансовой системы
+  link: https://zan.gov.kz/client/#!/doc/41972/rus
+source: https://zan.gov.kz/client/#!/doc/104325/rus/01.01.2010
 ---
 
 ## Оглавление
