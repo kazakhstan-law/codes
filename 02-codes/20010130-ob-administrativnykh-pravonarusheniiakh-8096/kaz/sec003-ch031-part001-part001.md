@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/06.01.2010
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/20.01.2010
 ---
 
 ## 538-бап. Әкiмшiлiк құқық бұзушылық туралы iстердi қарауға уәкiлеттi органдар (лауазымды адамдар)
