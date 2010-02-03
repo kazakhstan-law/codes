@@ -1,0 +1,18 @@
+act_code: '50591'
+requisite: Закон Республики Казахстан от 3 февраля 2010 года № 245-IV
+title:
+  rus: О ратификации Конвенции о ядерной безопасности
+  kaz: Ядролық қауіпсіздік туралы конвенцияны ратификациялау туралы
+form: КОНВ
+type_codes:
+- ЗАК
+- КОНВ
+approved_on: 2010-02-03
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2010-02-03
+  rus: 2010-02-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/50591/kaz/03.02.2010
+  rus: https://zan.gov.kz/client/#!/doc/50591/rus/03.02.2010
