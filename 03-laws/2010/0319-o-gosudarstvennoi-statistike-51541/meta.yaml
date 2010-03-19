@@ -1,0 +1,17 @@
+act_code: '51541'
+requisite: Закон Республики Казахстан от 19 марта 2010 года № 257-IV
+title:
+  rus: О государственной статистике
+  kaz: Мемлекеттік статистика туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2010-03-19
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2010-03-19
+  rus: 2010-03-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/51541/kaz/19.03.2010
+  rus: https://zan.gov.kz/client/#!/doc/51541/rus/19.03.2010
