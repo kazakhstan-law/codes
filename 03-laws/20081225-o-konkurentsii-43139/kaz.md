@@ -1,8 +1,6 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/43139/kaz/10.07.2009
+source: https://zan.gov.kz/client/#!/doc/43139/kaz/19.03.2010
 ---
-
-## МАЗМҰНЫ
 
 1-БӨЛІМ . НЕГІЗГІ ЕРЕЖЕЛЕР
 

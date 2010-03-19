@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28852/kaz/21.01.2010
+source: https://zan.gov.kz/client/#!/doc/28852/kaz/19.03.2010
 ---
 
 1-БӨЛIМ. НЕГIЗГI ЕРЕЖЕЛЕР

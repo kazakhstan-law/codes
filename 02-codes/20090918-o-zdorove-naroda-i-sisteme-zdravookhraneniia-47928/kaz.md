@@ -1,8 +1,6 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/47928/kaz/18.09.2009
+source: https://zan.gov.kz/client/#!/doc/47928/kaz/19.03.2010
 ---
-
-## МАЗМҰНЫ
 
 ЖАЛПЫ БӨЛІМ
 

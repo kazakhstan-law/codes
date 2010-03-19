@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42825/rus/30.12.2009
+source: https://zan.gov.kz/client/#!/doc/42825/rus/19.03.2010
 ---
 
 ## "Статья 249. Изменение срока уплаты налога на добавленную стоимость на импортируемые товары
