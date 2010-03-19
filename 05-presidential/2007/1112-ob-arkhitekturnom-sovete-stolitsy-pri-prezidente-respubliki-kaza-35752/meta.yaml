@@ -10,10 +10,10 @@ approved_on: 2007-11-12
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2009-05-22
-  rus: 2009-05-22
+  kaz: 2010-03-19
+  rus: 2010-03-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/35752/kaz/22.05.2009
-  rus: https://zan.gov.kz/client/#!/doc/35752/rus/22.05.2009
+  kaz: https://zan.gov.kz/client/#!/doc/35752/kaz/19.03.2010
+  rus: https://zan.gov.kz/client/#!/doc/35752/rus/19.03.2010
 caused_by:
-  code: U090000815_
+  code: '53731'
