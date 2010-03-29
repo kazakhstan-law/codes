@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/44996/rus/27.02.2009
+source: https://zan.gov.kz/client/#!/doc/44996/rus/29.03.2010
 ---
 
 ## 10. Реквизиты и подписи сторон
