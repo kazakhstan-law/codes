@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7966/rus/02.04.2010
+source: https://zan.gov.kz/client/#!/doc/7966/rus/08.04.2010
 ---
 
 Глава 1. Общие положения
