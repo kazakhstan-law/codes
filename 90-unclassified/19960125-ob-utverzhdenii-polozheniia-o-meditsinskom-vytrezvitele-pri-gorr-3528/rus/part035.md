@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/3528/rus/07.12.2005
+source: https://zan.gov.kz/client/#!/doc/3528/rus/06.05.2010
 ---
 
 ## Т А Б Л И Ц А дифференциальных признаков степеней алкогольного опьянения
