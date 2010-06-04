@@ -10,10 +10,15 @@ approved_on: 1999-03-20
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2009-12-29
-  rus: 2009-12-29
+  kaz: 2010-06-04
+  rus: 2010-06-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2335/kaz/29.12.2009
-  rus: https://zan.gov.kz/client/#!/doc/2335/rus/29.12.2009
+  kaz: https://zan.gov.kz/client/#!/doc/2335/kaz/04.06.2010
+  rus: https://zan.gov.kz/client/#!/doc/2335/rus/04.06.2010
 caused_by:
-  code: '49657'
+  code: '53047'
+  requisite: Указ Президента Республики Казахстан от 4 июня 2010 года № 993
+  title:
+    rus: О внесении дополнения в Указ Президента Республики Казахстан от 20 марта 1999 года № 88
+    kaz: Қазақстан Республикасы Президентінің 1999 жылғы 20 наурыздағы № 88 Жарлығына толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/53047/rus
