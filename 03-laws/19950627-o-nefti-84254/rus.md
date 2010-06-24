@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/84254/rus/13.02.2009
+repealed_on: 2010-07-05
+repealed_by:
+  code: '53306'
+  title: О недрах и недропользовании
+  link: https://zan.gov.kz/client/#!/doc/53306/rus
 ---
 
 # О нефти
