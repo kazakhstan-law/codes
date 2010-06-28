@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8096/rus/09.06.2010
+source: https://zan.gov.kz/client/#!/doc/8096/rus/28.06.2010
 ---
 
 ## Статья 575. Органы пограничной службы
