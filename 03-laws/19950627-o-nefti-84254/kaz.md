@@ -1,10 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84254/kaz/13.02.2009
-repealed_on: 2010-07-05
-repealed_by:
-  code: '53306'
-  title: Жер қойнауы және жер қойнауын пайдалану туралы
-  link: https://zan.gov.kz/client/#!/doc/53306/kaz
+source: https://zan.gov.kz/client/#!/doc/84254/kaz/30.06.2010
 ---
 
 # Мұнай туралы
