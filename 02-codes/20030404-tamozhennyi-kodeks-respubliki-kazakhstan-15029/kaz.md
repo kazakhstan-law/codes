@@ -17,6 +17,11 @@ caused_by:
   title: Тауарлардың жекелеген түрлерін әкелуге сандық шектеулер енгізу туралы
   link: https://zan.gov.kz/client/#!/doc/23723/kaz
 source: https://zan.gov.kz/client/#!/doc/15029/kaz/30.06.2010
+repealed_on: 2011-07-01
+repealed_by:
+  code: '53533'
+  title: '"Қазақстан Республикасындағы кеден iсi туралы" Қазақстан Республикасының Кодексін қолданысқа енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/53533/kaz
 ---
 
 1. Жалпы бөлім

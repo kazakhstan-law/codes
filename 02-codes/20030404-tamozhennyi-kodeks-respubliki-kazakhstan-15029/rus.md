@@ -17,6 +17,11 @@ caused_by:
   title: О введении количественных ограничений на ввоз отдельных видов товаров
   link: https://zan.gov.kz/client/#!/doc/23723/rus
 source: https://zan.gov.kz/client/#!/doc/15029/rus/30.06.2010
+repealed_on: 2011-07-01
+repealed_by:
+  code: '53533'
+  title: О введении в действие Кодекса Республики Казахстан "О таможенном деле в Республике Казахстан"
+  link: https://zan.gov.kz/client/#!/doc/53533/rus
 ---
 
 ## Таможенный кодекс Республики Казахстан Оглавление
