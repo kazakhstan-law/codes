@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/kaz/12.10.2006
+source: https://zan.gov.kz/client/#!/doc/30279/kaz/12.08.2010
 ---
 
 ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ МЕМЛЕКЕТТIК ПРОТОКОЛЫ
