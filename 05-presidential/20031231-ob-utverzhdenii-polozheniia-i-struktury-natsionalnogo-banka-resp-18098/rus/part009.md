@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/18098/rus/09.11.2009
+source: https://zan.gov.kz/client/#!/doc/18098/rus/27.09.2010
 ---
 
 ## 8. Отчетность и проверка деятельности Национального Банка Казахстана
