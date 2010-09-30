@@ -1,5 +1,5 @@
 ---
-version_id: AI13369_0
+version_id: AI13369_2
 act_code: '13369'
 language: kaz
 title: Қауiптi жүктердi тасымалдау бойынша Нұсқаулықты бекiту туралы
@@ -10,12 +10,18 @@ type_codes:
 approved_by:
 - '103013003000'
 approval_date: 2002-09-16
-version_date: 2002-09-16
+version_date: 2010-09-30
 registry_number: '13369'
-source: https://zan.gov.kz/client/#!/doc/13369/kaz/16.09.2002
+caused_by:
+  code: A10I0001995
+source: https://zan.gov.kz/client/#!/doc/13369/kaz/30.09.2010
 ---
 
 # Қауiптi жүктердi тасымалдау бойынша Нұсқаулықты бекiту туралы
+
+РҚАО-ның ескертуі!
+
+2011.01.01 бастап бұйрықтың күші жойылады - ҚР Көлік және коммуникация министрінің м.а. 2010.09.30 № 442 бұйрығымен.
 
 Келiсiлген:
 
