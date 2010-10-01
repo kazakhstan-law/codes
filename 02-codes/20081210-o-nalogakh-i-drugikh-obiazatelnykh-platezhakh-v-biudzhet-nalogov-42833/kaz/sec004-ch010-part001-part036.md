@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/42833/kaz/15.07.2010
+source: https://zan.gov.kz/client/#!/doc/42833/kaz/01.10.2010
 ---
 
 ## 116-бап. Тіркелген активтер
