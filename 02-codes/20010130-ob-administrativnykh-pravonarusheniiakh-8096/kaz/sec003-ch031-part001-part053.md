@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/15.07.2010
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/06.10.2010
 ---
 
 ## 576-бап. Мемлекеттiк құпияларды қорғау органдары
