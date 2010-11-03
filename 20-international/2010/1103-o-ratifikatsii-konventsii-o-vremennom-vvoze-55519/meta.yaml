@@ -1,0 +1,18 @@
+act_code: '55519'
+requisite: Закон Республики Казахстан от 3 ноября 2010 года № 346-IV ЗРК
+title:
+  rus: О ратификации Конвенции о временном ввозе
+  kaz: Уақытша әкелу туралы конвенцияны ратификациялау туралы
+form: КОНВ
+type_codes:
+- ЗАК
+- КОНВ
+approved_on: 2010-11-03
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2010-11-03
+  rus: 2010-11-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/55519/kaz/03.11.2010
+  rus: https://zan.gov.kz/client/#!/doc/55519/rus/03.11.2010
