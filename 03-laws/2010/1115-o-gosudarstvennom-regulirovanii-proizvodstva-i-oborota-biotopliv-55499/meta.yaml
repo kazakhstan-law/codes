@@ -1,0 +1,17 @@
+act_code: '55499'
+requisite: Закон Республики Казахстан от 15 ноября 2010 года № 351-IV
+title:
+  rus: О государственном регулировании производства и оборота биотоплива
+  kaz: Биоотын өндірісін және айналымын мемлекеттік реттеу туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2010-11-15
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2010-11-15
+  rus: 2010-11-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/55499/kaz/15.11.2010
+  rus: https://zan.gov.kz/client/#!/doc/55499/rus/15.11.2010
