@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/42833/rus/21.10.2010
+source: https://zan.gov.kz/client/#!/doc/42833/rus/23.11.2010
 ---
 
 1. ОБЩАЯ ЧАСТЬ
