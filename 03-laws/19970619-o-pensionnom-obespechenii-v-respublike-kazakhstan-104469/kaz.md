@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104469/kaz/21.10.2010
+source: https://zan.gov.kz/client/#!/doc/104469/kaz/15.12.2010
 ---
 
 1 БӨЛIМ. Зейнетақымен қамсыздандыру негiздерi
