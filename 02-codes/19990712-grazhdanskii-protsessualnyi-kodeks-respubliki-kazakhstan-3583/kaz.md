@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3583/kaz/23.11.2010
+source: https://zan.gov.kz/client/#!/doc/3583/kaz/29.12.2010
 ---
 
 1-бөлім . Жалпы ережелер
