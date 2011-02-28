@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55722/kaz/29.11.2010
+source: https://zan.gov.kz/client/#!/doc/55722/kaz/28.02.2011
 ---
 
 <table>
@@ -72,11 +72,11 @@ source: https://zan.gov.kz/client/#!/doc/55722/kaz/29.11.2010
 </tr>
 <tr>
 <th>V. Бюджет тапшылығы</th>
-<th>-602 457 720</th>
+<th>-695 810 551</th>
 </tr>
 <tr>
 <th>VI. Бюджет тапшылығын қаржыландыру</th>
-<th>602 457 720</th>
+<th>695 810 551</th>
 </tr>
 </table>
 
