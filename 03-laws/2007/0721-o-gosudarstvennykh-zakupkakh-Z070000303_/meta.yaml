@@ -177,12 +177,22 @@ versions:
   cause:
     code: '57366'
     key: Z1100000408
+- date: 2011-03-24
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '57366'
+    key: Z1100000408
+  also_caused_by:
+  - code: '57869'
+    key: Z1100000420
 version_date:
-  kaz: 2011-02-18
-  rus: 2011-02-18
+  kaz: 2011-03-24
+  rus: 2011-03-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/34477/kaz/18.02.2011
-  rus: https://zan.gov.kz/client/#!/doc/34477/rus/18.02.2011
+  kaz: https://zan.gov.kz/client/#!/doc/34477/kaz/24.03.2011
+  rus: https://zan.gov.kz/client/#!/doc/34477/rus/24.03.2011
 caused_by:
   code: '57366'
   key: Z1100000408
