@@ -1,0 +1,17 @@
+act_code: '58908'
+requisite: Указ Президента Республики Казахстан от 18 мая 2011 года № 84
+title:
+  rus: Об Агентстве Республики Казахстан по делам религий
+  kaz: Қазақстан Республикасы Дін істері агенттігі туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2011-05-18
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2011-05-18
+  rus: 2011-05-18
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/58908/kaz/18.05.2011
+  rus: https://zan.gov.kz/client/#!/doc/58908/rus/18.05.2011
