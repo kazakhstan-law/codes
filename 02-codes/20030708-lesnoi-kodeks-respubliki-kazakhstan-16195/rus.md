@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16195/rus/06.01.2011
+source: https://zan.gov.kz/client/#!/doc/16195/rus/05.07.2011
 ---
 
 ## Лесной кодекс Республики Казахстан Оглавление

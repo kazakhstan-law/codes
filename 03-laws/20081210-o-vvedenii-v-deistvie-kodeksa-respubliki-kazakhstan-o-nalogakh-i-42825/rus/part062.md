@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42825/rus/26.11.2010
+source: https://zan.gov.kz/client/#!/doc/42825/rus/05.07.2011
 ---
 
 ## Статья 48-2.

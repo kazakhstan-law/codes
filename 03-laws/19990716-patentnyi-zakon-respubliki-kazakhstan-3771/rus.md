@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3771/rus/10.07.2009
+source: https://zan.gov.kz/client/#!/doc/3771/rus/05.07.2011
 ---
 
 ## Оглавление
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/3771/rus/10.07.2009
 
 яя
 
-# Патентный закон
+# Патентный закон Республики Казахстан
 
 
 ## Части документа
