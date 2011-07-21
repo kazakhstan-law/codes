@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104325/kaz/15.07.2011
+source: https://zan.gov.kz/client/#!/doc/104325/kaz/21.07.2011
 ---
 
 I Бөлiм. Банкiлердi құрудың және олардың қызметiнiң негiздемесi мен шарттары
