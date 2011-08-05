@@ -1,5 +1,5 @@
 ---
-version_id: AI879_129
+version_id: AI879_131
 act_code: '879'
 language: kaz
 title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ АЗАМАТТЫҚ КОДЕКСI (ЖАЛПЫ БӨЛІМ)
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 1994-12-27
-version_date: 2011-07-22
+version_date: 2011-08-05
 registry_number: '879'
 caused_by:
-  code: '60048'
-  title: Қазақстан Республикасының кейбір заңнамалық актілеріне тұрғын үй қатынастары мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/60048/kaz
-source: https://zan.gov.kz/client/#!/doc/879/kaz/22.07.2011
+  code: '57224'
+  title: Қазақстан Республикасының кейбір заңнамалық актілеріне медиация мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/57224/kaz
+source: https://zan.gov.kz/client/#!/doc/879/kaz/05.08.2011
 ---
 
 Жалпы бөлім
