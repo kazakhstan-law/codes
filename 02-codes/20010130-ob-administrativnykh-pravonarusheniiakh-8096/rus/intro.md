@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8096/rus/13.10.2011
+source: https://zan.gov.kz/client/#!/doc/8096/rus/09.11.2011
 ---
 
 ## Кодекс Республики Казахстан об административных правонарушениях
