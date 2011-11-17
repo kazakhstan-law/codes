@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/31169/rus/25.09.2008
+source: https://zan.gov.kz/client/#!/doc/31169/rus/17.11.2011
 ---
 
 ## 12. Условия изменения, дополнения и прекращения действия Договора
