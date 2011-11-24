@@ -1,0 +1,18 @@
+act_code: '61774'
+requisite: Указ Президента Республики Казахстан от 24 ноября 2011 года № 181
+title:
+  rus: О создании специальной экономической зоны "Сарыарқа"
+  kaz: '"Сарыарқа" арнайы экономикалық аймағын құру туралы'
+form: УКАЗ
+type_codes:
+- ПОЛ
+- УКАЗ
+approved_on: 2011-11-24
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2011-11-24
+  rus: 2011-11-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/61774/kaz/24.11.2011
+  rus: https://zan.gov.kz/client/#!/doc/61774/rus/24.11.2011
