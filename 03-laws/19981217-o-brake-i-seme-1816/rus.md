@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам занятости и социальной защиты населения
   link: https://zan.gov.kz/client/#!/doc/59469/rus
 source: https://zan.gov.kz/client/#!/doc/1816/rus/27.06.2011
+repealed_on: 2012-01-17
+repealed_by:
+  code: '62568'
+  title: О браке (супружестве) и семье
+  link: https://zan.gov.kz/client/#!/doc/62568/rus
 ---
 
 ## Оглавление
