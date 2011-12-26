@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/1816/kaz/27.06.2011
+repealed_on: 2012-01-17
+repealed_by:
+  code: '62568'
+  title: Неке (ерлі-зайыптылық) және отбасы туралы
+  link: https://zan.gov.kz/client/#!/doc/62568/kaz
 ---
 
 1-бөлім . Жалпы ережелер
