@@ -10,11 +10,9 @@ approved_on: 2005-02-07
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2010-08-09
-  rus: 2010-08-09
+  kaz: 2012-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22880/kaz/09.08.2010
-  rus: https://zan.gov.kz/client/#!/doc/22880/rus/09.08.2010
+  kaz: https://zan.gov.kz/client/#!/doc/22880/kaz/01.01.2012
 caused_by:
   code: '50410'
   requisite: Закон Республики Казахстан от 30 декабря 2009 года № 234-IV
