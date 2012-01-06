@@ -1,0 +1,17 @@
+act_code: '62908'
+requisite: Закон Республики Казахстан от 6 января 2012 года № 528-IV
+title:
+  rus: О космической деятельности
+  kaz: Ғарыш қызметі туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2012-01-06
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2012-01-06
+  rus: 2012-01-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/62908/kaz/06.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/62908/rus/06.01.2012
