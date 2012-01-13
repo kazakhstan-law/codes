@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/343/rus/13.01.2012
+repealed_on: 2012-07-26
+repealed_by:
+  code: '62912'
+  title: Об энергосбережении и повышении энергоэффективности
+  link: https://zan.gov.kz/client/#!/doc/62912/rus
 ---
 
 ## Оглавление
