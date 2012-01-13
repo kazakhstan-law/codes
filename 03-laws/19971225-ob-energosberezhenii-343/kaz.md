@@ -17,6 +17,11 @@ caused_by:
   title: Энергия үнемдеу және энергия тиімділігін арттыру туралы
   link: https://zan.gov.kz/client/#!/doc/62912/kaz
 source: https://zan.gov.kz/client/#!/doc/343/kaz/13.01.2012
+repealed_on: 2012-07-26
+repealed_by:
+  code: '62912'
+  title: Энергия үнемдеу және энергия тиімділігін арттыру туралы
+  link: https://zan.gov.kz/client/#!/doc/62912/kaz
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
