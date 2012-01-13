@@ -1,0 +1,17 @@
+act_code: '62912'
+requisite: Закон Республики Казахстан от 13 января 2012 года № 541-IV
+title:
+  rus: Об энергосбережении и повышении энергоэффективности
+  kaz: Энергия үнемдеу және энергия тиімділігін арттыру туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2012-01-13
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2012-01-13
+  rus: 2012-01-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/62912/kaz/13.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/62912/rus/13.01.2012
