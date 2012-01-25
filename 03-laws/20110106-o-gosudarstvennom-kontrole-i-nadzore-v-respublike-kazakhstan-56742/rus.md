@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56742/rus/18.01.2012
+source: https://zan.gov.kz/client/#!/doc/56742/rus/25.01.2012
 ---
 
 ## Оглавление
@@ -90,3 +90,4 @@ source: https://zan.gov.kz/client/#!/doc/56742/rus/18.01.2012
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | Глава 1. ОБЩИЕ ПОЛОЖЕНИЯ |
+| [`ch003`](rus/ch003.md) | Глава 3. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ |
