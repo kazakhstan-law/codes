@@ -127,12 +127,19 @@ versions:
   cause:
     code: '59821'
     key: Z1100000461
+- date: 2012-01-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '59821'
+    key: Z1100000461
 version_date:
-  kaz: 2011-07-15
-  rus: 2011-07-15
+  kaz: 2012-01-30
+  rus: 2012-01-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/11113/kaz/15.07.2011
-  rus: https://zan.gov.kz/client/#!/doc/11113/rus/15.07.2011
+  kaz: https://zan.gov.kz/client/#!/doc/11113/kaz/30.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/11113/rus/30.01.2012
 caused_by:
   code: '59821'
   key: Z1100000461
