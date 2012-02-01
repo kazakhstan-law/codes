@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/962/kaz/30.01.2012
+source: https://zan.gov.kz/client/#!/doc/962/kaz/01.02.2012
 ---
 
 ## 1-бап. Осы Заңның мақсаты
