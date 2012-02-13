@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61643/kaz/24.11.2011
+source: https://zan.gov.kz/client/#!/doc/61643/kaz/13.02.2012
 ---
 
 ## 2014 жылға арналған республикалық бюджет

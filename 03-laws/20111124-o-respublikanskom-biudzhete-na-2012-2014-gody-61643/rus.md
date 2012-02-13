@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/61643/rus/24.11.2011
+source: https://zan.gov.kz/client/#!/doc/61643/rus/13.02.2012
 ---
 
 # О республиканском бюджете на 2012 - 2014 годы

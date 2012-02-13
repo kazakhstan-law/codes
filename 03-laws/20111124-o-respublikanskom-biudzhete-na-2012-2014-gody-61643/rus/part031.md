@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61643/rus/24.11.2011
+source: https://zan.gov.kz/client/#!/doc/61643/rus/13.02.2012
 ---
 
 ## Объемы поступлений в бюджет на 2012 год, направляемые в Национальный фонд Республики Казахстан

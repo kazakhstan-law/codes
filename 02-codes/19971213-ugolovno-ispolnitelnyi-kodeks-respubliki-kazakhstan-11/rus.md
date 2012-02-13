@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11/rus/18.01.2012
+source: https://zan.gov.kz/client/#!/doc/11/rus/13.02.2012
 ---
 
 ## Уголовно-исполнительный кодекс Республики Казахстан Оглавление
