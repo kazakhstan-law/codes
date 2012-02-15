@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/13.02.2012
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/15.02.2012
 ---
 
 ## 572-бап. Қазақстан Республикасы Ұлттық Банкiнiң органдары
