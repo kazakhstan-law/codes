@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60862/rus/30.09.2011
+source: https://zan.gov.kz/client/#!/doc/60862/rus/13.03.2012
 ---
 
 ## "Халықаралық ынтымақтастықты дамытуға қосқан үлесi үшін" (приложение 54)
