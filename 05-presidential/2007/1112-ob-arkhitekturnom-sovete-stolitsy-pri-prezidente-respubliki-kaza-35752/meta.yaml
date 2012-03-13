@@ -10,10 +10,15 @@ approved_on: 2007-11-12
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2010-03-19
-  rus: 2010-03-19
+  kaz: 2012-03-13
+  rus: 2012-03-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/35752/kaz/19.03.2010
-  rus: https://zan.gov.kz/client/#!/doc/35752/rus/19.03.2010
+  kaz: https://zan.gov.kz/client/#!/doc/35752/kaz/13.03.2012
+  rus: https://zan.gov.kz/client/#!/doc/35752/rus/13.03.2012
 caused_by:
-  code: '53731'
+  code: '64078'
+  requisite: Указ Президента Республики Казахстан от 13 марта 2012 года № 284
+  title:
+    rus: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан
+    kaz: Қазақстан Республикасы Президентінің кейбір актілеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/64078/rus
