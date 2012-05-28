@@ -11,8 +11,10 @@ approved_on: 2000-05-29
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2000-05-29
-  rus: 2000-05-29
+  kaz: 2012-05-28
+  rus: 2012-05-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/6095/kaz/29.05.2000
-  rus: https://zan.gov.kz/client/#!/doc/6095/rus/29.05.2000
+  kaz: https://zan.gov.kz/client/#!/doc/6095/kaz/28.05.2012
+  rus: https://zan.gov.kz/client/#!/doc/6095/rus/28.05.2012
+caused_by:
+  code: P1200000690
