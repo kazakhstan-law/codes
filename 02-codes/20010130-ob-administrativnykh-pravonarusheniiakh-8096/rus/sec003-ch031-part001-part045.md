@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8096/rus/27.04.2012
+source: https://zan.gov.kz/client/#!/doc/8096/rus/21.06.2012
 ---
 
 ## Статья 571-1. Центральный уполномоченный орган по внутреннему контролю

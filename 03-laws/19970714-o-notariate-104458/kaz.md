@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104458/kaz/27.04.2012
+source: https://zan.gov.kz/client/#!/doc/104458/kaz/21.06.2012
 ---
 
 1 бөлiм. Нотариат қызметiнiң ұйымдық және құқықтық негiздерi
