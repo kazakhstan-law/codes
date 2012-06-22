@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/42825/kaz/17.02.2012
+source: https://zan.gov.kz/client/#!/doc/42825/kaz/22.06.2012
 ---
 
 ## 48-1-бап.
