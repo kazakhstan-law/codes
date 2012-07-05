@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104315/kaz/27.04.2012
+source: https://zan.gov.kz/client/#!/doc/104315/kaz/05.07.2012
 ---
 
 1 ТАРАУ. Жалпы ережелер
