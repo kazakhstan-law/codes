@@ -156,12 +156,26 @@ versions:
   cause:
     code: '65057'
     key: Z1200000015
+- date: 2012-07-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '65057'
+    key: Z1200000015
+  also_caused_by:
+  - code: '66611'
+    key: Z1200000034
+  - code: '66681'
+    key: Z1200000036
+  - code: '66693'
+    key: Z1200000031
 version_date:
-  kaz: 2012-04-27
-  rus: 2012-04-27
+  kaz: 2012-07-10
+  rus: 2012-07-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/31308/kaz/27.04.2012
-  rus: https://zan.gov.kz/client/#!/doc/31308/rus/27.04.2012
+  kaz: https://zan.gov.kz/client/#!/doc/31308/kaz/10.07.2012
+  rus: https://zan.gov.kz/client/#!/doc/31308/rus/10.07.2012
 caused_by:
   code: '65057'
   key: Z1200000015
