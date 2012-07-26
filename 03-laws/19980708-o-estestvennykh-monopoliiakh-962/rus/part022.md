@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/10.07.2012
+source: https://zan.gov.kz/client/#!/doc/962/rus/26.07.2012
 ---
 
 ## Статья 15-2. Порядок утверждения тарифа с применением метода сравнительного анализа
