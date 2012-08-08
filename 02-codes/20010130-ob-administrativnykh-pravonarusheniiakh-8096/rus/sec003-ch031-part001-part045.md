@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8096/rus/04.08.2012
+source: https://zan.gov.kz/client/#!/doc/8096/rus/08.08.2012
 ---
 
 ## Статья 570. Органы налоговой службы
