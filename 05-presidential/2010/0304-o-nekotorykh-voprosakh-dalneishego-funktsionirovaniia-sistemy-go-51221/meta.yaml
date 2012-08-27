@@ -11,8 +11,15 @@ approved_on: 2010-03-04
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2010-03-04
-  rus: 2010-03-04
+  kaz: 2012-08-27
+  rus: 2012-08-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/51221/kaz/04.03.2010
-  rus: https://zan.gov.kz/client/#!/doc/51221/rus/04.03.2010
+  kaz: https://zan.gov.kz/client/#!/doc/51221/kaz/27.08.2012
+  rus: https://zan.gov.kz/client/#!/doc/51221/rus/27.08.2012
+caused_by:
+  code: '67343'
+  requisite: Указ Президента Республики Казахстан от 27 августа 2012 года № 371
+  title:
+    rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
+    kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/67343/rus
