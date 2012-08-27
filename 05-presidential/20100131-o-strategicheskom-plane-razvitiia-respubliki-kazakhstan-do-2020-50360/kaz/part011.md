@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50360/kaz/01.02.2010
+source: https://zan.gov.kz/client/#!/doc/50360/kaz/27.08.2012
 ---
 
 ## Қазақстанның өркендеуінің, гүлденуі мен қауіпсіздігінің орнықты тұғыры: түйінді бес бағыт

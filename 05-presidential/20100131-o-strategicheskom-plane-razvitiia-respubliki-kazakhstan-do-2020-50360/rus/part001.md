@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/50360/rus/01.02.2010
+source: https://zan.gov.kz/client/#!/doc/50360/rus/27.08.2012
 ---
 
 ## СТРАТЕГИЧЕСКИЙ ПЛАН РАЗВИТИЯ РЕСПУБЛИКИ КАЗАХСТАН ДО 2020 ГОДА
