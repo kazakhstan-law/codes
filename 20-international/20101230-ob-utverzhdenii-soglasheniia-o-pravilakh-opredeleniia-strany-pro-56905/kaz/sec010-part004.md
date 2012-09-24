@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56905/kaz/28.04.2012
+source: https://zan.gov.kz/client/#!/doc/56905/kaz/24.09.2012
 ---
 
 > *Тауарлардың шығарылған елін*  
