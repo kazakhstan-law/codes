@@ -1,0 +1,17 @@
+act_code: '68894'
+requisite: Закон Республики Казахстан от 26 ноября 2012 года № 56-V
+title:
+  rus: О микрофинансовой деятельности
+  kaz: Микроқаржылық қызмет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2012-11-26
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2012-11-26
+  rus: 2012-11-26
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/68894/kaz/26.11.2012
+  rus: https://zan.gov.kz/client/#!/doc/68894/rus/26.11.2012
