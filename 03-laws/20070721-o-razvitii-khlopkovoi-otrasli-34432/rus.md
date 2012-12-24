@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34432/rus/10.07.2012
+source: https://zan.gov.kz/client/#!/doc/34432/rus/24.12.2012
 ---
 
 ## Оглавление
@@ -124,3 +124,4 @@ source: https://zan.gov.kz/client/#!/doc/34432/rus/10.07.2012
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | Глава 1. Общие положения |
+| [`ch009`](rus/ch009.md) | Глава 9. Заключительные положения |
