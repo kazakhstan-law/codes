@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8096/rus/26.11.2012
+source: https://zan.gov.kz/client/#!/doc/8096/rus/26.12.2012
 ---
 
 ## Части документа
