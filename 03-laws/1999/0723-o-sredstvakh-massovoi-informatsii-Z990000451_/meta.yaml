@@ -140,12 +140,19 @@ versions:
   cause:
     code: '66681'
     key: Z1200000036
+- date: 2013-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '66681'
+    key: Z1200000036
 version_date:
-  kaz: 2012-07-10
-  rus: 2012-07-10
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/3749/kaz/10.07.2012
-  rus: https://zan.gov.kz/client/#!/doc/3749/rus/10.07.2012
+  kaz: https://zan.gov.kz/client/#!/doc/3749/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/3749/rus/01.01.2013
 caused_by:
   code: '66681'
   key: Z1200000036
