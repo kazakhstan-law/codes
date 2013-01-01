@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9187/rus/10.07.2012
+source: https://zan.gov.kz/client/#!/doc/9187/rus/01.01.2013
 ---
 
 ## Глава 49. Доля Республики Казахстан по разделу продукции

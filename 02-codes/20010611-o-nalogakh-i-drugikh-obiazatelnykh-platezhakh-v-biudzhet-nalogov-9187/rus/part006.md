@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9187/rus/10.07.2012
+source: https://zan.gov.kz/client/#!/doc/9187/rus/01.01.2013
 ---
 
 ## Статья 250. Уплата налога на добавленную стоимость на импортируемые товары методом зачета

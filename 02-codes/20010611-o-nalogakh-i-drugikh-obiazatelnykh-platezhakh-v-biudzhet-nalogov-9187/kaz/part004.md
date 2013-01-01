@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/9187/kaz/10.07.2012
+source: https://zan.gov.kz/client/#!/doc/9187/kaz/01.01.2013
 ---
 
 ## 230-1-бап. Инфрақұрылымдық жобаларды iске асыруға байланысты жұмыстар мен көрсетiлетiн қызметтер
