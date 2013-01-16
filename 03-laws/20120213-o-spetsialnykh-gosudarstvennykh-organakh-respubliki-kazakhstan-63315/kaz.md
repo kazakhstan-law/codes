@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63315/kaz/13.02.2012
+source: https://zan.gov.kz/client/#!/doc/63315/kaz/16.01.2013
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
