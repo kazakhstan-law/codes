@@ -31,17 +31,24 @@ versions:
   cause:
     code: '67343'
     key: U1200000371
+- date: 2013-04-17
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '72163'
+    key: U1300000550
 version_date:
-  kaz: 2012-08-27
-  rus: 2012-08-27
+  kaz: 2013-04-17
+  rus: 2013-04-17
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/52190/kaz/27.08.2012
-  rus: https://zan.gov.kz/client/#!/doc/52190/rus/27.08.2012
+  kaz: https://zan.gov.kz/client/#!/doc/52190/kaz/17.04.2013
+  rus: https://zan.gov.kz/client/#!/doc/52190/rus/17.04.2013
 caused_by:
-  code: '67343'
-  key: U1200000371
-  requisite: Указ Президента Республики Казахстан от 27 августа 2012 года № 371
+  code: '72163'
+  key: U1300000550
+  requisite: Указ Президента Республики Казахстан от 17 апреля 2013 года № 550
   title:
     rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/67343/rus
+  link: https://zan.gov.kz/client/#!/doc/72163/rus
