@@ -192,12 +192,19 @@ versions:
   cause:
     code: '70262'
     key: Z1300000072
+- date: 2013-04-25
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '70262'
+    key: Z1300000072
 version_date:
-  kaz: 2013-01-21
-  rus: 2013-01-21
+  kaz: 2013-04-25
+  rus: 2013-04-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/56742/kaz/21.01.2013
-  rus: https://zan.gov.kz/client/#!/doc/56742/rus/21.01.2013
+  kaz: https://zan.gov.kz/client/#!/doc/56742/kaz/25.04.2013
+  rus: https://zan.gov.kz/client/#!/doc/56742/rus/25.04.2013
 caused_by:
   code: '70262'
   key: Z1300000072
