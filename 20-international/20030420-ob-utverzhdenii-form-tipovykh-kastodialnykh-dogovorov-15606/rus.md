@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15606/rus/01.01.2012
+source: https://zan.gov.kz/client/#!/doc/15606/rus/26.04.2013
 ---
 
 # Об утверждении форм типовых кастодиальных договоров
