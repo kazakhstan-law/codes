@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8096/kaz/25.04.2013
+source: https://zan.gov.kz/client/#!/doc/8096/kaz/21.05.2013
 ---
 
 ## 571-бап. Қазақстан Республикасы Қаржы министрлiгiнiң органдары
