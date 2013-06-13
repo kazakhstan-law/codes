@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9555/kaz/08.08.2012
+source: https://zan.gov.kz/client/#!/doc/9555/kaz/13.06.2013
 ---
 
 1-бөлім . Сәулет, қала құрылысы және құрылыс қызметін мемлекеттік реттеу
