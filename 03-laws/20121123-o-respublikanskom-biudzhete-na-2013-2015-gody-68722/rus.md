@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/68722/rus/23.11.2012
+source: https://zan.gov.kz/client/#!/doc/68722/rus/21.06.2013
 ---
 
 # О республиканском бюджете на 2013-2015 годы

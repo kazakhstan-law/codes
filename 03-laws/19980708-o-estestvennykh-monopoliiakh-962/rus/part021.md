@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/06.03.2013
+source: https://zan.gov.kz/client/#!/doc/962/rus/21.06.2013
 ---
 
 ## Статья 15. Государственное регулирование деятельности субъекта естественной монополии

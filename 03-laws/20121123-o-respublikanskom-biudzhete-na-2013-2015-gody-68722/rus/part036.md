@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/68722/rus/23.11.2012
+source: https://zan.gov.kz/client/#!/doc/68722/rus/21.06.2013
 ---
 
 ## Республиканский бюджет на 2015 год

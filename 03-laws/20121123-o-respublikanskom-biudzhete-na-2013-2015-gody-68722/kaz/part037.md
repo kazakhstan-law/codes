@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/68722/kaz/23.11.2012
+source: https://zan.gov.kz/client/#!/doc/68722/kaz/21.06.2013
 ---
 
 ## Ұлттық қорға жіберілетін 2013 жылға арналған бюджет түсімдерінің көлемі
