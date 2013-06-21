@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/65568/kaz/19.12.2012
+source: https://zan.gov.kz/client/#!/doc/65568/kaz/21.06.2013
 ---
 
 # Электрондық мемлекеттiк сатып алуды жүргізу қағидаларын бекіту туралы
