@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30774/kaz/13.06.2013
+source: https://zan.gov.kz/client/#!/doc/30774/kaz/03.07.2013
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
@@ -128,3 +128,4 @@ source: https://zan.gov.kz/client/#!/doc/30774/kaz/13.06.2013
 | Часть | Название |
 |---|---|
 | [`ch001`](kaz/ch001.md) | 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР |
+| [`ch008`](kaz/ch008.md) | 8-тарау. ҚОРЫТЫНДЫ ЕРЕЖЕЛЕР |
