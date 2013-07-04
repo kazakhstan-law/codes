@@ -17,6 +17,11 @@ caused_by:
   title: О Национальной палате предпринимателей Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/73340/rus
 source: https://zan.gov.kz/client/#!/doc/23826/rus/04.07.2013
+repealed_on: 2014-07-12
+repealed_by:
+  code: '73340'
+  title: О Национальной палате предпринимателей Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/73340/rus
 ---
 
 ## Оглавление
