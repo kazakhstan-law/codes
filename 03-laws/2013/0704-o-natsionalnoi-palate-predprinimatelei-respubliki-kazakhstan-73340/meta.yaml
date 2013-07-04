@@ -1,0 +1,17 @@
+act_code: '73340'
+requisite: Закон Республики Казахстан от 4 июля 2013 года № 129-V
+title:
+  rus: О Национальной палате предпринимателей Республики Казахстан
+  kaz: Қазақстан Республикасының Ұлттық кәсіпкерлер палатасы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2013-07-04
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2013-07-04
+  rus: 2013-07-04
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/73340/kaz/04.07.2013
+  rus: https://zan.gov.kz/client/#!/doc/73340/rus/04.07.2013
