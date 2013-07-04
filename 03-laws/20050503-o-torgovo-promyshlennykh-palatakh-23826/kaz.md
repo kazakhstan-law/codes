@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/23826/kaz/04.07.2013
+repealed_on: 2014-07-12
+repealed_by:
+  code: '73340'
+  title: Қазақстан Республикасының Ұлттық кәсіпкерлер палатасы туралы
+  link: https://zan.gov.kz/client/#!/doc/73340/kaz
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
