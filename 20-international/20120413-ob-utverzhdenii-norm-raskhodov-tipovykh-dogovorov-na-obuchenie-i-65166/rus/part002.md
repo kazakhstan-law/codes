@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/65166/rus/22.02.2013
+source: https://zan.gov.kz/client/#!/doc/65166/rus/16.08.2013
 ---
 
 ## 9. ТАРАПТАРДЫҢ МЕКЕН-ЖАЙЛАРЫ, РЕКВИЗИТТЕРІ МЕН ҚОЛДАРЫ/ АДРЕСА, РЕКВИЗИТЫ И ПОДПИСИ СТОРОН
