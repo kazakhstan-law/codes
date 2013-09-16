@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/17606/rus/23.07.2013
+source: https://zan.gov.kz/client/#!/doc/17606/rus/16.09.2013
 ---
 
 ## Типовой договор на предоставление услуг по хранению природного газа
