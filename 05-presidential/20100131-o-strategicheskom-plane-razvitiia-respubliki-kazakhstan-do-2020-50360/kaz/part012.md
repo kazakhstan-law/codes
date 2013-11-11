@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50360/kaz/27.08.2012
+source: https://zan.gov.kz/client/#!/doc/50360/kaz/11.11.2013
 ---
 
 ## IV. Стратегиялық жоспар-2020-ны іске асыру негізі: нәтижелі мемлекеттік сектор

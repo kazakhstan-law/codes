@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/50360/rus/27.08.2012
+source: https://zan.gov.kz/client/#!/doc/50360/rus/11.11.2013
 ---
 
 ## IV. Основа для реализации Стратегического плана-2020: результативный государственный сектор
