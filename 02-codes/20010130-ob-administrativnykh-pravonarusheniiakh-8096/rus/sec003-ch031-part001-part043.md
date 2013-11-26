@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8096/rus/04.07.2013
+source: https://zan.gov.kz/client/#!/doc/8096/rus/26.11.2013
 ---
 
 ## Статья 567-1. Уполномоченный государственный орган в области растениеводства
