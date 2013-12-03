@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59947/rus/13.06.2013
+source: https://zan.gov.kz/client/#!/doc/59947/rus/03.12.2013
 ---
 
 Глава 1. ОСНОВНЫЕ ПОЛОЖЕНИЯ
