@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15213/kaz/03.07.2013
+source: https://zan.gov.kz/client/#!/doc/15213/kaz/05.12.2013
 ---
 
 1-тарау. Жалпы ережелер
@@ -110,3 +110,4 @@ source: https://zan.gov.kz/client/#!/doc/15213/kaz/03.07.2013
 | Часть | Название |
 |---|---|
 | [`ch001`](kaz/ch001.md) | 1-тарау. Жалпы ережелер |
+| [`ch006`](kaz/ch006.md) | 6-тарау. Қорытынды ережелер |
