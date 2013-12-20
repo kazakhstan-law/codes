@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/65568/rus/23.07.2013
+source: https://zan.gov.kz/client/#!/doc/65568/rus/20.12.2013
 ---
 
 # Об утверждении Правил проведения электронных государственных закупок
