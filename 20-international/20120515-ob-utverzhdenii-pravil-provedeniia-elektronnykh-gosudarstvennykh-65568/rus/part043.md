@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/65568/rus/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/65568/rus/01.01.2014
 ---
 
 ## 9. Договор о государственных закупках по итогам электронного конкурса
