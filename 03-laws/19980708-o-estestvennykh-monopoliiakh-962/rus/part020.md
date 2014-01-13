@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/04.07.2013
+source: https://zan.gov.kz/client/#!/doc/962/rus/13.01.2014
 ---
 
 ## Статья 14-1. Обязанности уполномоченного органа
