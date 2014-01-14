@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/8096/rus/01.01.2014
+source: https://zan.gov.kz/client/#!/doc/8096/rus/14.01.2014
 ---
 
 ## Статья 567. Уполномоченный орган по регистрации сельскохозяйственной техники
