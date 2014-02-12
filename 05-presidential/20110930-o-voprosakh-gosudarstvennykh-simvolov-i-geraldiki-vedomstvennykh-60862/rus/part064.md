@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60862/rus/06.05.2013
+source: https://zan.gov.kz/client/#!/doc/60862/rus/12.02.2014
 ---
 
 ## "Мінсіз қызметі үшін" I степени (приложение 50)
