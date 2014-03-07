@@ -1,0 +1,17 @@
+act_code: '77927'
+requisite: Закон Республики Казахстан от 7 марта 2014 года № 176-V ЗРК
+title:
+  rus: О реабилитации и банкротстве
+  kaz: Оңалту және банкроттық туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2014-03-07
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2014-03-07
+  rus: 2014-03-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/77927/kaz/07.03.2014
+  rus: https://zan.gov.kz/client/#!/doc/77927/rus/07.03.2014
