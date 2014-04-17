@@ -17,6 +17,11 @@ caused_by:
   title: О дорожном движении
   link: https://zan.gov.kz/client/#!/doc/78910/rus
 source: https://zan.gov.kz/client/#!/doc/104389/rus/17.04.2014
+repealed_on: 2014-10-20
+repealed_by:
+  code: '78910'
+  title: О дорожном движении
+  link: https://zan.gov.kz/client/#!/doc/78910/rus
 ---
 
 ## Оглавление
