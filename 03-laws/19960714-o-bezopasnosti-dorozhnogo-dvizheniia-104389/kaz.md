@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104389/kaz/17.04.2014
+repealed_on: 2014-10-20
+repealed_by:
+  code: '78910'
+  title: Жол жүрісі туралы
+  link: https://zan.gov.kz/client/#!/doc/78910/kaz
 ---
 
 1 тарау. Жалпы ережелер
