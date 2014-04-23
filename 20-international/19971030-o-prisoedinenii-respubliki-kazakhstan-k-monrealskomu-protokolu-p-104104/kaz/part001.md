@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/104104/kaz/30.10.1997
+source: https://zan.gov.kz/client/#!/doc/104104/kaz/23.04.2014
 ---
 
 ## ОЗОН ҚАБАТЫН БҰЗАТЫН ЗАТТАР ЖӨНІНДЕГІ МОНРЕАЛЬ ХАТТАМАСЫ
