@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/rus/18.04.2013
+source: https://zan.gov.kz/client/#!/doc/30279/rus/04.05.2014
 ---
 
 # Об утверждении Государственного протокола Республики Казахстан

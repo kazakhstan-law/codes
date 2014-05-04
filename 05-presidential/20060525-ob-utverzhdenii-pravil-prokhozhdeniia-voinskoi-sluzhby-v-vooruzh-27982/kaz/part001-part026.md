@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27982/kaz/21.06.2013
+source: https://zan.gov.kz/client/#!/doc/27982/kaz/04.05.2014
 ---
 
 ## 28. Аттестаттауды өткізу
