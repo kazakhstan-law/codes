@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/31393/kaz/16.05.2014
+repealed_on: 2014-11-21
+repealed_by:
+  code: '80091'
+  title: Рұқсаттар және хабарламалар туралы
+  link: https://zan.gov.kz/client/#!/doc/80091/kaz
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
