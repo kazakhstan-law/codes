@@ -17,8 +17,11 @@ source:
   rus: https://zan.gov.kz/client/#!/doc/31393/rus/16.05.2014
 caused_by:
   code: '31393'
-  requisite: Закон Республики Казахстан от 11 января 2007 года № 214. Утратил силу Законом Республики Казахстан от 16 мая 2014 года № 202-V
+repealed_on: 2014-11-21
+repealed_by:
+  code: '80091'
+  requisite: Закон Республики Казахстан от 16 мая 2014 года № 202-V ЗРК
   title:
-    rus: О лицензировании
-    kaz: Лицензиялау туралы
-  link: https://zan.gov.kz/client/#!/doc/31393/rus
+    rus: О разрешениях и уведомлениях
+    kaz: Рұқсаттар және хабарламалар туралы
+  link: https://zan.gov.kz/client/#!/doc/80091/rus
