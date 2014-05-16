@@ -1,5 +1,5 @@
 ---
-version_id: AI31393_55
+version_id: AI31393_57
 act_code: '31393'
 language: rus
 title: О лицензировании
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2007-01-11
-version_date: 2014-01-01
+version_date: 2014-05-16
 registry_number: '31393'
 caused_by:
-  code: '73364'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам транспорта
-  link: https://zan.gov.kz/client/#!/doc/73364/rus
-source: https://zan.gov.kz/client/#!/doc/31393/rus/01.01.2014
+  code: '31393'
+  title: О лицензировании
+  link: https://zan.gov.kz/client/#!/doc/31393/rus
+source: https://zan.gov.kz/client/#!/doc/31393/rus/16.05.2014
 ---
 
 ## Оглавление
@@ -190,6 +190,10 @@ source: https://zan.gov.kz/client/#!/doc/31393/rus/01.01.2014
 Статья 52. Порядок введения в действие настоящего Закона
 
 # О лицензировании
+
+Примечание РЦПИ!
+
+Закон утрачивает силу Законом РК от 16.05.2014 № 202-V (вводится в действие по истечении шести месяцев после дня его первого официального опубликования)
 
 Примечание РЦПИ!
 
