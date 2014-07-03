@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/8/rus/03.07.2014
+repealed_on: 2016-01-01
+repealed_by:
+  code: '81097'
+  title: Уголовный кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/81097/rus
 ---
 
 ## Оглавление
