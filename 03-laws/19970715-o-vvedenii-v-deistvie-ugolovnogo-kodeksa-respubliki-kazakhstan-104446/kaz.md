@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының Қылмыстық кодексi
   link: https://zan.gov.kz/client/#!/doc/81097/kaz
 source: https://zan.gov.kz/client/#!/doc/104446/kaz/03.07.2014
+repealed_on: 2015-01-01
+repealed_by:
+  code: '81097'
+  title: Қазақстан Республикасының Қылмыстық кодексi
+  link: https://zan.gov.kz/client/#!/doc/81097/kaz
 ---
 
 # Қазақстан Республикасының Қылмыстық кодексiн күшiне енгiзу туралы

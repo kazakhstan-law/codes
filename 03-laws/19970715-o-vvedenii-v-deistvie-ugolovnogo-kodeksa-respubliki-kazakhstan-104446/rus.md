@@ -17,6 +17,11 @@ caused_by:
   title: Уголовный кодекс Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/81097/rus
 source: https://zan.gov.kz/client/#!/doc/104446/rus/03.07.2014
+repealed_on: 2015-01-01
+repealed_by:
+  code: '81097'
+  title: Уголовный кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/81097/rus
 ---
 
 # О введении в действие Уголовного кодекса Республики Казахстан
