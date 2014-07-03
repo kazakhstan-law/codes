@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104328/kaz/10.06.2014
+source: https://zan.gov.kz/client/#!/doc/104328/kaz/03.07.2014
 ---
 
 1 Тарау. Жалпы ережелер
