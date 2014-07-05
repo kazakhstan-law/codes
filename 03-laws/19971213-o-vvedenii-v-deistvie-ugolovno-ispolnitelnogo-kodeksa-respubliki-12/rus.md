@@ -17,6 +17,11 @@ caused_by:
   title: Уголовно-исполнительный кодекс Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/81238/rus
 source: https://zan.gov.kz/client/#!/doc/12/rus/05.07.2014
+repealed_on: 2015-01-01
+repealed_by:
+  code: '81238'
+  title: Уголовно-исполнительный кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/81238/rus
 ---
 
 # О введении в действие Уголовно-исполнительного кодекса Республики Казахстан

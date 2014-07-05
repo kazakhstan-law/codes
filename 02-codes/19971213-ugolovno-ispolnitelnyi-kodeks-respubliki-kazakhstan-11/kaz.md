@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының Қылмыстық-атқару кодексі
   link: https://zan.gov.kz/client/#!/doc/81238/kaz
 source: https://zan.gov.kz/client/#!/doc/11/kaz/05.07.2014
+repealed_on: 2018-01-01
+repealed_by:
+  code: '81238'
+  title: Қазақстан Республикасының Қылмыстық-атқару кодексі
+  link: https://zan.gov.kz/client/#!/doc/81238/kaz
 ---
 
 ## Мазмұны
