@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/11/rus/05.07.2014
+repealed_on: 2018-01-01
+repealed_by:
+  code: '81238'
+  title: Уголовно-исполнительный кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/81238/rus
 ---
 
 ## Уголовно-исполнительный кодекс Республики Казахстан Оглавление
