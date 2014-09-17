@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60862/rus/11.04.2014
+source: https://zan.gov.kz/client/#!/doc/60862/rus/17.09.2014
 ---
 
 ## "Төтенше жағдайлар жүйесін дамытуға қосқан үлесі үшін" (приложение 116)
