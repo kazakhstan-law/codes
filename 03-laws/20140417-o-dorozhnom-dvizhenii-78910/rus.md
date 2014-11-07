@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78910/rus/29.09.2014
+source: https://zan.gov.kz/client/#!/doc/78910/rus/07.11.2014
 ---
 
 Глава 1. ОБЩИЕ ПОЛОЖЕНИЯ
