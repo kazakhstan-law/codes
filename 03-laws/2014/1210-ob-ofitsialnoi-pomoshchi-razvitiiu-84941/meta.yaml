@@ -1,0 +1,17 @@
+act_code: '84941'
+requisite: Закон Республики Казахстан от 10 декабря 2014 года № 263-V ЗРК.
+title:
+  rus: Об официальной помощи развитию
+  kaz: Дамуға ресми көмек туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2014-12-10
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2014-12-10
+  rus: 2014-12-10
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/84941/kaz/10.12.2014
+  rus: https://zan.gov.kz/client/#!/doc/84941/rus/10.12.2014
