@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/53308/kaz/09.07.2010
+source: https://zan.gov.kz/client/#!/doc/53308/kaz/24.12.2014
 ---
 
 I. ЖАЛПЫ БӨЛІК
