@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3583/rus/17.11.2014
+source: https://zan.gov.kz/client/#!/doc/3583/rus/29.12.2014
 ---
 
 ## Гражданский процессуальный кодекс Республики Казахстан Оглавление

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/879/rus/21.11.2014
+source: https://zan.gov.kz/client/#!/doc/879/rus/29.12.2014
 ---
 
 ## Гражданский кодекс Республики Казахстан Оглавление
