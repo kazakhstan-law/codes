@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80091/kaz/29.12.2014
+source: https://zan.gov.kz/client/#!/doc/80091/kaz/01.01.2015
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
@@ -145,5 +145,5 @@ source: https://zan.gov.kz/client/#!/doc/80091/kaz/29.12.2014
 | [`ch005`](kaz/ch005.md) | 5-тарау. ЛИЦЕНЗИЯЛАУ |
 | [`ch011`](kaz/ch011.md) | 11-тарау. Қорытынды және өтпелі ережелер |
 | [`ch011-part001-part002`](kaz/ch011-part001-part002.md) | Екінші санаттағы рұқсаттар Т І З Б Е С І |
-| [`ch011-part001-part002-t001-r002`](kaz/ch011-part001-part002-t001-r002.md) | таблица 1, строки 213–402 |
+| [`ch011-part001-part002-t001-r002`](kaz/ch011-part001-part002-t001-r002.md) | таблица 1, строки 222–411 |
 | [`ch011-part001-part003`](kaz/ch011-part001-part003.md) | Хабарламалар ТІЗБЕСІ |
