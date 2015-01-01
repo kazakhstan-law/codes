@@ -44,12 +44,22 @@ versions:
   cause:
     code: '81165'
     key: Z1400000233
+- date: 2015-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '81165'
+    key: Z1400000233
+  also_caused_by:
+  - code: '81098'
+    key: Z1400000227
 version_date:
-  kaz: 2014-07-04
-  rus: 2014-07-04
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/20570/kaz/04.07.2014
-  rus: https://zan.gov.kz/client/#!/doc/20570/rus/04.07.2014
+  kaz: https://zan.gov.kz/client/#!/doc/20570/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/20570/rus/01.01.2015
 caused_by:
   code: '81165'
   key: Z1400000233
