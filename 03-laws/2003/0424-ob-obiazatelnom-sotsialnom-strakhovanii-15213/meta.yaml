@@ -10,11 +10,11 @@ approved_on: 2003-04-24
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2014-11-28
-  rus: 2014-11-28
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15213/kaz/28.11.2014
-  rus: https://zan.gov.kz/client/#!/doc/15213/rus/28.11.2014
+  kaz: https://zan.gov.kz/client/#!/doc/15213/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/15213/rus/01.01.2015
 caused_by:
   code: '84668'
   requisite: Закон Республики Казахстан от 28 ноября 2014 года № 257-V ЗРК
