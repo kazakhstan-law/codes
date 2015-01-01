@@ -10,11 +10,11 @@ approved_on: 2006-10-09
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2014-12-10
-  rus: 2014-12-10
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/29875/kaz/10.12.2014
-  rus: https://zan.gov.kz/client/#!/doc/29875/rus/10.12.2014
+  kaz: https://zan.gov.kz/client/#!/doc/29875/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/29875/rus/01.01.2015
 caused_by:
   code: '84935'
   requisite: Указ Президента Республики Казахстан от 10 декабря 2014 года № 977
