@@ -10,11 +10,11 @@ approved_on: 2000-07-19
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2014-07-04
-  rus: 2014-07-04
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/6733/kaz/04.07.2014
-  rus: https://zan.gov.kz/client/#!/doc/6733/rus/04.07.2014
+  kaz: https://zan.gov.kz/client/#!/doc/6733/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/6733/rus/01.01.2015
 caused_by:
   code: '81163'
   requisite: Конституционный Закон Республики Казахстан от 4 июля 2014 года № 232-V ЗРК
