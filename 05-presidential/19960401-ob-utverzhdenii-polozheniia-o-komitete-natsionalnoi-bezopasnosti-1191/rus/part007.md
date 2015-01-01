@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/1191/rus/14.11.2014
+source: https://zan.gov.kz/client/#!/doc/1191/rus/01.01.2015
 ---
 
 ## 6. Реорганизация и упразднение Комитета национальной безопасности
