@@ -65,12 +65,22 @@ versions:
   cause:
     code: '84204'
     key: Z1400000245
+- date: 2015-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '84204'
+    key: Z1400000245
+  also_caused_by:
+  - code: '81163'
+    key: Z1400000232
 version_date:
-  kaz: 2014-11-07
-  rus: 2014-11-07
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/07.11.2014
-  rus: https://zan.gov.kz/client/#!/doc/7833/rus/07.11.2014
+  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/7833/rus/01.01.2015
 caused_by:
   code: '84204'
   key: Z1400000245
