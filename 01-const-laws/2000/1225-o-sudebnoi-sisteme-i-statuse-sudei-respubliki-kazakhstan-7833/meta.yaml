@@ -10,11 +10,11 @@ approved_on: 2000-12-25
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2014-11-07
-  rus: 2014-11-07
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/07.11.2014
-  rus: https://zan.gov.kz/client/#!/doc/7833/rus/07.11.2014
+  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/7833/rus/01.01.2015
 caused_by:
   code: '84204'
   requisite: Конституционный закон Республики Казахстан от 7 ноября 2014 года № 245-V ЗРК
