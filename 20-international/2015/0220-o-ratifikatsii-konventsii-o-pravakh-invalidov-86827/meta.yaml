@@ -1,0 +1,18 @@
+act_code: '86827'
+requisite: Закон Республики Казахстан от 20 февраля 2015 года № 288-V ЗРК
+title:
+  rus: О ратификации Конвенции о правах инвалидов
+  kaz: Мүгедектердің құқықтары туралы конвенцияны ратификациялау туралы
+form: КОНВ
+type_codes:
+- ЗАК
+- КОНВ
+approved_on: 2015-02-20
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2015-02-20
+  rus: 2015-02-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/86827/kaz/20.02.2015
+  rus: https://zan.gov.kz/client/#!/doc/86827/rus/20.02.2015
