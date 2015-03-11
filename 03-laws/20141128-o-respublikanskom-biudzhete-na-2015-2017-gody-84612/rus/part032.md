@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/84612/rus/28.11.2014
+source: https://zan.gov.kz/client/#!/doc/84612/rus/11.03.2015
 ---
 
 ## Республиканский бюджет на 2016 год
