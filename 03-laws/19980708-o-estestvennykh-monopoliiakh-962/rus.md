@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/962/rus/01.01.2015
+source: https://zan.gov.kz/client/#!/doc/962/rus/05.05.2015
 ---
 
 ## Части документа
@@ -11,4 +11,4 @@ source: https://zan.gov.kz/client/#!/doc/962/rus/01.01.2015
 | Часть | Название |
 |---|---|
 | [`part001`](rus/part001.md) | Оглавление |
-| [`part020`](rus/part020.md) | Статья 14-1. Обязанности уполномоченного органа |
+| [`part019`](rus/part019.md) | Статья 14. Права уполномоченного органа |
