@@ -1,0 +1,17 @@
+act_code: '89728'
+requisite: Закон Республики Казахстан от 19 мая 2015 года № 314-V ЗРК
+title:
+  rus: О минимальных социальных стандартах и их гарантиях
+  kaz: Ең төмен әлеуметтік стандарттар және олардың кепілдіктері туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2015-05-19
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2015-05-19
+  rus: 2015-05-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/89728/kaz/19.05.2015
+  rus: https://zan.gov.kz/client/#!/doc/89728/rus/19.05.2015
