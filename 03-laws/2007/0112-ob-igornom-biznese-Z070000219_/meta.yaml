@@ -156,12 +156,19 @@ versions:
   cause:
     code: '89093'
     key: Z1500000310
+- date: 2015-05-29
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '89093'
+    key: Z1500000310
 version_date:
-  kaz: 2015-04-24
-  rus: 2015-04-24
+  kaz: 2015-05-29
+  rus: 2015-05-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/31394/kaz/24.04.2015
-  rus: https://zan.gov.kz/client/#!/doc/31394/rus/24.04.2015
+  kaz: https://zan.gov.kz/client/#!/doc/31394/kaz/29.05.2015
+  rus: https://zan.gov.kz/client/#!/doc/31394/rus/29.05.2015
 caused_by:
   code: '89093'
   key: Z1500000310
