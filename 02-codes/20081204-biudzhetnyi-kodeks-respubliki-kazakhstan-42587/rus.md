@@ -1,5 +1,5 @@
 ---
-version_id: AI42587_129
+version_id: AI42587_131
 act_code: '42587'
 language: rus
 title: Бюджетный кодекс Республики Казахстан
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2008-12-04
-version_date: 2015-04-01
+version_date: 2015-06-01
 registry_number: '42587'
 caused_by:
-  code: '84668'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам налогообложения
-  link: https://zan.gov.kz/client/#!/doc/84668/rus
-source: https://zan.gov.kz/client/#!/doc/42587/rus/01.04.2015
+  code: '81093'
+  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам государственного управления
+  link: https://zan.gov.kz/client/#!/doc/81093/rus
+source: https://zan.gov.kz/client/#!/doc/42587/rus/01.06.2015
 ---
 
 ## СОДЕРЖАНИЕ

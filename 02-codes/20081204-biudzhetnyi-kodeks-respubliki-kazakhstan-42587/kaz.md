@@ -1,5 +1,5 @@
 ---
-version_id: AI42587_128
+version_id: AI42587_130
 act_code: '42587'
 language: kaz
 title: Қазақстан Республикасының Бюджет кодексі
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2008-12-04
-version_date: 2015-04-01
+version_date: 2015-06-01
 registry_number: '42587'
 caused_by:
-  code: '84668'
-  title: Қазақстан Республикасының кейбір заңнамалық актілеріне салық салу мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84668/kaz
-source: https://zan.gov.kz/client/#!/doc/42587/kaz/01.04.2015
+  code: '81093'
+  title: Қазақстан Республикасының кейбiр заңнамалық актiлерiне мемлекеттік басқару мәселелері бойынша өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/81093/kaz
+source: https://zan.gov.kz/client/#!/doc/42587/kaz/01.06.2015
 ---
 
 ЖАЛПЫ БӨЛІМ
