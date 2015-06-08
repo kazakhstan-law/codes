@@ -17,6 +17,11 @@ caused_by:
   title: О специальных защитных, антидемпинговых и компенсационных мерах по отношению к третьим странам
   link: https://zan.gov.kz/client/#!/doc/90269/rus
 source: https://zan.gov.kz/client/#!/doc/1854/rus/08.06.2015
+repealed_on: 2015-07-11
+repealed_by:
+  code: '90269'
+  title: О специальных защитных, антидемпинговых и компенсационных мерах по отношению к третьим странам
+  link: https://zan.gov.kz/client/#!/doc/90269/rus
 ---
 
 ## Оглавление
