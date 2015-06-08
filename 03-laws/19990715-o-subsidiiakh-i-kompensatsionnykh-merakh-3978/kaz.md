@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/3978/kaz/08.06.2015
+repealed_on: 2015-07-11
+repealed_by:
+  code: '90269'
+  title: Үшінші елдерге қатысты арнайы қорғау, демпингке қарсы және өтемақы шаралары туралы
+  link: https://zan.gov.kz/client/#!/doc/90269/kaz
 ---
 
 1-тарау . Жалпы ережелер
