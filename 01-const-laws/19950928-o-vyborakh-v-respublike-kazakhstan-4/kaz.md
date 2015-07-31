@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4/kaz/01.01.2015
+source: https://zan.gov.kz/client/#!/doc/4/kaz/31.07.2015
 ---
 
 1. Жалпы бөлiм
