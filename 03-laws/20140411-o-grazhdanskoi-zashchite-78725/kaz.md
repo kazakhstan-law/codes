@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78725/kaz/10.01.2015
+source: https://zan.gov.kz/client/#!/doc/78725/kaz/02.08.2015
 ---
 
 1-БӨЛІМ. ЖАЛПЫ ЕРЕЖЕЛЕР
