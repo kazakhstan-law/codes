@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/80091/rus/15.06.2015
+source: https://zan.gov.kz/client/#!/doc/80091/rus/02.08.2015
 ---
 
 ## ПЕРЕЧЕНЬ разрешений второй категории

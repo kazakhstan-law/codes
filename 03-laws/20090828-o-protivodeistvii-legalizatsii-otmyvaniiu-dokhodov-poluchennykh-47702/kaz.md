@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/47702/kaz/02.01.2015
+source: https://zan.gov.kz/client/#!/doc/47702/kaz/02.08.2015
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
@@ -74,3 +74,4 @@ source: https://zan.gov.kz/client/#!/doc/47702/kaz/02.01.2015
 | Часть | Название |
 |---|---|
 | [`ch001`](kaz/ch001.md) | 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР |
+| [`ch003`](kaz/ch003.md) | 3-тарау. УӘКІЛЕТТІ ОРГАННЫҢ ҚҰЗЫРЕТІ |
