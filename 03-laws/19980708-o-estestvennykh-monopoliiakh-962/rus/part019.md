@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/05.05.2015
+source: https://zan.gov.kz/client/#!/doc/962/rus/27.10.2015
 ---
 
 ## Статья 14. Права уполномоченного органа
