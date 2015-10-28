@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78725/rus/02.08.2015
+source: https://zan.gov.kz/client/#!/doc/78725/rus/28.10.2015
 ---
 
 РАЗДЕЛ 1. ОБЩИЕ ПОЛОЖЕНИЯ
