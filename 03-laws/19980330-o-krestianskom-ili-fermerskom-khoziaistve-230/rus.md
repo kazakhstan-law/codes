@@ -17,6 +17,11 @@ caused_by:
   title: Предпринимательский кодекс Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/94981/rus
 source: https://zan.gov.kz/client/#!/doc/230/rus/29.10.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '94981'
+  title: Предпринимательский кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/94981/rus
 ---
 
 ## Оглавление

@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының Кәсіпкерлік Кодексі
   link: https://zan.gov.kz/client/#!/doc/94981/kaz
 source: https://zan.gov.kz/client/#!/doc/43139/kaz/29.10.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '94981'
+  title: Қазақстан Республикасының Кәсіпкерлік Кодексі
+  link: https://zan.gov.kz/client/#!/doc/94981/kaz
 ---
 
 1-БӨЛІМ. НЕГІЗГІ ЕРЕЖЕЛЕР
