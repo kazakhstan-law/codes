@@ -17,6 +17,11 @@ caused_by:
   title: О сельскохозяйственных кооперативах
   link: https://zan.gov.kz/client/#!/doc/94875/rus
 source: https://zan.gov.kz/client/#!/doc/3789/rus/29.10.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '94875'
+  title: О сельскохозяйственных кооперативах
+  link: https://zan.gov.kz/client/#!/doc/94875/rus
 ---
 
 ## Оглавление

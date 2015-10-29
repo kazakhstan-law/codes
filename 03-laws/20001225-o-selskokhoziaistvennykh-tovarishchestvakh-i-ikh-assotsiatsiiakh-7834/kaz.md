@@ -17,6 +17,11 @@ caused_by:
   title: Ауыл шаруашылығы кооперативтері туралы
   link: https://zan.gov.kz/client/#!/doc/94875/kaz
 source: https://zan.gov.kz/client/#!/doc/7834/kaz/29.10.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '94875'
+  title: Ауыл шаруашылығы кооперативтері туралы
+  link: https://zan.gov.kz/client/#!/doc/94875/kaz
 ---
 
 1 тарау . ЖАЛПЫ ЕРЕЖЕЛЕР
