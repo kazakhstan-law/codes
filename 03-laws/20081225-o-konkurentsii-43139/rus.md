@@ -1,5 +1,5 @@
 ---
-version_id: AI43139_43
+version_id: AI43139_45
 act_code: '43139'
 language: rus
 title: О конкуренции
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2008-12-25
-version_date: 2015-05-05
+version_date: 2015-10-29
 registry_number: '43139'
 caused_by:
-  code: '89371'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам естественных монополий и регулируемых рынков
-  link: https://zan.gov.kz/client/#!/doc/89371/rus
-source: https://zan.gov.kz/client/#!/doc/43139/rus/05.05.2015
+  code: '94981'
+  title: Предпринимательский кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/94981/rus
+source: https://zan.gov.kz/client/#!/doc/43139/rus/29.10.2015
 ---
 
 ## Оглавление
@@ -234,6 +234,10 @@ source: https://zan.gov.kz/client/#!/doc/43139/rus/05.05.2015
 Статья 81. Порядок введения в действие настоящего Закона
 
 # О конкуренции
+
+Примечание РЦПИ!
+
+Утрачивает силу Кодексом РК от 29.10.2015 № 375-V (вводится в действие с 01.01.2016).
 
 Примечание РЦПИ!
 
