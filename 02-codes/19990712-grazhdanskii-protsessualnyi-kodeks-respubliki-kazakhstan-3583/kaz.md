@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/3583/kaz/31.10.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95109'
+  title: Қазақстан Республикасының Азаматтық процестік кодексі
+  link: https://zan.gov.kz/client/#!/doc/95109/kaz
 ---
 
 ## Мазмұны
