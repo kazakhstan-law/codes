@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/962/kaz/29.10.2015
+source: https://zan.gov.kz/client/#!/doc/962/kaz/31.10.2015
 ---
 
 1-бап. Осы Заңның мақсаты
@@ -119,3 +119,4 @@ source: https://zan.gov.kz/client/#!/doc/962/kaz/29.10.2015
 |---|---|
 | [`part001`](kaz/part001.md) | 1-бап. Осы Заңның мақсаты |
 | [`part020`](kaz/part020.md) | 14-бап. Уәкiлеттi органның құқықтары |
+| [`part041`](kaz/part041.md) | 23-бап. Өтпелi ережелер |
