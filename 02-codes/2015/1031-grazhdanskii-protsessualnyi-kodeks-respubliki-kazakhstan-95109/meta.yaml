@@ -1,0 +1,17 @@
+act_code: '95109'
+requisite: Кодекс Республики Казахстан от 31 октября 2015 года № 377-V ЗРК
+title:
+  rus: Гражданский процессуальный кодекс Республики Казахстан
+  kaz: Қазақстан Республикасының Азаматтық процестік кодексі
+form: КОД
+type_codes:
+- КОД
+approved_on: 2015-10-31
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2015-10-31
+  rus: 2015-10-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/95109/kaz/31.10.2015
+  rus: https://zan.gov.kz/client/#!/doc/95109/rus/31.10.2015
