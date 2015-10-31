@@ -17,6 +17,11 @@ caused_by:
   title: Гражданский процессуальный кодекс Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/95109/rus
 source: https://zan.gov.kz/client/#!/doc/3611/rus/31.10.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95109'
+  title: Гражданский процессуальный кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/95109/rus
 ---
 
 # О введении в действие Гражданского процессуального кодекса Республики Казахстан
