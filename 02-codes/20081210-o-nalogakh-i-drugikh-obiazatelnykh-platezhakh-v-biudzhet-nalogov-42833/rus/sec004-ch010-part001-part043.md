@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42833/rus/13.11.2015
+source: https://zan.gov.kz/client/#!/doc/42833/rus/16.11.2015
 ---
 
 ## Статья 118. Поступление фиксированных активов
