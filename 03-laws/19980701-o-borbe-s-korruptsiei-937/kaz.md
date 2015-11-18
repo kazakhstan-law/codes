@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/937/kaz/18.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95592'
+  title: Сыбайлас жемқорлыққа қарсы іс-қимыл туралы
+  link: https://zan.gov.kz/client/#!/doc/95592/kaz
 ---
 
 1-тарау. Жалпы ережелер
