@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57639/kaz/17.11.2015
+source: https://zan.gov.kz/client/#!/doc/57639/kaz/18.11.2015
 ---
 
 1-БӨЛІМ. МЕМЛЕКЕТТІК МҮЛІК ТУРАЛЫ НЕГІЗГІ ЕРЕЖЕЛЕР
