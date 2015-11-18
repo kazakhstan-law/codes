@@ -17,6 +17,11 @@ caused_by:
   title: О противодействии коррупции
   link: https://zan.gov.kz/client/#!/doc/95592/rus
 source: https://zan.gov.kz/client/#!/doc/937/rus/18.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95592'
+  title: О противодействии коррупции
+  link: https://zan.gov.kz/client/#!/doc/95592/rus
 ---
 
 ## Оглавление
