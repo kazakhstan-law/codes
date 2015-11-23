@@ -1,5 +1,5 @@
 ---
-version_id: AI33276_0
+version_id: AI33276_2
 act_code: '33276'
 language: kaz
 title: Қазақстан Республикасының Еңбек кодексін қолданысқа енгізу туралы
@@ -10,12 +10,20 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2007-05-15
-version_date: 2007-05-15
+version_date: 2015-11-23
 registry_number: '33276'
-source: https://zan.gov.kz/client/#!/doc/33276/kaz/15.05.2007
+caused_by:
+  code: '95666'
+  title: Қазақстан Республикасының Еңбек Кодексі
+  link: https://zan.gov.kz/client/#!/doc/95666/kaz
+source: https://zan.gov.kz/client/#!/doc/33276/kaz/23.11.2015
 ---
 
 # Қазақстан Республикасының Еңбек кодексін қолданысқа енгізу туралы
+
+РҚАО-ның ескертпесі!
+
+Заңның күшін жою көзделген көзделген - ҚР 23.11.2015 № 414-V Кодексімен (01.01.2016 бастап қолданысқа енгізіледі).
 
 <a id="st1"></a>
 

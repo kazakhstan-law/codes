@@ -1,5 +1,5 @@
 ---
-version_id: AI33276_1
+version_id: AI33276_3
 act_code: '33276'
 language: rus
 title: О введении в действие Трудового кодекса Республики Казахстан
@@ -10,12 +10,20 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2007-05-15
-version_date: 2007-05-15
+version_date: 2015-11-23
 registry_number: '33276'
-source: https://zan.gov.kz/client/#!/doc/33276/rus/15.05.2007
+caused_by:
+  code: '95666'
+  title: Трудовой кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/95666/rus
+source: https://zan.gov.kz/client/#!/doc/33276/rus/23.11.2015
 ---
 
 # О введении в действие Трудового кодекса Республики Казахстан
+
+Примечание РЦПИ!
+
+Утрачивает силу Кодексом РК от 23.11.2015 № 414-V (вводится в действие с 01.01.2016).
 
 <a id="st1"></a>
 
