@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының мемлекеттік қызметі туралы
   link: https://zan.gov.kz/client/#!/doc/95690/kaz
 source: https://zan.gov.kz/client/#!/doc/4054/kaz/23.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95690'
+  title: Қазақстан Республикасының мемлекеттік қызметі туралы
+  link: https://zan.gov.kz/client/#!/doc/95690/kaz
 ---
 
 1-тарау. Жалпы ережелер
