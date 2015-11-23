@@ -17,6 +17,11 @@ caused_by:
   title: Трудовой кодекс Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/95666/rus
 source: https://zan.gov.kz/client/#!/doc/33263/rus/23.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95666'
+  title: Трудовой кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/95666/rus
 ---
 
 ## ОГЛАВЛЕНИЕ

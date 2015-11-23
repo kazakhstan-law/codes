@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының Еңбек Кодексі
   link: https://zan.gov.kz/client/#!/doc/95666/kaz
 source: https://zan.gov.kz/client/#!/doc/33263/kaz/23.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95666'
+  title: Қазақстан Республикасының Еңбек Кодексі
+  link: https://zan.gov.kz/client/#!/doc/95666/kaz
 ---
 
 Жалпы бөлім
