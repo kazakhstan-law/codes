@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/4054/rus/23.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95690'
+  title: О государственной службе Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/95690/rus
 ---
 
 ## Оглавление
