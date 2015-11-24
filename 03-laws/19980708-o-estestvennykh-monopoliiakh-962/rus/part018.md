@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/17.11.2015
+source: https://zan.gov.kz/client/#!/doc/962/rus/24.11.2015
 ---
 
 ## Статья 13. Функции уполномоченного органа
