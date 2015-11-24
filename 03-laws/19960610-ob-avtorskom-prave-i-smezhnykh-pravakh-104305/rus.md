@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104305/rus/31.10.2015
+source: https://zan.gov.kz/client/#!/doc/104305/rus/24.11.2015
 ---
 
 ## Оглавление
@@ -146,4 +146,5 @@ source: https://zan.gov.kz/client/#!/doc/104305/rus/31.10.2015
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | Глава I. Общие положения |
+| [`ch002`](rus/ch002.md) | Глава II. Авторское право |
 | [`ch003`](rus/ch003.md) | Глава III. Смежные права |
