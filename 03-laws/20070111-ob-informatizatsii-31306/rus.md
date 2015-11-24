@@ -17,6 +17,11 @@ caused_by:
   title: О кибербезопасности
   link: https://zan.gov.kz/client/#!/doc/95699/rus
 source: https://zan.gov.kz/client/#!/doc/31306/rus/24.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95699'
+  title: О кибербезопасности
+  link: https://zan.gov.kz/client/#!/doc/95699/rus
 ---
 
 ## Оглавление
