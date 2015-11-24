@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/31306/kaz/24.11.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '95699'
+  title: Киберқауіпсіздік туралы
+  link: https://zan.gov.kz/client/#!/doc/95699/kaz
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
