@@ -338,10 +338,16 @@ versions:
   cause:
     code: '96923'
     key: U1500000112
+- date: 2015-11-26
+  languages:
+  - kaz
+  cause:
+    code: '96923'
+    key: U1500000112
 version_date:
-  rus: 2015-11-16
+  kaz: 2015-11-26
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2026/rus/16.11.2015
+  kaz: https://zan.gov.kz/client/#!/doc/2026/kaz/26.11.2015
 caused_by:
   code: '96923'
   key: U1500000112
