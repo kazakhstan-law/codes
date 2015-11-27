@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/42833/kaz/24.11.2015
+source: https://zan.gov.kz/client/#!/doc/42833/kaz/27.11.2015
 ---
 
 1. ЖАЛПЫ БӨЛІМ
