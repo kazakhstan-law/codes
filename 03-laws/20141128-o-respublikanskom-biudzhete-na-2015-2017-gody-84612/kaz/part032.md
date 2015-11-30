@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/84612/kaz/11.03.2015
+source: https://zan.gov.kz/client/#!/doc/84612/kaz/30.11.2015
 ---
 
 ## 2016 жылға арналған республикалық бюджет
