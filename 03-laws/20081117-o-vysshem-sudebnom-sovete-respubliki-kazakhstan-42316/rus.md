@@ -17,6 +17,11 @@ caused_by:
   title: О Высшем Судебном Совете Республики Казахстан
   link: https://zan.gov.kz/client/#!/doc/96096/rus
 source: https://zan.gov.kz/client/#!/doc/42316/rus/04.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '96096'
+  title: О Высшем Судебном Совете Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/96096/rus
 ---
 
 ## Оглавление

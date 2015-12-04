@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының Жоғары Сот Кеңесі туралы
   link: https://zan.gov.kz/client/#!/doc/96096/kaz
 source: https://zan.gov.kz/client/#!/doc/42316/kaz/04.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '96096'
+  title: Қазақстан Республикасының Жоғары Сот Кеңесі туралы
+  link: https://zan.gov.kz/client/#!/doc/96096/kaz
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
