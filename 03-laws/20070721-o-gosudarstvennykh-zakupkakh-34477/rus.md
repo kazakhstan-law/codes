@@ -17,6 +17,11 @@ caused_by:
   title: О государственных закупках
   link: https://zan.gov.kz/client/#!/doc/96093/rus
 source: https://zan.gov.kz/client/#!/doc/34477/rus/04.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '96093'
+  title: О государственных закупках
+  link: https://zan.gov.kz/client/#!/doc/96093/rus
 ---
 
 Оглавление
