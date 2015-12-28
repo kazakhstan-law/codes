@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/18098/rus/06.10.2014
+source: https://zan.gov.kz/client/#!/doc/18098/rus/28.12.2015
 ---
 
 ## 2. Миссия, основные задачи, функции, права и обязанности Национального Банка Казахстана
