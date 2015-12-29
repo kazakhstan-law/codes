@@ -11,8 +11,15 @@ approved_on: 2014-05-04
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2014-05-04
-  rus: 2014-05-04
+  kaz: 2015-12-29
+  rus: 2015-12-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/80031/kaz/04.05.2014
-  rus: https://zan.gov.kz/client/#!/doc/80031/rus/04.05.2014
+  kaz: https://zan.gov.kz/client/#!/doc/80031/kaz/29.12.2015
+  rus: https://zan.gov.kz/client/#!/doc/80031/rus/29.12.2015
+caused_by:
+  code: '96914'
+  requisite: Указ Президента Республики Казахстан от 29 декабря 2015 года № 152
+  title:
+    rus: О некоторых вопросах прохождения государственной службы
+    kaz: Мемлекеттік қызмет өткерудің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/96914/rus
