@@ -398,12 +398,26 @@ versions:
   cause:
     code: '96092'
     key: Z1500000433
+- date: 2016-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '96092'
+    key: Z1500000433
+  also_caused_by:
+  - code: '95112'
+    key: Z1500000378
+  - code: '95560'
+    key: Z1500000406
+  - code: '95590'
+    key: Z1500000419
 version_date:
-  kaz: 2015-12-03
-  rus: 2015-12-03
+  kaz: 2016-01-01
+  rus: 2016-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/47928/kaz/03.12.2015
-  rus: https://zan.gov.kz/client/#!/doc/47928/rus/03.12.2015
+  kaz: https://zan.gov.kz/client/#!/doc/47928/kaz/01.01.2016
+  rus: https://zan.gov.kz/client/#!/doc/47928/rus/01.01.2016
 caused_by:
   code: '96092'
   key: Z1500000433
