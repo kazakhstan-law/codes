@@ -1,8 +1,8 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28852/rus/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/28852/rus/01.01.2016
 ---
 
-## Оглавление
+Оглавление
 
 РАЗДЕЛ 1. ОСНОВНЫЕ ПОЛОЖЕНИЯ
 
