@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2385/kaz/24.11.2015
+source: https://zan.gov.kz/client/#!/doc/2385/kaz/01.01.2016
 ---
 
 1-тарау. Жалпы ережелер
@@ -106,3 +106,4 @@ source: https://zan.gov.kz/client/#!/doc/2385/kaz/24.11.2015
 | Часть | Название |
 |---|---|
 | [`ch001`](kaz/ch001.md) | 1-тарау. Жалпы ережелер |
+| [`ch007`](kaz/ch007.md) | 7-тарау. Мемлекеттік құпияларды қорғау |
