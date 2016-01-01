@@ -1,8 +1,8 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20571/rus/31.10.2015
+source: https://zan.gov.kz/client/#!/doc/20571/rus/01.01.2016
 ---
 
-## Оглавление
+Оглавление
 
 Глава 1. Общие положения
 
