@@ -1,10 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7951/rus/24.11.2015
-repealed_on: 2017-01-01
-repealed_by:
-  code: '95760'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам миграции и занятости населения
-  link: https://zan.gov.kz/client/#!/doc/95760/rus
+source: https://zan.gov.kz/client/#!/doc/7951/rus/01.01.2016
 ---
 
 ## Оглавление

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24399/rus/24.11.2015
+source: https://zan.gov.kz/client/#!/doc/24399/rus/01.01.2016
 ---
 
 ## ОГЛАВЛЕНИЕ
@@ -98,3 +98,4 @@ source: https://zan.gov.kz/client/#!/doc/24399/rus/24.11.2015
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | ГЛАВА 1. ОБЩИЕ ПОЛОЖЕНИЯ |
+| [`ch006`](rus/ch006.md) | ГЛАВА 6. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ |
