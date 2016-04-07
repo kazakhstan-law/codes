@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/28798/kaz/07.04.2016
+repealed_on: 2016-10-10
+repealed_by:
+  code: '101088'
+  title: Тұрғын үй құрылысына үлестік қатысу туралы
+  link: https://zan.gov.kz/client/#!/doc/101088/kaz
 ---
 
 1-бап. Осы Заңда пайдаланылатын негiзгi ұғымдар
