@@ -17,6 +17,11 @@ caused_by:
   title: О долевом участии в жилищном строительстве
   link: https://zan.gov.kz/client/#!/doc/101088/rus
 source: https://zan.gov.kz/client/#!/doc/28798/rus/07.04.2016
+repealed_on: 2016-10-10
+repealed_by:
+  code: '101088'
+  title: О долевом участии в жилищном строительстве
+  link: https://zan.gov.kz/client/#!/doc/101088/rus
 ---
 
 ## Оглавление
