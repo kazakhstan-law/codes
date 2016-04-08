@@ -1,0 +1,24 @@
+key: Z1600000488
+akn: /akn/kz/act/2016-04-08/Z1600000488
+act_code: '101127'
+requisite: Закон Республики Казахстан от 8 апреля 2016 года № 488-V ЗРК
+title:
+  rus: Об арбитраже
+  kaz: Төрелік туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2016-04-08
+approved_by:
+- '102000000000'
+versions:
+- date: 2016-04-08
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2016-04-08
+  rus: 2016-04-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/101127/kaz/08.04.2016
+  rus: https://zan.gov.kz/client/#!/doc/101127/rus/08.04.2016
