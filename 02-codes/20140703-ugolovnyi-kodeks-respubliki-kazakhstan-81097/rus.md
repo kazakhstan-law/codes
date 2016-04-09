@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/81097/rus/08.04.2016
+source: https://zan.gov.kz/client/#!/doc/81097/rus/09.04.2016
 ---
 
 # Уголовный кодекс Республики Казахстан
