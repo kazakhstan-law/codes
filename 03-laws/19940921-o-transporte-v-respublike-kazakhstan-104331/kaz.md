@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104331/kaz/01.01.2016
+source: https://zan.gov.kz/client/#!/doc/104331/kaz/09.04.2016
 ---
 
 1 бөлiм. Жалпы ережелер
@@ -104,3 +104,4 @@ source: https://zan.gov.kz/client/#!/doc/104331/kaz/01.01.2016
 | Часть | Название |
 |---|---|
 | [`sec001`](kaz/sec001.md) | 1 бөлiм. Жалпы ережелер |
+| [`sec005`](kaz/sec005.md) | 5 бөлiм. Қорытынды ережелер |
