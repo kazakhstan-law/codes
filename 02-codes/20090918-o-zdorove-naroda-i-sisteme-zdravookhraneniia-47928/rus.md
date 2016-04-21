@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/47928/rus/09.04.2016
+source: https://zan.gov.kz/client/#!/doc/47928/rus/21.04.2016
 ---
 
 # О здоровье народа и системе здравоохранения
