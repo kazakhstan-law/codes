@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/962/rus/09.04.2016
+source: https://zan.gov.kz/client/#!/doc/962/rus/22.04.2016
 ---
 
 ## Части документа
