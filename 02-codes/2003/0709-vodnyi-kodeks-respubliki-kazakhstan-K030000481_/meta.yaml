@@ -350,12 +350,19 @@ versions:
   also_caused_by:
   - code: '101147'
     key: Z1600000490
+- date: 2016-04-22
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '100618'
+    key: Z1600000479
 version_date:
-  kaz: 2016-04-08
-  rus: 2016-04-08
+  kaz: 2016-04-22
+  rus: 2016-04-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/16225/kaz/08.04.2016
-  rus: https://zan.gov.kz/client/#!/doc/16225/rus/08.04.2016
+  kaz: https://zan.gov.kz/client/#!/doc/16225/kaz/22.04.2016
+  rus: https://zan.gov.kz/client/#!/doc/16225/rus/22.04.2016
 caused_by:
   code: '100618'
   key: Z1600000479
