@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59822/kaz/09.04.2016
+source: https://zan.gov.kz/client/#!/doc/59822/kaz/01.07.2016
 ---
 
 1-бап. Осы Заңда пайдаланылатын негізгі ұғымдар
