@@ -84,12 +84,19 @@ versions:
   cause:
     code: '83387'
     key: Z1400000239
+- date: 2016-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '83387'
+    key: Z1400000239
 version_date:
-  kaz: 2015-07-01
-  rus: 2015-07-01
+  kaz: 2016-07-01
+  rus: 2016-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/50301/kaz/01.07.2015
-  rus: https://zan.gov.kz/client/#!/doc/50301/rus/01.07.2015
+  kaz: https://zan.gov.kz/client/#!/doc/50301/kaz/01.07.2016
+  rus: https://zan.gov.kz/client/#!/doc/50301/rus/01.07.2016
 caused_by:
   code: '83387'
   key: Z1400000239
