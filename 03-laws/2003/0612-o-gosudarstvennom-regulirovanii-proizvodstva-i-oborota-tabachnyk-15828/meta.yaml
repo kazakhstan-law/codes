@@ -10,11 +10,11 @@ approved_on: 2003-06-12
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2015-12-03
-  rus: 2015-12-03
+  kaz: 2016-07-01
+  rus: 2016-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15828/kaz/03.12.2015
-  rus: https://zan.gov.kz/client/#!/doc/15828/rus/03.12.2015
+  kaz: https://zan.gov.kz/client/#!/doc/15828/kaz/01.07.2016
+  rus: https://zan.gov.kz/client/#!/doc/15828/rus/01.07.2016
 caused_by:
   code: '96088'
   requisite: Закон Республики Казахстан от 3 декабря 2015 года № 432-V ЗРК
