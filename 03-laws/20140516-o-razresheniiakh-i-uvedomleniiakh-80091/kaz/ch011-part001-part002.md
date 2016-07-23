@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/80091/kaz/01.07.2016
+source: https://zan.gov.kz/client/#!/doc/80091/kaz/23.07.2016
 ---
 
 ## Екінші санаттағы рұқсаттар ТІЗБЕСІ
