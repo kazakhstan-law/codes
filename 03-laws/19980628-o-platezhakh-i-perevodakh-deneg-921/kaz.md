@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/921/kaz/26.07.2016
+repealed_on: 2016-09-10
+repealed_by:
+  code: '105287'
+  title: Төлемдер және төлем жүйелері туралы
+  link: https://zan.gov.kz/client/#!/doc/105287/kaz
 ---
 
 1-Тарау. Жалпы ережелер

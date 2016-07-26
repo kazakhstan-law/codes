@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/921/rus/26.07.2016
+repealed_on: 2016-09-10
+repealed_by:
+  code: '105287'
+  title: О платежах и платежных системах
+  link: https://zan.gov.kz/client/#!/doc/105287/rus
 ---
 
 ## Оглавление
