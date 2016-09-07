@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21/kaz/09.11.2011
+source: https://zan.gov.kz/client/#!/doc/21/kaz/07.09.2016
 ---
 
 # Қазақстан Республикасы Парламенті Мәжілісінің Регламенті

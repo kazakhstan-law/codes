@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21/rus/09.11.2011
+source: https://zan.gov.kz/client/#!/doc/21/rus/07.09.2016
 ---
 
 # Регламент Мажилиса Парламента Республики Казахстан
