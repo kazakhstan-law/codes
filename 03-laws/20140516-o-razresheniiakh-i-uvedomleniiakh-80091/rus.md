@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80091/rus/26.07.2016
+source: https://zan.gov.kz/client/#!/doc/80091/rus/10.09.2016
 ---
 
 Глава 1. ОБЩИЕ ПОЛОЖЕНИЯ
@@ -147,5 +147,5 @@ source: https://zan.gov.kz/client/#!/doc/80091/rus/26.07.2016
 | [`ch005`](rus/ch005.md) | Глава 5. ЛИЦЕНЗИРОВАНИЕ |
 | [`ch011`](rus/ch011.md) | Глава 11. ЗАКЛЮЧИТЕЛЬНЫЕ И ПЕРЕХОДНЫЕ ПОЛОЖЕНИЯ |
 | [`ch011-part001-part002`](rus/ch011-part001-part002.md) | ПЕРЕЧЕНЬ разрешений второй категории |
-| [`ch011-part001-part002-t001-r002`](rus/ch011-part001-part002-t001-r002.md) | таблица 1, строки 248–422 |
+| [`ch011-part001-part002-t001-r002`](rus/ch011-part001-part002-t001-r002.md) | таблица 1, строки 247–423 |
 | [`ch011-part001-part003`](rus/ch011-part001-part003.md) | ПЕРЕЧЕНЬ уведомлений |

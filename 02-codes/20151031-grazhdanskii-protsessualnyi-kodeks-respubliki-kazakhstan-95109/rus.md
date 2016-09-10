@@ -1,8 +1,8 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95109/rus/26.07.2016
+source: https://zan.gov.kz/client/#!/doc/95109/rus/10.09.2016
 ---
 
-## ОГЛАВЛЕНИЕ
+ОГЛАВЛЕНИЕ
 
 РАЗДЕЛ 1. ОБЩИЕ ПОЛОЖЕНИЯ
 

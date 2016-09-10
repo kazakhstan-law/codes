@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3559/kaz/26.07.2016
+source: https://zan.gov.kz/client/#!/doc/3559/kaz/10.09.2016
 ---
 
 ## Қазақстан Республикасының азаматтық кодексі ( ерекше бөлім)
