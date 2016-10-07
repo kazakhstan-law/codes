@@ -10,15 +10,15 @@ approved_on: 2015-11-30
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2016-03-05
-  rus: 2016-03-05
+  kaz: 2016-10-07
+  rus: 2016-10-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/95833/kaz/05.03.2016
-  rus: https://zan.gov.kz/client/#!/doc/95833/rus/05.03.2016
+  kaz: https://zan.gov.kz/client/#!/doc/95833/kaz/07.10.2016
+  rus: https://zan.gov.kz/client/#!/doc/95833/rus/07.10.2016
 caused_by:
-  code: '99874'
-  requisite: Закон Республики Казахстан от 5 марта 2016 года № 470-V ЗРК
+  code: '106622'
+  requisite: Закон Республики Казахстан от 7 октября 2016 года № 15-VІ ЗРК
   title:
     rus: О внесении изменений и дополнений в Закон Республики Казахстан "О республиканском бюджете на 2016-2018 годы"
     kaz: '"2016 - 2018 жылдарға арналған республикалық бюджет туралы" Қазақстан Республикасының Заңына өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/99874/rus
+  link: https://zan.gov.kz/client/#!/doc/106622/rus
