@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/42587/kaz/10.09.2016
+source: https://zan.gov.kz/client/#!/doc/42587/kaz/10.10.2016
 ---
 
 # Қазақстан Республикасының Бюджет кодексі
