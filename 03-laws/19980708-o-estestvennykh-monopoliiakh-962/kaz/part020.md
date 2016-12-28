@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/962/kaz/22.04.2016
+source: https://zan.gov.kz/client/#!/doc/962/kaz/28.12.2016
 ---
 
 ## 14-бап. Уәкiлеттi органның құқықтары
