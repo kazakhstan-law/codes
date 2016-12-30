@@ -1,0 +1,17 @@
+act_code: '108650'
+requisite: Закон Республики Казахстан от 30 декабря 2016 года № 42-VІ ЗРК
+title:
+  rus: О волонтерской деятельности
+  kaz: Волонтерлік қызмет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2016-12-30
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2016-12-30
+  rus: 2016-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/108650/kaz/30.12.2016
+  rus: https://zan.gov.kz/client/#!/doc/108650/rus/30.12.2016
