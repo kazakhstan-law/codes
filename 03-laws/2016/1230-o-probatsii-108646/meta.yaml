@@ -1,0 +1,17 @@
+act_code: '108646'
+requisite: Закон Республики Казахстан от 30 декабря 2016 года № 38-VІ ЗРК
+title:
+  rus: О пробации
+  kaz: Пробация туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2016-12-30
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2016-12-30
+  rus: 2016-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/108646/kaz/30.12.2016
+  rus: https://zan.gov.kz/client/#!/doc/108646/rus/30.12.2016
