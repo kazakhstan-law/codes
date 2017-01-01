@@ -32,12 +32,16 @@ versions:
   cause:
     code: '105033'
     key: V1600013942
+- date: 2017-01-01
+  languages:
+  - rus
+  cause:
+    code: '105033'
+    key: V1600013942
 version_date:
-  kaz: 2016-05-31
-  rus: 2016-05-31
+  rus: 2017-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/89452/kaz/31.05.2016
-  rus: https://zan.gov.kz/client/#!/doc/89452/rus/31.05.2016
+  rus: https://zan.gov.kz/client/#!/doc/89452/rus/01.01.2017
 caused_by:
   code: '105033'
   key: V1600013942
