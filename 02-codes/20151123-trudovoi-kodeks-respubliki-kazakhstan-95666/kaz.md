@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95666/kaz/06.04.2016
+source: https://zan.gov.kz/client/#!/doc/95666/kaz/01.01.2017
 ---
 
 # Қазақстан Республикасының Еңбек Кодексі
