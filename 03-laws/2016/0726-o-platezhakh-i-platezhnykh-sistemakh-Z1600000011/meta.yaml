@@ -23,12 +23,16 @@ versions:
   cause:
     code: '108406'
     key: Z1600000029
+- date: 2017-01-01
+  languages:
+  - kaz
+  cause:
+    code: '108406'
+    key: Z1600000029
 version_date:
-  kaz: 2016-12-22
-  rus: 2016-12-22
+  kaz: 2017-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/105287/kaz/22.12.2016
-  rus: https://zan.gov.kz/client/#!/doc/105287/rus/22.12.2016
+  kaz: https://zan.gov.kz/client/#!/doc/105287/kaz/01.01.2017
 caused_by:
   code: '108406'
   key: Z1600000029
