@@ -1,30 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/80091/rus/01.01.2017
+source: https://zan.gov.kz/client/#!/doc/80091/rus/10.02.2017
 ---
 
 <table>
 <tr>
 <td></td>
 <td>
-<table>
-<tr>
-<td></td>
-<td>ПРИЛОЖЕНИЕ 3</td>
-</tr>
-<tr>
-<td></td>
-<td>к Закону Республики Казахстан</td>
-</tr>
-<tr>
-<td></td>
-<td>&quot;О разрешениях и уведомлениях&quot;</td>
-</tr>
-<tr>
-<td></td>
-<td>от 16 мая 2014 года № 202-V ЗРК</td>
-</tr>
-</table>
+ПРИЛОЖЕНИЕ 3
+к Закону Республики Казахстан
+&quot;О разрешениях и уведомлениях&quot;
+от 16 мая 2014 года № 202-V ЗРК
 </td>
 </tr>
 </table>
