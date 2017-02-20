@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16195/rus/22.04.2016
+source: https://zan.gov.kz/client/#!/doc/16195/rus/20.02.2017
 ---
 
 Лесной кодекс Республики Казахстан
