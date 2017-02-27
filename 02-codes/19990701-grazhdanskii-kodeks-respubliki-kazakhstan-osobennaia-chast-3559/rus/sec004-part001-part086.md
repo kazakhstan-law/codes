@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/3559/rus/01.01.2017
+source: https://zan.gov.kz/client/#!/doc/3559/rus/27.02.2017
 ---
 
 ## Статья 490. Изменение и расторжение договора
