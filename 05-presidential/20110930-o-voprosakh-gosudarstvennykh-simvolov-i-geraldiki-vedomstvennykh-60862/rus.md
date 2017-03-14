@@ -1,5 +1,5 @@
 ---
-version_id: AI60862_23
+version_id: AI60862_25
 act_code: '60862'
 language: rus
 title: О вопросах государственных символов и геральдики ведомственных и иных, приравненных к ним, наград некоторых государственных органов, непосредственно подчиненных и подотчетных Президенту Республики Казахстан, Конституционного Суда Республики Казахстан, правоохранительных органов, судов, Вооруженных Сил, других войск и воинских формирований
@@ -13,13 +13,13 @@ type_codes:
 approved_by:
 - '101000000000'
 approval_date: 2011-09-30
-version_date: 2016-10-10
+version_date: 2017-03-14
 registry_number: '60862'
 caused_by:
-  code: '106943'
-  title: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан по вопросам деятельности консультативно-совещательных и иных органов при Президенте Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/106943/rus
-source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
+  code: '110381'
+  title: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/110381/rus
+source: https://zan.gov.kz/client/#!/doc/60862/rus/14.03.2017
 ---
 
 # О вопросах государственных символов и геральдики ведомственных и иных, приравненных к ним, наград некоторых государственных органов, непосредственно подчиненных и подотчетных Президенту Республики Казахстан, Конституционного Совета Республики Казахстан, правоохранительных органов, судов, Вооруженных Сил, других войск и воинских формирований
@@ -103,10 +103,24 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <tr>
 <td></td>
 <td>
-УТВЕРЖДЕНЫ
-Указом Президента
-Республики Казахстан
-от 30 сентября 2011 года № 155
+<table>
+<tr>
+<td></td>
+<td>УТВЕРЖДЕНЫ</td>
+</tr>
+<tr>
+<td></td>
+<td>Указом Президента</td>
+</tr>
+<tr>
+<td></td>
+<td>Республики Казахстан</td>
+</tr>
+<tr>
+<td></td>
+<td>от 30 сентября 2011 года № 155</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -2148,7 +2162,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 1 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2157,7 +2178,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 2 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2166,7 +2194,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 3 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2175,7 +2210,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 4 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2184,7 +2226,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 5 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2193,7 +2242,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 5-1 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2204,7 +2260,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 6 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2215,7 +2278,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 7 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2224,7 +2294,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 8 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2233,7 +2310,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 9 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2242,7 +2326,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 10 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2251,7 +2342,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 11 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2260,7 +2358,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 12 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2269,7 +2374,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 13 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2278,7 +2390,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 14 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2289,7 +2408,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 15 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2298,7 +2424,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 16 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2307,7 +2440,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 17 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2316,7 +2456,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 18 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2327,7 +2474,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 19 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2338,7 +2492,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 20 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2349,7 +2510,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 21 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2360,7 +2528,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 22 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2371,7 +2546,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 23 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2380,7 +2562,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 24 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2389,7 +2578,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 25 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2398,7 +2594,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 26 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2407,7 +2610,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 27 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2418,7 +2628,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 28 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2429,7 +2646,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 29 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2440,7 +2664,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 30 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2451,7 +2682,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 31 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2462,7 +2700,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 32 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2473,7 +2718,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 33 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2482,7 +2734,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 34 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2491,7 +2750,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 35 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2500,7 +2766,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 36 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2509,7 +2782,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 37 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2518,7 +2798,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 38 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2527,7 +2814,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 39 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2538,7 +2832,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 40 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2547,7 +2848,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 41 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2556,7 +2864,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 42 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2565,7 +2880,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 43 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2574,7 +2896,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 44 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2583,7 +2912,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 45 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2592,7 +2928,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 46 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2601,7 +2944,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 47 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2610,7 +2960,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 48 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2619,7 +2976,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 49 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2628,7 +2992,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 50 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2637,7 +3008,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 51 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2646,7 +3024,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 52 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2655,7 +3040,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 53 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2664,7 +3056,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 54 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2673,7 +3072,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 55 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2682,7 +3088,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 56 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2691,7 +3104,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 57 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2700,7 +3120,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 58 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2709,7 +3136,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 59 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2718,7 +3152,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 60 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2727,7 +3168,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 61 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2736,7 +3184,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 62 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2745,7 +3200,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 63 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2754,7 +3216,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 64 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2763,7 +3232,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 65 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2774,7 +3250,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 66 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2783,7 +3266,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 67 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2792,7 +3282,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 68 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2801,7 +3298,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 69 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2812,7 +3316,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 70 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2823,7 +3334,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 71 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2834,7 +3352,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 72 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2843,7 +3368,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 73 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2854,7 +3386,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 74 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2865,7 +3404,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 75 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2876,7 +3422,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 76 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2887,7 +3440,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 77 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2898,7 +3458,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 78 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2907,7 +3474,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 79 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2916,7 +3490,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 79-1 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2927,7 +3508,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 79-2 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2938,7 +3526,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 79-3 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2953,7 +3548,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 81 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2962,7 +3564,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 82 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2971,7 +3580,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 83 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2982,7 +3598,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 84 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -2993,7 +3616,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 85 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3004,7 +3634,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 86 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3015,7 +3652,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 87 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3026,7 +3670,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 88 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3037,7 +3688,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 89 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3046,7 +3704,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 90 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3055,7 +3720,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 91 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3064,7 +3736,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 92 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3075,7 +3754,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 93 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3086,7 +3772,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 93-1 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3097,7 +3790,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 93-2 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3106,7 +3806,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 94 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3115,7 +3822,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 95 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3126,7 +3840,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 96 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3137,7 +3858,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 97 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3146,7 +3874,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 98 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3155,7 +3890,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 99 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3164,7 +3906,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 100 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3173,7 +3922,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 101 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3182,7 +3938,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 102 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3191,7 +3954,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 103 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3200,7 +3970,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 104 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3209,7 +3986,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 105 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3218,7 +4002,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 106 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3227,7 +4018,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 107 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3236,7 +4034,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 108 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3245,7 +4050,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 109 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3254,7 +4066,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 110 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3265,7 +4084,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 111 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3276,7 +4102,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 112 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3285,7 +4118,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 113 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3294,7 +4134,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 114 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3303,7 +4150,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 115 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3314,7 +4168,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 116 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3325,7 +4186,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 117 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3336,7 +4204,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 118 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3347,7 +4222,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 119 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3358,7 +4240,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 120 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3369,7 +4258,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 121 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3380,7 +4276,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 122 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3391,7 +4294,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 123 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3402,7 +4312,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 124 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3413,7 +4330,14 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <table>
 <tr>
 <td></td>
+<td>
+<table>
+<tr>
+<td></td>
 <td>Приложение 125 к Описаниям</td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
@@ -3425,10 +4349,24 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <tr>
 <td></td>
 <td>
-УТВЕРЖДЕНЫ
-Указом Президента
-Республики Казахстан
-от 30 сентября 2011 года № 155
+<table>
+<tr>
+<td></td>
+<td>УТВЕРЖДЕНЫ</td>
+</tr>
+<tr>
+<td></td>
+<td>Указом Президента</td>
+</tr>
+<tr>
+<td></td>
+<td>Республики Казахстан</td>
+</tr>
+<tr>
+<td></td>
+<td>от 30 сентября 2011 года № 155</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -3999,17 +4937,52 @@ source: https://zan.gov.kz/client/#!/doc/60862/rus/10.10.2016
 <tr>
 <td></td>
 <td>
-ПРИЛОЖЕНИЕ 1
-к Правилам награждения ведомственными
-и иными, приравненными к ним, наградами
-(лишения ведомственных и иных, приравненных
-к ним, наград) некоторых государственных органов,
-непосредственно подчиненных и подотчетных
-Президенту Республики Казахстан,
-Конституционного Совета Республики Казахстан,
-правоохранительных органов, судов,
-Вооруженных Сил, других войск и
-воинских формирований
+<table>
+<tr>
+<td></td>
+<td>ПРИЛОЖЕНИЕ 1</td>
+</tr>
+<tr>
+<td></td>
+<td>к Правилам награждения ведомственными</td>
+</tr>
+<tr>
+<td></td>
+<td>и иными, приравненными к ним, наградами</td>
+</tr>
+<tr>
+<td></td>
+<td>(лишения ведомственных и иных, приравненных</td>
+</tr>
+<tr>
+<td></td>
+<td>к ним, наград) некоторых государственных органов,</td>
+</tr>
+<tr>
+<td></td>
+<td>непосредственно подчиненных и подотчетных</td>
+</tr>
+<tr>
+<td></td>
+<td>Президенту Республики Казахстан,</td>
+</tr>
+<tr>
+<td></td>
+<td>Конституционного Совета Республики Казахстан,</td>
+</tr>
+<tr>
+<td></td>
+<td>правоохранительных органов, судов,</td>
+</tr>
+<tr>
+<td></td>
+<td>Вооруженных Сил, других войск и</td>
+</tr>
+<tr>
+<td></td>
+<td>воинских формирований</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -4088,17 +5061,52 @@ _________________________
 <tr>
 <td></td>
 <td>
-ПРИЛОЖЕНИЕ 2
-к Правилам награждения ведомственными
-и иными, приравненными к ним, наградами
-(лишения ведомственных и иных, приравненных
-к ним, наград) некоторых государственных органов,
-непосредственно подчиненных и подотчетных
-Президенту Республики Казахстан,
-Конституционного Совета Республики Казахстан,
-правоохранительных органов, судов,
-Вооруженных Сил, других войск и
-воинских формирований
+<table>
+<tr>
+<td></td>
+<td>ПРИЛОЖЕНИЕ 2</td>
+</tr>
+<tr>
+<td></td>
+<td>к Правилам награждения ведомственными</td>
+</tr>
+<tr>
+<td></td>
+<td>и иными, приравненными к ним, наградами</td>
+</tr>
+<tr>
+<td></td>
+<td>(лишения ведомственных и иных, приравненных</td>
+</tr>
+<tr>
+<td></td>
+<td>к ним, наград) некоторых государственных органов,</td>
+</tr>
+<tr>
+<td></td>
+<td>непосредственно подчиненных и подотчетных</td>
+</tr>
+<tr>
+<td></td>
+<td>Президенту Республики Казахстан,</td>
+</tr>
+<tr>
+<td></td>
+<td>Конституционного Совета Республики Казахстан,</td>
+</tr>
+<tr>
+<td></td>
+<td>правоохранительных органов, судов,</td>
+</tr>
+<tr>
+<td></td>
+<td>Вооруженных Сил, других войск и</td>
+</tr>
+<tr>
+<td></td>
+<td>воинских формирований</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -4157,11 +5165,9 @@ _________________________________ _________________________________
 
 ## СОСТАВ Республиканской комиссии по вопросам государственных символов и геральдики ведомственных и иных, приравненных к ним, наград
 
-> *Сноска. Приложение 1 в редакции Указа Президента РК от 29.08.2016 № 312; с изменениями, внесенными указами Президента РК от 05.10.2016 № 349; от 10.10.2016 № 357.*
+> *Сноска. Приложение 1 в редакции Указа Президента РК от 29.08.2016 № 312; с изменениями, внесенными указами Президента РК от 05.10.2016 № 349; от 10.10.2016 № 357; от 14.03.2017 № 446.*
 
 Государственный секретарь Республики Казахстан, председатель
-
-заместитель Руководителя Администрации Президента Республики Казахстан, заместитель председателя
 
 ответственный секретарь Министерства культуры и спорта Республики Казахстан, секретарь
 
@@ -4177,7 +5183,9 @@ _________________________________ _________________________________
 
 Министр образования и науки Республики Казахстан
 
-Министр здравоохранения и социального развития Республики Казахстан
+Министр здравоохранения Республики Казахстан
+
+Министр труда и социальной защиты населения Республики Казахстан
 
 Министр по инвестициям и развитию Республики Казахстан
 
@@ -4289,10 +5297,24 @@ _________________________________ _________________________________
 <tr>
 <td></td>
 <td>
-УТВЕРЖДЕНО
-Указом Президента
-Республики Казахстан
-от 30 сентября 2011 года № 155
+<table>
+<tr>
+<td></td>
+<td>УТВЕРЖДЕНО</td>
+</tr>
+<tr>
+<td></td>
+<td>Указом Президента</td>
+</tr>
+<tr>
+<td></td>
+<td>Республики Казахстан</td>
+</tr>
+<tr>
+<td></td>
+<td>от 30 сентября 2011 года № 155</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -4415,10 +5437,24 @@ _________________________________ _________________________________
 <tr>
 <td></td>
 <td>
-ПРИЛОЖЕНИЕ 2
-к Указу Президента
-Республики Казахстан
-от 30 сентября 2011 года № 155
+<table>
+<tr>
+<td></td>
+<td>ПРИЛОЖЕНИЕ 2</td>
+</tr>
+<tr>
+<td></td>
+<td>к Указу Президента</td>
+</tr>
+<tr>
+<td></td>
+<td>Республики Казахстан</td>
+</tr>
+<tr>
+<td></td>
+<td>от 30 сентября 2011 года № 155</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
