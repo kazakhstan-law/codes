@@ -11,8 +11,15 @@ approved_on: 2016-12-30
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2016-12-30
-  rus: 2016-12-30
+  kaz: 2017-04-05
+  rus: 2017-04-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/108937/kaz/30.12.2016
-  rus: https://zan.gov.kz/client/#!/doc/108937/rus/30.12.2016
+  kaz: https://zan.gov.kz/client/#!/doc/108937/kaz/05.04.2017
+  rus: https://zan.gov.kz/client/#!/doc/108937/rus/05.04.2017
+caused_by:
+  code: '110934'
+  requisite: Указ Президента Республики Казахстан от 5 апреля 2017 года № 456
+  title:
+    rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
+    kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/110934/rus
