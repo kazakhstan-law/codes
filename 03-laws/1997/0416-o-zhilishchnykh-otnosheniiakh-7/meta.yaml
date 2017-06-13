@@ -1,0 +1,17 @@
+act_code: '7'
+requisite: Закон Республики Казахстан от 16 апреля 1997 года № 94
+title:
+  rus: О жилищных отношениях
+  kaz: Тұрғын үй қатынастары туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 1997-04-16
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2017-06-13
+  rus: 2017-06-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7/kaz/13.06.2017
+  rus: https://zan.gov.kz/client/#!/doc/7/rus/13.06.2017
