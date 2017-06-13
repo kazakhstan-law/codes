@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95666/rus/01.01.2017
+source: https://zan.gov.kz/client/#!/doc/95666/rus/13.06.2017
 ---
 
 Общая часть
