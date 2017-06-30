@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3559/kaz/01.03.2017
+source: https://zan.gov.kz/client/#!/doc/3559/kaz/30.06.2017
 ---
 
 Қазақстан Республикасының азаматтық кодексі (ерекше бөлім)

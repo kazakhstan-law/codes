@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22504/kaz/13.06.2017
+source: https://zan.gov.kz/client/#!/doc/22504/kaz/30.06.2017
 ---
 
 # Қазақстан Республикасының қорғанысы және Қарулы Күштері туралы

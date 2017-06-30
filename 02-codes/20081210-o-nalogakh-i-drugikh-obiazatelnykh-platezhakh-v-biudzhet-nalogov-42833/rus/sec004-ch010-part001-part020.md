@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42833/rus/15.06.2017
+source: https://zan.gov.kz/client/#!/doc/42833/rus/30.06.2017
 ---
 
 ## Статья 99. Корректировка совокупного годового дохода
