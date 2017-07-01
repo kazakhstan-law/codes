@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/879/kaz/27.02.2017
+source: https://zan.gov.kz/client/#!/doc/879/kaz/01.07.2017
 ---
 
 Жалпы бөлім
