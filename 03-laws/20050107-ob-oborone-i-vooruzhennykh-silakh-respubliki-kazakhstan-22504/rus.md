@@ -1,10 +1,6 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22504/rus/30.06.2017
+source: https://zan.gov.kz/client/#!/doc/22504/rus/11.07.2017
 ---
-
-Об обороне и Вооруженных Силах
-
-Республики Казахстан
 
 ОГЛАВЛЕНИЕ
 

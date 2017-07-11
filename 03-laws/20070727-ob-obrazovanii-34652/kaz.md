@@ -1,6 +1,8 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34652/kaz/05.07.2017
+source: https://zan.gov.kz/client/#!/doc/34652/kaz/11.07.2017
 ---
+
+## МАЗМҰНЫ
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
 
