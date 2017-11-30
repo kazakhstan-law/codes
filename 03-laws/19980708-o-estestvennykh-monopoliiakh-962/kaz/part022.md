@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/962/kaz/11.07.2017
+source: https://zan.gov.kz/client/#!/doc/962/kaz/30.11.2017
 ---
 
 ## 15-бап. Табиғи монополия субъектiсiнiң қызметiн мемлекеттiк реттеу

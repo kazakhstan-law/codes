@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28760/rus/03.07.2017
+source: https://zan.gov.kz/client/#!/doc/28760/rus/30.11.2017
 ---
 
 # О концессиях
