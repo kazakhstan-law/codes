@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/94981/rus/03.07.2017
+source: https://zan.gov.kz/client/#!/doc/94981/rus/28.12.2017
 ---
 
 ## Статья 151. Ограничения при проведении проверки
