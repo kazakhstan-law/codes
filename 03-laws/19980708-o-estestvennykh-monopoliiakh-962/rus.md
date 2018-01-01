@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/962/rus/30.11.2017
+source: https://zan.gov.kz/client/#!/doc/962/rus/01.01.2018
 ---
 
 # О естественных монополиях
