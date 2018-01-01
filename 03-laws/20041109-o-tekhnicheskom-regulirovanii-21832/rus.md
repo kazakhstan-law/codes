@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21832/rus/13.06.2017
+source: https://zan.gov.kz/client/#!/doc/21832/rus/01.01.2018
 ---
 
 # О техническом регулировании

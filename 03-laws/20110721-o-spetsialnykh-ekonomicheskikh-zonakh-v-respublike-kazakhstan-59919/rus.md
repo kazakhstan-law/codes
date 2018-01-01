@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59919/rus/03.07.2017
+source: https://zan.gov.kz/client/#!/doc/59919/rus/01.01.2018
 ---
 
 # О специальных экономических зонах в Республике Казахстан
