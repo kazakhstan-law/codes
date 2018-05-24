@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/52483/kaz/01.06.2016
+source: https://zan.gov.kz/client/#!/doc/52483/kaz/24.05.2018
 ---
 
 # Тұтынушылардың құқықтарын қорғау туралы

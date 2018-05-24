@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/101431/kaz/28.12.2017
+source: https://zan.gov.kz/client/#!/doc/101431/kaz/24.05.2018
 ---
 
 # Пошта туралы

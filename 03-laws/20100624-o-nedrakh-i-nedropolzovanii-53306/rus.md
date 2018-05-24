@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/53306/rus/11.07.2017
+source: https://zan.gov.kz/client/#!/doc/53306/rus/24.05.2018
 ---
 
 # О недрах и недропользовании

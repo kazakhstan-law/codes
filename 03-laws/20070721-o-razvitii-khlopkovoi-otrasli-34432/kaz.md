@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34432/kaz/08.04.2016
+source: https://zan.gov.kz/client/#!/doc/34432/kaz/24.05.2018
 ---
 
 # Мақта саласын дамыту туралы
