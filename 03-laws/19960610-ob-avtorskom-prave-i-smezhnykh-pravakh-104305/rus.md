@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104305/rus/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/104305/rus/20.06.2018
 ---
 
 # ОБ АВТОРСКОМ ПРАВЕ И СМЕЖНЫХ ПРАВАХ
@@ -14,4 +14,5 @@ source: https://zan.gov.kz/client/#!/doc/104305/rus/24.05.2018
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | Глава I. Общие положения |
+| [`ch002`](rus/ch002.md) | Глава II. Авторское право |
 | [`ch003`](rus/ch003.md) | Глава III. Смежные права |
