@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/70141/kaz/01.01.2018
+source: https://zan.gov.kz/client/#!/doc/70141/kaz/29.06.2018
 ---
 
 # Қазақстан Республикасының Мемлекеттік шекарасы туралы

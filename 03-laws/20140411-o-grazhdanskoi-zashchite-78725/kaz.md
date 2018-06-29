@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78725/kaz/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/78725/kaz/29.06.2018
 ---
 
 # Азаматтық қорғау туралы
