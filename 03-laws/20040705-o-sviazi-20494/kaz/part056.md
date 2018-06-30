@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/30.06.2018
 ---
 
 ## 36-бап. Байланыс қызметтерiн пайдаланушылардың құқықтарын қорғау

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/20494/rus/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/20494/rus/30.06.2018
 ---
 
 ## Статья 36. Защита прав пользователей услугами связи
