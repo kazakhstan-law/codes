@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/24399/rus/02.07.2018
+repealed_on: 2019-07-01
+repealed_by:
+  code: '123177'
+  title: О валютном регулировании и валютном контроле
+  link: https://zan.gov.kz/client/#!/doc/123177/rus
 ---
 
 # О валютном регулировании и валютном контроле
