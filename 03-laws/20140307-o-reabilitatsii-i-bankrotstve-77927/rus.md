@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/77927/rus/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/77927/rus/02.07.2018
 ---
 
 # О реабилитации и банкротстве
