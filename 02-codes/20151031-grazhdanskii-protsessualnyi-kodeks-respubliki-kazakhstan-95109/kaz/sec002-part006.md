@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/95109/kaz/02.07.2018
+source: https://zan.gov.kz/client/#!/doc/95109/kaz/05.07.2018
 ---
 
 ## 3-КІШІ БӨЛІМ. ЕРЕКШЕ ТАЛАП ҚОЮ ІСІН ЖҮРГІЗУ
