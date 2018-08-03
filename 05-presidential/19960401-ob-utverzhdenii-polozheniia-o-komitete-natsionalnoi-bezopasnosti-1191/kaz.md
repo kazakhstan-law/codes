@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1191/kaz/06.03.2018
+source: https://zan.gov.kz/client/#!/doc/1191/kaz/03.08.2018
 ---
 
 # Қазақстан Республикасының Ұлттық қауiпсiздiк комитетi туралы ереженi бекiту туралы
