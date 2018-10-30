@@ -65,17 +65,24 @@ versions:
   cause:
     code: '122690'
     key: U1800000701
+- date: 2018-10-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '125359'
+    key: U1800000782
 version_date:
-  kaz: 2018-06-13
-  rus: 2018-06-13
+  kaz: 2018-10-30
+  rus: 2018-10-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/86005/kaz/13.06.2018
-  rus: https://zan.gov.kz/client/#!/doc/86005/rus/13.06.2018
+  kaz: https://zan.gov.kz/client/#!/doc/86005/kaz/30.10.2018
+  rus: https://zan.gov.kz/client/#!/doc/86005/rus/30.10.2018
 caused_by:
-  code: '122690'
-  key: U1800000701
-  requisite: Указ Президента Республики Казахстан от 13 июня 2018 года № 701
+  code: '125359'
+  key: U1800000782
+  requisite: Указ Президента Республики Казахстан от 30 октября 2018 года № 782
   title:
     rus: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір актілеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/122690/rus
+  link: https://zan.gov.kz/client/#!/doc/125359/rus
