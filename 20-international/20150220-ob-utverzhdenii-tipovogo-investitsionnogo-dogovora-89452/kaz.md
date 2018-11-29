@@ -15,6 +15,11 @@ approval_date: 2015-02-20
 version_date: 2017-01-01
 registry_number: '89452'
 source: https://zan.gov.kz/client/#!/doc/89452/kaz/01.01.2017
+repealed_on: 2019-01-01
+repealed_by:
+  code: '126256'
+  title: Қазақстан Республикасы Энергетика министрінің кейбір бұйрықтарының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/126256/kaz
 ---
 
 # Үлгілік инвестициялық шартты бекіту туралы
