@@ -13,6 +13,11 @@ approval_date: 2017-11-30
 version_date: 2017-11-30
 registry_number: '116373'
 source: https://zan.gov.kz/client/#!/doc/116373/rus/30.11.2017
+repealed_on: 2019-01-01
+repealed_by:
+  code: '126297'
+  title: О гарантированном трансферте из Национального фонда Республики Казахстан на 2019 – 2021 годы
+  link: https://zan.gov.kz/client/#!/doc/126297/rus
 ---
 
 # О гарантированном трансферте из Национального фонда Республики Казахстан на 2018 – 2020 годы
