@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/123678/rus/25.07.2018
+source: https://zan.gov.kz/client/#!/doc/123678/rus/21.12.2018
 ---
 
 ## Эксперт – 1 единица, категория В-6 (9-4)

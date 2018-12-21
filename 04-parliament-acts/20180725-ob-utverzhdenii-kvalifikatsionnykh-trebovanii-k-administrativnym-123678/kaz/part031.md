@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/123678/kaz/25.07.2018
+source: https://zan.gov.kz/client/#!/doc/123678/kaz/21.12.2018
 ---
 
 ## Сектор меңгерушісі– мемлекеттік аудитор - 1 бірлік, В-4 санаты (3-5)
