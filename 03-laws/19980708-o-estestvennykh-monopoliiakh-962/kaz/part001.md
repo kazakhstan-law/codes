@@ -1,11 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/962/kaz/24.05.2018
-repealed_on: 2019-04-11
-repealed_by:
-  code: '125030'
-  title: Қазақстан Республикасының кейбір заңнамалық актілеріне өлшем бірлігін қамтамасыз ету және стандарттау мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/125030/kaz
+source: https://zan.gov.kz/client/#!/doc/962/kaz/27.12.2018
 ---
 
 ## 1-бап. Осы Заңның мақсаты

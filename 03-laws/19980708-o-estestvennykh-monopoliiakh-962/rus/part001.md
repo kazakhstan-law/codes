@@ -1,11 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/962/rus/24.05.2018
-repealed_on: 2019-04-11
-repealed_by:
-  code: '125030'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам обеспечения единства измерений и стандартизации
-  link: https://zan.gov.kz/client/#!/doc/125030/rus
+source: https://zan.gov.kz/client/#!/doc/962/rus/27.12.2018
 ---
 
 ## Статья 1. Цели настоящего Закона
