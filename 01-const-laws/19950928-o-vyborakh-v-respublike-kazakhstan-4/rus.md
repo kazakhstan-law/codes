@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4/rus/29.06.2018
+source: https://zan.gov.kz/client/#!/doc/4/rus/28.12.2018
 ---
 
 # О выборах в Республике Казахстан

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4/kaz/29.06.2018
+source: https://zan.gov.kz/client/#!/doc/4/kaz/28.12.2018
 ---
 
 # Қазақстан Республикасындағы сайлау туралы
