@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63062/rus/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/63062/rus/28.12.2018
 ---
 
 # О телерадиовещании
