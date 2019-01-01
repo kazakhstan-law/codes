@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59947/rus/04.07.2018
+source: https://zan.gov.kz/client/#!/doc/59947/rus/01.01.2019
 ---
 
 # О миграции населения
