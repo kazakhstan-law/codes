@@ -471,12 +471,19 @@ versions:
   cause:
     code: '123169'
     key: Z1800000168
+- date: 2019-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '123169'
+    key: Z1800000168
 version_date:
-  kaz: 2018-12-16
-  rus: 2018-12-16
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7832/kaz/16.12.2018
-  rus: https://zan.gov.kz/client/#!/doc/7832/rus/16.12.2018
+  kaz: https://zan.gov.kz/client/#!/doc/7832/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/7832/rus/01.01.2019
 caused_by:
   code: '123169'
   key: Z1800000168

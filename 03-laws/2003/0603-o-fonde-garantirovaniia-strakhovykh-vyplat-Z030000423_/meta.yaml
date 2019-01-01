@@ -138,12 +138,19 @@ versions:
   also_caused_by:
   - code: '123091'
     key: Z1800000166
+- date: 2019-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '123169'
+    key: Z1800000168
 version_date:
-  kaz: 2018-07-02
-  rus: 2018-07-02
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15681/kaz/02.07.2018
-  rus: https://zan.gov.kz/client/#!/doc/15681/rus/02.07.2018
+  kaz: https://zan.gov.kz/client/#!/doc/15681/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/15681/rus/01.01.2019
 caused_by:
   code: '123169'
   key: Z1800000168
