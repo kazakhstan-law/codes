@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/46807/rus/28.12.2018
+source: https://zan.gov.kz/client/#!/doc/46807/rus/01.01.2019
 ---
 
 # О поддержке использования возобновляемых источников энергии
