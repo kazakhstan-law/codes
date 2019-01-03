@@ -1,0 +1,17 @@
+act_code: '127871'
+requisite: Закон Республики Казахстан от 3 января 2019 года № 212-VІ ЗРК
+title:
+  rus: О кинематографии
+  kaz: Кинематография туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2019-01-03
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2019-01-03
+  rus: 2019-01-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/127871/kaz/03.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/127871/rus/03.01.2019
