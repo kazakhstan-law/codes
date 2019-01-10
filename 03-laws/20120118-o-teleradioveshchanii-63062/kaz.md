@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63062/kaz/28.12.2018
+source: https://zan.gov.kz/client/#!/doc/63062/kaz/10.01.2019
 ---
 
 # Телерадио хабарларын тарату туралы
