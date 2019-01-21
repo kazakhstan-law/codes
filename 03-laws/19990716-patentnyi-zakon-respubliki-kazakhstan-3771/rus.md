@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3771/rus/20.06.2018
+source: https://zan.gov.kz/client/#!/doc/3771/rus/21.01.2019
 ---
 
 # Патентный закон Республики Казахстан
