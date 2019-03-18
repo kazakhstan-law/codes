@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/7898/rus/13.06.2017
+repealed_on: 2019-04-10
+repealed_by:
+  code: '129650'
+  title: Об оборонной промышленности и государственном оборонном заказе
+  link: https://zan.gov.kz/client/#!/doc/129650/rus
 ---
 
 # О государственном оборонном заказе
