@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20605/rus/01.07.2018
+source: https://zan.gov.kz/client/#!/doc/20605/rus/02.04.2019
 ---
 
 # Об охране, воспроизводстве и использовании животного мира

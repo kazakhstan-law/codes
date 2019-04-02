@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/40647/kaz/01.01.2019
+source: https://zan.gov.kz/client/#!/doc/40647/kaz/02.04.2019
 ---
 
 ## 14-бап. "Шығындарға қосу" әдісі

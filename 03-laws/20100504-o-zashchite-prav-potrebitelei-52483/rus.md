@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/52483/rus/08.01.2019
+source: https://zan.gov.kz/client/#!/doc/52483/rus/02.04.2019
 ---
 
 # О защите прав потребителей
