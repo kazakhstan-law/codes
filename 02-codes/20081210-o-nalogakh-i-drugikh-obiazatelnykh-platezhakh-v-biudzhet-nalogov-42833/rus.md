@@ -1,5 +1,5 @@
 ---
-version_id: '42833_388943'
+version_id: '42833_404148'
 act_code: '42833'
 language: rus
 title: О налогах и других обязательных платежах в бюджет (Налоговый кодекс)
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2008-12-10
-version_date: 2019-01-01
+version_date: 2019-04-02
 registry_number: '42833'
 caused_by:
-  code: '117063'
-  title: О введении в действие Кодекса Республики Казахстан «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс)
-  link: https://zan.gov.kz/client/#!/doc/117063/rus
-source: https://zan.gov.kz/client/#!/doc/42833/rus/01.01.2019
+  code: '129990'
+  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам развития бизнес-среды и регулирования торговой деятельности
+  link: https://zan.gov.kz/client/#!/doc/129990/rus
+source: https://zan.gov.kz/client/#!/doc/42833/rus/02.04.2019
 ---
 
 ## ОГЛАВЛЕНИЕ
