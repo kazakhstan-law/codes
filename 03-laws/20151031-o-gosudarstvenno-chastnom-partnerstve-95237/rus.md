@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95237/rus/04.07.2018
+source: https://zan.gov.kz/client/#!/doc/95237/rus/03.04.2019
 ---
 
 # О государственно-частном партнерстве
