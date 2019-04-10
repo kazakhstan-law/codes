@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1890/rus/11.07.2017
+source: https://zan.gov.kz/client/#!/doc/1890/rus/10.04.2019
 ---
 
 ## Оглавление
@@ -110,3 +110,4 @@ source: https://zan.gov.kz/client/#!/doc/1890/rus/11.07.2017
 | Часть | Название |
 |---|---|
 | [`ch001`](rus/ch001.md) | Глава 1. Общие положения |
+| [`ch007`](rus/ch007.md) | Глава 7. Заключительные положения |
