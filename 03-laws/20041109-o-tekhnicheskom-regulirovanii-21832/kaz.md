@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21832/kaz/03.04.2019
+source: https://zan.gov.kz/client/#!/doc/21832/kaz/11.04.2019
 ---
 
 # Техникалық реттеу туралы
