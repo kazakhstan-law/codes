@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60862/kaz/22.10.2018
+source: https://zan.gov.kz/client/#!/doc/60862/kaz/01.06.2019
 ---
 
 ## III дәрежелі "Құтқарушы" ( 123-қосымша)

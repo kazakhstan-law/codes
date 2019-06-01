@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60862/rus/22.10.2018
+source: https://zan.gov.kz/client/#!/doc/60862/rus/01.06.2019
 ---
 
 ## Сноска. Подраздел с изменением, внесенным Указом Президента РК от 29.08.2016 № 312.
