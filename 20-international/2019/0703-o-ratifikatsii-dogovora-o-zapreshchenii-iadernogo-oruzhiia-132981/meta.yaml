@@ -1,0 +1,18 @@
+act_code: '132981'
+requisite: Закон Республики Казахстан от 3 июля 2019 года № 261-VІ ЗРК
+title:
+  rus: О ратификации Договора о запрещении ядерного оружия
+  kaz: Ядролық қаруға тыйым салу туралы шартты ратификациялау туралы
+form: ДОГ
+type_codes:
+- ДОГ
+- ЗАК
+approved_on: 2019-07-03
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2019-07-03
+  rus: 2019-07-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/132981/kaz/03.07.2019
+  rus: https://zan.gov.kz/client/#!/doc/132981/rus/03.07.2019
