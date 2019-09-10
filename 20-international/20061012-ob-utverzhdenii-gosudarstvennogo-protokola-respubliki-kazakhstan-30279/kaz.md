@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/kaz/31.12.2017
+source: https://zan.gov.kz/client/#!/doc/30279/kaz/10.09.2019
 ---
 
 # Қазақстан Республикасының Мемлекеттiк протоколын бекiту туралы
