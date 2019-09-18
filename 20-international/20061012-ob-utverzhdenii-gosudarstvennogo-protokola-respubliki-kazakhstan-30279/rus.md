@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/rus/10.09.2019
+source: https://zan.gov.kz/client/#!/doc/30279/rus/18.09.2019
 ---
 
 # Об утверждении Государственного протокола Республики Казахстан
