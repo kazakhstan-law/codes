@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/130426/rus/11.04.2019
+source: https://zan.gov.kz/client/#!/doc/130426/rus/15.10.2019
 ---
 
 ## Заместитель руководителя отдела – 1 единица, категория В-2 (7-2)
