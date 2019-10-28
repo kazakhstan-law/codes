@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96093/kaz/01.07.2019
+source: https://zan.gov.kz/client/#!/doc/96093/kaz/28.10.2019
 ---
 
 # Мемлекеттiк сатып алу туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3771/kaz/21.01.2019
+source: https://zan.gov.kz/client/#!/doc/3771/kaz/28.10.2019
 ---
 
 # Қазақстан Республикасының Патент Заңы
