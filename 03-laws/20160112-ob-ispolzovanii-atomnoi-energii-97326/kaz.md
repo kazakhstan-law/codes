@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97326/kaz/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/97326/kaz/25.11.2019
 ---
 
 # Атом энергиясын пайдалану туралы

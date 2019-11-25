@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7502/rus/19.04.2019
+source: https://zan.gov.kz/client/#!/doc/7502/rus/25.11.2019
 ---
 
 # Об административных процедурах

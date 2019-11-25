@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/100890/rus/11.04.2019
+source: https://zan.gov.kz/client/#!/doc/100890/rus/25.11.2019
 ---
 
 # О правовых актах

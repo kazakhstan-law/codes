@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11113/rus/15.05.2019
+source: https://zan.gov.kz/client/#!/doc/11113/rus/25.11.2019
 ---
 
 # О торговом мореплавании

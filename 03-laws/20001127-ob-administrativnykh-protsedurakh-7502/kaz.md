@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7502/kaz/19.04.2019
+source: https://zan.gov.kz/client/#!/doc/7502/kaz/25.11.2019
 ---
 
 # Әкімшілік рәсімдер туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15213/rus/01.01.2019
+source: https://zan.gov.kz/client/#!/doc/15213/rus/25.11.2019
 ---
 
 # Об обязательном социальном страховании
