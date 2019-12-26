@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62774/kaz/11.04.2019
+source: https://zan.gov.kz/client/#!/doc/62774/kaz/26.12.2019
 ---
 
 # Газ және газбен жабдықтау туралы
