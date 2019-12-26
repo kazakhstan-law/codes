@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/94981/kaz/25.11.2019
+source: https://zan.gov.kz/client/#!/doc/94981/kaz/26.12.2019
 ---
 
 ## 152-бап. Тексеру нәтижелерін ресімдеу тәртібі
