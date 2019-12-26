@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам оказания государственных услуг
   link: https://zan.gov.kz/client/#!/doc/136388/rus
 source: https://zan.gov.kz/client/#!/doc/15213/rus/25.11.2019
+repealed_on: 2020-01-01
+repealed_by:
+  code: '137693'
+  title: Об обязательном социальном страховании
+  link: https://zan.gov.kz/client/#!/doc/137693/rus
 ---
 
 # Об обязательном социальном страховании
