@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/15213/kaz/25.11.2019
+repealed_on: 2020-01-01
+repealed_by:
+  code: '137693'
+  title: Міндетті әлеуметтік сақтандыру туралы
+  link: https://zan.gov.kz/client/#!/doc/137693/kaz
 ---
 
 # Міндетті әлеуметтік сақтандыру туралы
