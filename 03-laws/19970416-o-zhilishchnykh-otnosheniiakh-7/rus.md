@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7/rus/26.12.2019
+source: https://zan.gov.kz/client/#!/doc/7/rus/27.12.2019
 ---
 
 # О жилищных отношениях
