@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/94981/rus/26.12.2019
+source: https://zan.gov.kz/client/#!/doc/94981/rus/27.12.2019
 ---
 
 ## Параграф 2. Индустриально-инновационная система Республики Казахстан

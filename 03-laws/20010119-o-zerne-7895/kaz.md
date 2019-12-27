@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7895/kaz/28.10.2019
+source: https://zan.gov.kz/client/#!/doc/7895/kaz/27.12.2019
 ---
 
 # Астық туралы
