@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22504/kaz/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/22504/kaz/01.01.2020
 ---
 
 МАЗМҰНЫ
