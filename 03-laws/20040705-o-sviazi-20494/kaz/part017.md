@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/01.01.2020
 ---
 
 ## 14-бап. Төтенше жағдайлар кезінде, төтенше жағдай енгізілген кезде байланыс желілерін басқару
