@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16159/kaz/25.11.2019
+source: https://zan.gov.kz/client/#!/doc/16159/kaz/01.01.2020
 ---
 
 # Бағалы қағаздар рыногы туралы
