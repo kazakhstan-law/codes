@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34432/rus/28.10.2019
+source: https://zan.gov.kz/client/#!/doc/34432/rus/01.01.2020
 ---
 
 # О развитии хлопковой отрасли
