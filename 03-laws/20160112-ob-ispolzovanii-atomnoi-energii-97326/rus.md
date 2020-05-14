@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97326/rus/25.11.2019
+source: https://zan.gov.kz/client/#!/doc/97326/rus/14.05.2020
 ---
 
 # Об использовании атомной энергии
