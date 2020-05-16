@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/100890/kaz/01.01.2020
+source: https://zan.gov.kz/client/#!/doc/100890/kaz/16.05.2020
 ---
 
 # Құқықтық актілер туралы
