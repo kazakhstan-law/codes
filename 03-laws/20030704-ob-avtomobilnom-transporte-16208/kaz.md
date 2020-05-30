@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16208/kaz/06.05.2020
+source: https://zan.gov.kz/client/#!/doc/16208/kaz/30.05.2020
 ---
 
 # Автомобиль көлiгi туралы

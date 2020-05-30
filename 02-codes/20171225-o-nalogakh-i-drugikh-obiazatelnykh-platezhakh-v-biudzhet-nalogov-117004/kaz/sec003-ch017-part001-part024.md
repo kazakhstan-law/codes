@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117004/kaz/06.05.2020
+source: https://zan.gov.kz/client/#!/doc/117004/kaz/30.05.2020
 ---
 
 ## 158-бап. Салықтық тексерудің аяқталуы

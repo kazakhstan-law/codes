@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12676/rus/27.11.2019
+source: https://zan.gov.kz/client/#!/doc/12676/rus/30.05.2020
 ---
 
 # О ветеринарии
