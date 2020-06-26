@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/25.06.2020
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/26.06.2020
 ---
 
 ## 1-тарау. Жалпы ережелер

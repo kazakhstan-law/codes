@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62568/rus/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/62568/rus/26.06.2020
 ---
 
 ## ОГЛАВЛЕНИЕ
