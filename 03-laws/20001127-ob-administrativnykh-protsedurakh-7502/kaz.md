@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/7502/kaz/25.11.2019
+repealed_on: 2021-07-01
+repealed_by:
+  code: '144260'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ӘКІМШІЛІК РӘСІМДІК-ПРОЦЕСТІК КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/144260/kaz
 ---
 
 # Әкімшілік рәсімдер туралы

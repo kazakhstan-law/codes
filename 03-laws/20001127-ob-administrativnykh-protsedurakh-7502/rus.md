@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/7502/rus/25.11.2019
+repealed_on: 2021-07-01
+repealed_by:
+  code: '144260'
+  title: АДМИНИСТРАТИВНЫЙ ПРОЦЕДУРНО-ПРОЦЕССУАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/144260/rus
 ---
 
 # Об административных процедурах

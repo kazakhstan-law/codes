@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/31396/kaz/01.01.2020
+repealed_on: 2021-07-01
+repealed_by:
+  code: '144260'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ӘКІМШІЛІК РӘСІМДІК-ПРОЦЕСТІК КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/144260/kaz
 ---
 
 # Жеке және заңды тұлғалардың өтiнiштерiн қарау тәртiбi туралы
