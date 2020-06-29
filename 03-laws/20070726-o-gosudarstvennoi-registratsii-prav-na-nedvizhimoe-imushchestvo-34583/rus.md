@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34583/rus/25.06.2020
+source: https://zan.gov.kz/client/#!/doc/34583/rus/29.06.2020
 ---
 
 # О государственной регистрации прав на недвижимое имущество

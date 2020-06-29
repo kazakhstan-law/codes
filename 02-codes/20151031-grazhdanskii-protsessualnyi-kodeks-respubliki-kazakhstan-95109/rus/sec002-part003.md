@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/95109/rus/26.06.2020
+source: https://zan.gov.kz/client/#!/doc/95109/rus/29.06.2020
 ---
 
 ## ПОДРАЗДЕЛ 2. ИСКОВОЕ ПРОИЗВОДСТВО
