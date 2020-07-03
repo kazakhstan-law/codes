@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95592/kaz/01.01.2020
+source: https://zan.gov.kz/client/#!/doc/95592/kaz/03.07.2020
 ---
 
 # Сыбайлас жемқорлыққа қарсы іс-қимыл туралы
