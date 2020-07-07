@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1890/kaz/25.05.2020
+source: https://zan.gov.kz/client/#!/doc/1890/kaz/07.07.2020
 ---
 
 ## Мазмұны
@@ -110,3 +110,4 @@ source: https://zan.gov.kz/client/#!/doc/1890/kaz/25.05.2020
 | Часть | Название |
 |---|---|
 | [`ch001`](kaz/ch001.md) | 1-тарау. Жалпы ережелер |
+| [`ch007`](kaz/ch007.md) | 7-тарау. Қорытынды ережелер |
