@@ -1,0 +1,24 @@
+act_code: '144582'
+requisite: Кодекс Республики Казахстан от 7 июля 2020 года № 360-VI ЗРК
+title:
+  rus: О ЗДОРОВЬЕ НАРОДА И СИСТЕМЕ ЗДРАВООХРАНЕНИЯ
+  kaz: ХАЛЫҚ ДЕНСАУЛЫҒЫ ЖӘНЕ ДЕНСАУЛЫҚ САҚТАУ ЖҮЙЕСІ ТУРАЛЫ
+form: КОД
+type_codes:
+- КОД
+approved_on: 2020-07-07
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2020-07-07
+  rus: 2020-07-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/144582/kaz/07.07.2020
+  rus: https://zan.gov.kz/client/#!/doc/144582/rus/07.07.2020
+caused_by:
+  code: '144582'
+  requisite: Кодекс Республики Казахстан от 7 июля 2020 года № 360-VI ЗРК
+  title:
+    rus: О ЗДОРОВЬЕ НАРОДА И СИСТЕМЕ ЗДРАВООХРАНЕНИЯ
+    kaz: ХАЛЫҚ ДЕНСАУЛЫҒЫ ЖӘНЕ ДЕНСАУЛЫҚ САҚТАУ ЖҮЙЕСІ ТУРАЛЫ
+  link: https://zan.gov.kz/client/#!/doc/144582/rus
