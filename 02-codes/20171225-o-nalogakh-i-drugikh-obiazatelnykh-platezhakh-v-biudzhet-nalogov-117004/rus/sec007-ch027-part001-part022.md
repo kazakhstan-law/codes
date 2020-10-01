@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117004/rus/02.07.2020
+source: https://zan.gov.kz/client/#!/doc/117004/rus/01.10.2020
 ---
 
 ## Статья 243. Вычеты по отдельным видам расходов
