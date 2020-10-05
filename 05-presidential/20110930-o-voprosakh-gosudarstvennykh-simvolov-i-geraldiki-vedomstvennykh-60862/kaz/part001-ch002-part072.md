@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60862/kaz/28.10.2019
+source: https://zan.gov.kz/client/#!/doc/60862/kaz/05.10.2020
 ---
 
 ## I дәрежелі "Мінсіз қызметі үшін" ( 66-қосымша)
