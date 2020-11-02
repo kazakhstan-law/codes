@@ -10,15 +10,15 @@ approved_on: 2006-12-15
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2020-01-01
-  rus: 2020-01-01
+  kaz: 2020-11-02
+  rus: 2020-11-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/30774/kaz/01.01.2020
-  rus: https://zan.gov.kz/client/#!/doc/30774/rus/01.01.2020
+  kaz: https://zan.gov.kz/client/#!/doc/30774/kaz/02.11.2020
+  rus: https://zan.gov.kz/client/#!/doc/30774/rus/02.11.2020
 caused_by:
-  code: '111963'
-  requisite: Закон Республики Казахстан от 5 мая 2017 года № 60-VI ЗРК
+  code: '148177'
+  requisite: Закон Республики Казахстан от 2 ноября 2020 года № 370-VI ЗРК
   title:
     rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам культуры
     kaz: Қазақстан Республикасының кейбір заңнамалық актілеріне мәдениет мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/111963/rus
+  link: https://zan.gov.kz/client/#!/doc/148177/rus
