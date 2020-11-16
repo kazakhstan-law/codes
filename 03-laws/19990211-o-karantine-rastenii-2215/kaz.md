@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2215/kaz/27.11.2019
+source: https://zan.gov.kz/client/#!/doc/2215/kaz/16.11.2020
 ---
 
 # Өсімдіктер карантині туралы
