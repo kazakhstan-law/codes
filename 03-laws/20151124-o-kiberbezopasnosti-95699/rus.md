@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95699/rus/25.06.2020
+source: https://zan.gov.kz/client/#!/doc/95699/rus/16.12.2020
 ---
 
 # Об информатизации
