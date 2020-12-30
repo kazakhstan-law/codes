@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/21832/kaz/11.04.2019
+repealed_on: 2021-07-01
+repealed_by:
+  code: '151245'
+  title: Техникалық реттеу туралы
+  link: https://zan.gov.kz/client/#!/doc/151245/kaz
 ---
 
 # Техникалық реттеу туралы
