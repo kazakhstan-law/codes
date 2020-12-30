@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам обеспечения единства измерений и стандартизации
   link: https://zan.gov.kz/client/#!/doc/125030/rus
 source: https://zan.gov.kz/client/#!/doc/21832/rus/11.04.2019
+repealed_on: 2021-07-01
+repealed_by:
+  code: '151245'
+  title: О техническом регулировании
+  link: https://zan.gov.kz/client/#!/doc/151245/rus
 ---
 
 # О техническом регулировании
