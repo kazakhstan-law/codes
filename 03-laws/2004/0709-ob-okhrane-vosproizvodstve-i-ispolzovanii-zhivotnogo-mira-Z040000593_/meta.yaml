@@ -263,12 +263,19 @@ versions:
   cause:
     code: '135802'
     key: Z1900000268
+- date: 2021-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '135802'
+    key: Z1900000268
 version_date:
-  kaz: 2019-11-27
-  rus: 2019-11-27
+  kaz: 2021-01-01
+  rus: 2021-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/20605/kaz/27.11.2019
-  rus: https://zan.gov.kz/client/#!/doc/20605/rus/27.11.2019
+  kaz: https://zan.gov.kz/client/#!/doc/20605/kaz/01.01.2021
+  rus: https://zan.gov.kz/client/#!/doc/20605/rus/01.01.2021
 caused_by:
   code: '135802'
   key: Z1900000268
