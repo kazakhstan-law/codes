@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4/rus/25.05.2020
+source: https://zan.gov.kz/client/#!/doc/4/rus/01.01.2021
 ---
 
 # О выборах в Республике Казахстан
