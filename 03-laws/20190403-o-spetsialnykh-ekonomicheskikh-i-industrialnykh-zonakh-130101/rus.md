@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/130101/rus/03.04.2019
+source: https://zan.gov.kz/client/#!/doc/130101/rus/02.01.2021
 ---
 
 # О специальных экономических и индустриальных зонах

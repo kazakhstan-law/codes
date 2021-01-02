@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59822/rus/31.12.2020
+source: https://zan.gov.kz/client/#!/doc/59822/rus/02.01.2021
 ---
 
 ## Статья 22. Условия розничной реализации нефтепродуктов

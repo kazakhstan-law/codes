@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/100975/rus/01.01.2021
+source: https://zan.gov.kz/client/#!/doc/100975/rus/02.01.2021
 ---
 
 # О занятости населения
