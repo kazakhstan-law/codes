@@ -1,0 +1,17 @@
+act_code: '151312'
+requisite: Кодекс Республики Казахстан от 2 января 2021 года № 400-VI ЗРК
+title:
+  rus: ЭКОЛОГИЧЕСКИЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  kaz: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ЭКОЛОГИЯ КОДЕКСІ
+form: КОД
+type_codes:
+- КОД
+approved_on: 2021-01-02
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2021-01-02
+  rus: 2021-01-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/151312/kaz/02.01.2021
+  rus: https://zan.gov.kz/client/#!/doc/151312/rus/02.01.2021
