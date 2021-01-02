@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының кейбір заңнамалық актілеріне экономикалық өсуді қалпына келтіру мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
   link: https://zan.gov.kz/client/#!/doc/151267/kaz
 source: https://zan.gov.kz/client/#!/doc/31308/kaz/02.01.2021
+repealed_on: 2021-07-01
+repealed_by:
+  code: '151312'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ЭКОЛОГИЯ КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/151312/kaz
 ---
 
 ## МАЗМҰНЫ

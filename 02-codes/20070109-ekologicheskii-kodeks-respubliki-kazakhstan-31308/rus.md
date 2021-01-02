@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам восстановления экономического роста
   link: https://zan.gov.kz/client/#!/doc/151267/rus
 source: https://zan.gov.kz/client/#!/doc/31308/rus/02.01.2021
+repealed_on: 2021-07-01
+repealed_by:
+  code: '151312'
+  title: ЭКОЛОГИЧЕСКИЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/151312/rus
 ---
 
 ## ОГЛАВЛЕНИЕ
