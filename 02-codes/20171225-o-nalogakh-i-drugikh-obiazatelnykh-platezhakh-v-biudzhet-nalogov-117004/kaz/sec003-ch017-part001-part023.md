@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117004/kaz/01.01.2021
+source: https://zan.gov.kz/client/#!/doc/117004/kaz/26.02.2021
 ---
 
 ## 157-бап. Салықтық тексерудің алдын ала актісі
