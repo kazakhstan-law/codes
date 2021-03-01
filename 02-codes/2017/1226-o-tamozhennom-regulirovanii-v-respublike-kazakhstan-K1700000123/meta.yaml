@@ -110,12 +110,19 @@ versions:
   also_caused_by:
   - code: '151319'
     key: Z2100000408
+- date: 2021-03-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '151317'
+    key: Z2100000407
 version_date:
-  kaz: 2021-01-05
-  rus: 2021-01-05
+  kaz: 2021-03-01
+  rus: 2021-03-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/117130/kaz/05.01.2021
-  rus: https://zan.gov.kz/client/#!/doc/117130/rus/05.01.2021
+  kaz: https://zan.gov.kz/client/#!/doc/117130/kaz/01.03.2021
+  rus: https://zan.gov.kz/client/#!/doc/117130/rus/01.03.2021
 caused_by:
   code: '151317'
   key: Z2100000407
