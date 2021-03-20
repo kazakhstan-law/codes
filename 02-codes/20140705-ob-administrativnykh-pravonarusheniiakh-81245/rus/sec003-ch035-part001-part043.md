@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/81245/rus/01.02.2021
+source: https://zan.gov.kz/client/#!/doc/81245/rus/20.03.2021
 ---
 
 ## Статья 715-1. Уполномоченный орган в сфере защиты прав потребителей
