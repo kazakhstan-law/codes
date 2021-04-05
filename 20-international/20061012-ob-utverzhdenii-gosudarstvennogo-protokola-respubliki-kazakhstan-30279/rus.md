@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/rus/18.01.2021
+source: https://zan.gov.kz/client/#!/doc/30279/rus/05.04.2021
 ---
 
 # Об утверждении Государственного протокола Республики Казахстан
