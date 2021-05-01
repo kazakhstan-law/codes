@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/81155/kaz/30.12.2020
+source: https://zan.gov.kz/client/#!/doc/81155/kaz/01.05.2021
 ---
 
 # Дене шынықтыру және спорт туралы
