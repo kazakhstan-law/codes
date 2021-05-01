@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/73114/rus/02.01.2021
+source: https://zan.gov.kz/client/#!/doc/73114/rus/01.05.2021
 ---
 
 # О пенсионном обеспечении в Республике Казахстан
