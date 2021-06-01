@@ -1,5 +1,5 @@
 ---
-version_id: '144582_524422'
+version_id: '144582_527159'
 act_code: '144582'
 language: rus
 title: О ЗДОРОВЬЕ НАРОДА И СИСТЕМЕ ЗДРАВООХРАНЕНИЯ
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2020-07-07
-version_date: 2021-03-31
+version_date: 2021-06-01
 registry_number: '144582'
 caused_by:
-  code: '154023'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам науки
-  link: https://zan.gov.kz/client/#!/doc/154023/rus
-source: https://zan.gov.kz/client/#!/doc/144582/rus/31.03.2021
+  code: '144582'
+  title: О ЗДОРОВЬЕ НАРОДА И СИСТЕМЕ ЗДРАВООХРАНЕНИЯ
+  link: https://zan.gov.kz/client/#!/doc/144582/rus
+source: https://zan.gov.kz/client/#!/doc/144582/rus/01.06.2021
 ---
 
 ## ОГЛАВЛЕНИЕ

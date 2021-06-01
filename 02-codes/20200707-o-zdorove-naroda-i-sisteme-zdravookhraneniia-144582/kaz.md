@@ -1,5 +1,5 @@
 ---
-version_id: '144582_524421'
+version_id: '144582_527158'
 act_code: '144582'
 language: kaz
 title: ХАЛЫҚ ДЕНСАУЛЫҒЫ ЖӘНЕ ДЕНСАУЛЫҚ САҚТАУ ЖҮЙЕСІ ТУРАЛЫ
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2020-07-07
-version_date: 2021-03-31
+version_date: 2021-06-01
 registry_number: '144582'
 caused_by:
-  code: '154023'
-  title: Қазақстан Республикасының кейбір заңнамалық актілеріне ғылым мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/154023/kaz
-source: https://zan.gov.kz/client/#!/doc/144582/kaz/31.03.2021
+  code: '144582'
+  title: ХАЛЫҚ ДЕНСАУЛЫҒЫ ЖӘНЕ ДЕНСАУЛЫҚ САҚТАУ ЖҮЙЕСІ ТУРАЛЫ
+  link: https://zan.gov.kz/client/#!/doc/144582/kaz
+source: https://zan.gov.kz/client/#!/doc/144582/kaz/01.06.2021
 ---
 
 ## МАЗМҰНЫ
