@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12890/kaz/07.07.2020
+source: https://zan.gov.kz/client/#!/doc/12890/kaz/26.06.2021
 ---
 
 # Қазақстан Республикасындағы баланың құқықтары туралы
