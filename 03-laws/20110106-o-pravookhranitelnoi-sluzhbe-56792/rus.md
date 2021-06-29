@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56792/rus/01.01.2021
+source: https://zan.gov.kz/client/#!/doc/56792/rus/29.06.2021
 ---
 
 # О правоохранительной службе
