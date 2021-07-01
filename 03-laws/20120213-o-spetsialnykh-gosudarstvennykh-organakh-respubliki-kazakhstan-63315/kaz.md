@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63315/kaz/01.01.2021
+source: https://zan.gov.kz/client/#!/doc/63315/kaz/01.07.2021
 ---
 
 # Қазақстан Республикасының арнаулы мемлекеттік органдары туралы

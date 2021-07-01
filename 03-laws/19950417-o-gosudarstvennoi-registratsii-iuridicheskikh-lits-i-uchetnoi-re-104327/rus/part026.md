@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/104327/rus/26.01.2021
+source: https://zan.gov.kz/client/#!/doc/104327/rus/01.07.2021
 ---
 
 ## Статья 18. Ответственность за нарушение закона

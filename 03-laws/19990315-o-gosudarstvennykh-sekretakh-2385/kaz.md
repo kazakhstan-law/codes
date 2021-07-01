@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2385/kaz/10.06.2020
+source: https://zan.gov.kz/client/#!/doc/2385/kaz/01.07.2021
 ---
 
 1-тарау. Жалпы ережелер
