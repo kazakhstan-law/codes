@@ -1,5 +1,5 @@
 ---
-version_id: '144582_528821'
+version_id: '144582_529196'
 act_code: '144582'
 language: rus
 title: О ЗДОРОВЬЕ НАРОДА И СИСТЕМЕ ЗДРАВООХРАНЕНИЯ
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2020-07-07
-version_date: 2021-06-24
+version_date: 2021-07-01
 registry_number: '144582'
 caused_by:
-  code: '156584'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам предпринимательства, социального предпринимательства и обязательного социального медицинского страхования
-  link: https://zan.gov.kz/client/#!/doc/156584/rus
-source: https://zan.gov.kz/client/#!/doc/144582/rus/24.06.2021
+  code: '144582'
+  title: О ЗДОРОВЬЕ НАРОДА И СИСТЕМЕ ЗДРАВООХРАНЕНИЯ
+  link: https://zan.gov.kz/client/#!/doc/144582/rus
+source: https://zan.gov.kz/client/#!/doc/144582/rus/01.07.2021
 ---
 
 ## ОГЛАВЛЕНИЕ
