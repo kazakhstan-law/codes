@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127759/kaz/01.04.2021
+source: https://zan.gov.kz/client/#!/doc/127759/kaz/01.07.2021
 ---
 
 # Табиғи монополиялар туралы
