@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/77927/kaz/02.01.2021
+source: https://zan.gov.kz/client/#!/doc/77927/kaz/01.07.2021
 ---
 
 # Оңалту және банкроттық туралы
