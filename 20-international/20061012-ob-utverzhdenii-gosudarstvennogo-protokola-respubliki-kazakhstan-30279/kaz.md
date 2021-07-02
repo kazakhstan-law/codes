@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/kaz/05.04.2021
+source: https://zan.gov.kz/client/#!/doc/30279/kaz/02.07.2021
 ---
 
 # Қазақстан Республикасының Мемлекеттiк протоколын бекiту туралы
