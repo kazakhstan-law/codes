@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15348/kaz/02.01.2021
+source: https://zan.gov.kz/client/#!/doc/15348/kaz/07.07.2021
 ---
 
 # Акционерлік қоғамдар туралы
