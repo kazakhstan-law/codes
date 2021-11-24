@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104331/kaz/30.05.2020
+source: https://zan.gov.kz/client/#!/doc/104331/kaz/24.11.2021
 ---
 
 # Қазақстан Республикасындағы көлiк туралы

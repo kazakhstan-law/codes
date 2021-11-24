@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57365/kaz/31.03.2021
+source: https://zan.gov.kz/client/#!/doc/57365/kaz/24.11.2021
 ---
 
 # Ғылым туралы

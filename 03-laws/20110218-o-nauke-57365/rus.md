@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57365/rus/31.03.2021
+source: https://zan.gov.kz/client/#!/doc/57365/rus/24.11.2021
 ---
 
 # О науке

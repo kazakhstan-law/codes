@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9267/kaz/04.07.2021
+source: https://zan.gov.kz/client/#!/doc/9267/kaz/24.11.2021
 ---
 
 1-тарау. НЕГIЗГI ЕРЕЖЕЛЕР

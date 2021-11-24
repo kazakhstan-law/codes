@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63062/rus/30.12.2020
+source: https://zan.gov.kz/client/#!/doc/63062/rus/24.11.2021
 ---
 
 # О телерадиовещании
