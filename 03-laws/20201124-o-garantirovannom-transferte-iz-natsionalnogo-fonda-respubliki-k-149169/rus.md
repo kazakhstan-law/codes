@@ -13,6 +13,11 @@ approval_date: 2020-11-24
 version_date: 2020-11-24
 registry_number: '149169'
 source: https://zan.gov.kz/client/#!/doc/149169/rus/24.11.2020
+repealed_on: 2022-01-01
+repealed_by:
+  code: '160919'
+  title: О гарантированном трансферте из Национального фонда Республики Казахстан на 2022 – 2024 годы
+  link: https://zan.gov.kz/client/#!/doc/160919/rus
 ---
 
 # О гарантированном трансферте из Национального фонда Республики Казахстан на 2021 – 2023 годы
