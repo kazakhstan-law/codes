@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15924/rus/01.07.2021
+source: https://zan.gov.kz/client/#!/doc/15924/rus/27.12.2021
 ---
 
 ## Оглавление

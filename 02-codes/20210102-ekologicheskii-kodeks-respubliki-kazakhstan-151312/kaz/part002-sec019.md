@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151312/kaz/02.01.2021
+source: https://zan.gov.kz/client/#!/doc/151312/kaz/27.12.2021
 ---
 
 ## 19-БӨЛІМ. ҚАЛДЫҚТАР
