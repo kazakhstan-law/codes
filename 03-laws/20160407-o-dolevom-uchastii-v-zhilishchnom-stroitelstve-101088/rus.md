@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/101088/rus/01.07.2021
+source: https://zan.gov.kz/client/#!/doc/101088/rus/29.12.2021
 ---
 
 # О долевом участии в жилищном строительстве
