@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104458/kaz/27.12.2021
+source: https://zan.gov.kz/client/#!/doc/104458/kaz/31.12.2021
 ---
 
 # Нотариат туралы
