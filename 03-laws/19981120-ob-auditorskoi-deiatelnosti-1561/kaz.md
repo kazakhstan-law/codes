@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1561/kaz/24.11.2021
+source: https://zan.gov.kz/client/#!/doc/1561/kaz/01.01.2022
 ---
 
 # Аудиторлық қызмет туралы
@@ -22,3 +22,4 @@ source: https://zan.gov.kz/client/#!/doc/1561/kaz/24.11.2021
 | Часть | Название |
 |---|---|
 | [`part001`](kaz/part001.md) | 1-бап. Осы Заңда пайдаланылатын негiзгi ұғымдар |
+| [`part034`](kaz/part034.md) | 28-бап. Дауларды қарау |
