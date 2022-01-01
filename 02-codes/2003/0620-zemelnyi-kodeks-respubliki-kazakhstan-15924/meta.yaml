@@ -10,11 +10,11 @@ approved_on: 2003-06-20
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2021-12-30
-  rus: 2021-12-30
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15924/kaz/30.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/15924/rus/30.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/15924/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/15924/rus/01.01.2022
 caused_by:
   code: '156719'
   requisite: Закон Республики Казахстан от 30 июня 2021 года № 59-VII ЗРК
