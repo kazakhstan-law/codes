@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7833/kaz/20.12.2021
+source: https://zan.gov.kz/client/#!/doc/7833/kaz/01.01.2022
 ---
 
 1-бөлiм. ЖАЛПЫ ЕРЕЖЕЛЕР
@@ -179,4 +179,4 @@ source: https://zan.gov.kz/client/#!/doc/7833/kaz/20.12.2021
 |---|---|
 | [`sec001`](kaz/sec001.md) | 1-бөлiм. ЖАЛПЫ ЕРЕЖЕЛЕР |
 | [`sec003`](kaz/sec003.md) | 3-бөлiм. СУДЬЯЛАР МӘРТЕБЕСI |
-| [`sec005`](kaz/sec005.md) | 5-бөлiм. ҚОРЫТЫНДЫ ЖӘНЕ ӨТПЕЛI ЕРЕЖЕЛЕР |
+| [`sec004`](kaz/sec004.md) | 4-бөлiм. СОТТАРДЫҢ ҚЫЗМЕТIН ҚАМТАМАСЫЗ ЕТУ |
