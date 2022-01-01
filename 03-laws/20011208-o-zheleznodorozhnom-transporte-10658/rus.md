@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/10658/rus/29.12.2021
+source: https://zan.gov.kz/client/#!/doc/10658/rus/01.01.2022
 ---
 
 # О железнодорожном транспорте

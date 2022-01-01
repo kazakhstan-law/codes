@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/10658/kaz/29.12.2021
+source: https://zan.gov.kz/client/#!/doc/10658/kaz/01.01.2022
 ---
 
 # Теміржол көлігі туралы
