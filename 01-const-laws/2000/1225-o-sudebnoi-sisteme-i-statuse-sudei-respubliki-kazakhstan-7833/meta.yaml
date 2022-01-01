@@ -10,11 +10,11 @@ approved_on: 2000-12-25
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2021-12-20
-  rus: 2021-12-20
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/20.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/7833/rus/20.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/7833/rus/01.01.2022
 caused_by:
   code: '161995'
   requisite: Конституционный закон Республики Казахстан от 20 декабря 2021 года № 82-VII ЗРК
