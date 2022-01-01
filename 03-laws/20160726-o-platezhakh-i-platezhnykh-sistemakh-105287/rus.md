@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/105287/rus/27.12.2021
+source: https://zan.gov.kz/client/#!/doc/105287/rus/01.01.2022
 ---
 
 # О платежах и платежных системах
