@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/129650/kaz/15.11.2021
+source: https://zan.gov.kz/client/#!/doc/129650/kaz/01.01.2022
 ---
 
 # Қорғаныс өнеркәсібі және мемлекеттік қорғаныстық тапсырыс туралы
