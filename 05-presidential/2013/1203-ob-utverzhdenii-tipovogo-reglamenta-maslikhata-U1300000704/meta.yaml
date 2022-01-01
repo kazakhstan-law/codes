@@ -38,12 +38,19 @@ versions:
   cause:
     code: '161742'
     key: U2100000715
+- date: 2022-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '161742'
+    key: U2100000715
 version_date:
-  kaz: 2021-12-13
-  rus: 2021-12-13
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/75613/kaz/13.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/75613/rus/13.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/75613/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/75613/rus/01.01.2022
 caused_by:
   code: '161742'
   key: U2100000715
