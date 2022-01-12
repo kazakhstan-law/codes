@@ -10,8 +10,15 @@ approved_on: 2022-01-05
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2022-01-05
-  rus: 2022-01-05
+  kaz: 2022-01-12
+  rus: 2022-01-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/163002/kaz/05.01.2022
-  rus: https://zan.gov.kz/client/#!/doc/163002/rus/05.01.2022
+  kaz: https://zan.gov.kz/client/#!/doc/163002/kaz/12.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/163002/rus/12.01.2022
+caused_by:
+  code: '163408'
+  requisite: Указ Президента Республики Казахстан от 12 января 2022 года № 765
+  title:
+    rus: Об отмене чрезвычайного положения в Северо-Казахстанской области
+    kaz: Солтүстік Қазақстан облысындағы төтенше жағдайдың күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/163408/rus
