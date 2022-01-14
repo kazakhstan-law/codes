@@ -10,8 +10,15 @@ approved_on: 2022-01-05
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2022-01-05
-  rus: 2022-01-05
+  kaz: 2022-01-14
+  rus: 2022-01-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/162986/kaz/05.01.2022
-  rus: https://zan.gov.kz/client/#!/doc/162986/rus/05.01.2022
+  kaz: https://zan.gov.kz/client/#!/doc/162986/kaz/14.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/162986/rus/14.01.2022
+caused_by:
+  code: '163534'
+  requisite: Указ Президента Республики Казахстан от 14 января 2022 года № 769
+  title:
+    rus: Об отмене чрезвычайного положения в городе Шымкенте
+    kaz: Шымкент қаласындағы төтенше жағдайдың күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/163534/rus
