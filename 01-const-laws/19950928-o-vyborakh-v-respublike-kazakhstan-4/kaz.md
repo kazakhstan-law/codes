@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/4/kaz/24.05.2021
+source: https://zan.gov.kz/client/#!/doc/4/kaz/07.02.2022
 ---
 
 # Қазақстан Республикасындағы сайлау туралы
