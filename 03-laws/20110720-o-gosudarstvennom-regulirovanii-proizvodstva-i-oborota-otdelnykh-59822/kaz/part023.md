@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59822/kaz/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/59822/kaz/02.03.2022
 ---
 
 ## 22-бап. Мұнай өнімдерін бөлшек сауда арқылы өткізу талаптары
