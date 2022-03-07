@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96093/kaz/01.01.2022
+source: https://zan.gov.kz/client/#!/doc/96093/kaz/07.03.2022
 ---
 
 # Мемлекеттiк сатып алу туралы

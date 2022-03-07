@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/73340/rus/01.01.2022
+source: https://zan.gov.kz/client/#!/doc/73340/rus/07.03.2022
 ---
 
 # О Национальной палате предпринимателей Республики Казахстан
