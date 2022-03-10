@@ -13,6 +13,11 @@ approval_date: 2017-06-29
 version_date: 2017-06-29
 registry_number: '113703'
 source: https://zan.gov.kz/client/#!/doc/113703/rus/29.06.2017
+repealed_on: 2022-07-01
+repealed_by:
+  code: '165606'
+  title: О применении законодательства, регламентирующего рассмотрение уголовных дел в кассационном порядке
+  link: https://zan.gov.kz/client/#!/doc/165606/rus
 ---
 
 # О порядке производства по уголовным делам в кассационной инстанции
