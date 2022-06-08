@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1/rus/23.03.2019
+source: https://zan.gov.kz/client/#!/doc/1/rus/08.06.2022
 ---
 
 # Конституция Республики Казахстан
@@ -29,4 +29,4 @@ source: https://zan.gov.kz/client/#!/doc/1/rus/23.03.2019
 | Часть | Название |
 |---|---|
 | [`sec001`](rus/sec001.md) | Раздел I. |
-| [`sec007`](rus/sec007.md) | Раздел VII |
+| [`sec005`](rus/sec005.md) | Раздел V |
