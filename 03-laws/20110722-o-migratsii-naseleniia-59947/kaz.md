@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59947/kaz/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/59947/kaz/27.06.2022
 ---
 
 # Халықтың көші-қоны туралы

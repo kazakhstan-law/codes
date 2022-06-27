@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/101431/rus/01.01.2022
+source: https://zan.gov.kz/client/#!/doc/101431/rus/27.06.2022
 ---
 
 # О почте
