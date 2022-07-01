@@ -171,12 +171,19 @@ versions:
   cause:
     code: '161995'
     key: Z2100000082
+- date: 2022-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '161995'
+    key: Z2100000082
 version_date:
-  kaz: 2022-01-01
-  rus: 2022-01-01
+  kaz: 2022-07-01
+  rus: 2022-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/01.01.2022
-  rus: https://zan.gov.kz/client/#!/doc/7833/rus/01.01.2022
+  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/01.07.2022
+  rus: https://zan.gov.kz/client/#!/doc/7833/rus/01.07.2022
 caused_by:
   code: '161995'
   key: Z2100000082
