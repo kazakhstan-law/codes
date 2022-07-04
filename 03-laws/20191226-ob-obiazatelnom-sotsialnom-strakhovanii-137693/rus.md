@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137693/rus/27.06.2022
+source: https://zan.gov.kz/client/#!/doc/137693/rus/04.07.2022
 ---
 
 # Об обязательном социальном страховании
