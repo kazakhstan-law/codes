@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/20494/rus/03.05.2022
+source: https://zan.gov.kz/client/#!/doc/20494/rus/04.07.2022
 ---
 
 ## Глава 1. Общие положения
