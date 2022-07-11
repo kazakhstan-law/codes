@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/73114/kaz/04.07.2022
+source: https://zan.gov.kz/client/#!/doc/73114/kaz/11.07.2022
 ---
 
 # Қазақстан Республикасында зейнетақымен қамсыздандыру туралы
