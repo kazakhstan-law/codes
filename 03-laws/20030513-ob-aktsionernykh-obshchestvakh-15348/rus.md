@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15348/rus/01.01.2022
+source: https://zan.gov.kz/client/#!/doc/15348/rus/12.07.2022
 ---
 
 # Об акционерных обществах
