@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59947/rus/27.06.2022
+source: https://zan.gov.kz/client/#!/doc/59947/rus/14.07.2022
 ---
 
 # О миграции населения

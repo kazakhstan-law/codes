@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137693/kaz/04.07.2022
+source: https://zan.gov.kz/client/#!/doc/137693/kaz/14.07.2022
 ---
 
 # Міндетті әлеуметтік сақтандыру туралы
