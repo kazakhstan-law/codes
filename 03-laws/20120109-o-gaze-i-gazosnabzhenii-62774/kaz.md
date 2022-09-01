@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62774/kaz/02.03.2022
+source: https://zan.gov.kz/client/#!/doc/62774/kaz/01.09.2022
 ---
 
 # Газ және газбен жабдықтау туралы
