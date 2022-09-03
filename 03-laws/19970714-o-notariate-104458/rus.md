@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104458/rus/01.08.2022
+source: https://zan.gov.kz/client/#!/doc/104458/rus/03.09.2022
 ---
 
 # О нотариате
