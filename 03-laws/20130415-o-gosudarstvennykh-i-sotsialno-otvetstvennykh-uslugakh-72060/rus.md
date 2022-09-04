@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/72060/rus/14.07.2022
+source: https://zan.gov.kz/client/#!/doc/72060/rus/04.09.2022
 ---
 
 # О государственных услугах
