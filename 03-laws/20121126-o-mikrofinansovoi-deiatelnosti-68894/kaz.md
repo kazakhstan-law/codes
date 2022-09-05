@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/68894/kaz/14.07.2022
+source: https://zan.gov.kz/client/#!/doc/68894/kaz/05.09.2022
 ---
 
 # Микроқаржылық қызмет туралы
