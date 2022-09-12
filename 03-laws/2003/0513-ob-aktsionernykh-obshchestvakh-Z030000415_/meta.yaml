@@ -497,12 +497,19 @@ versions:
   cause:
     code: '169822'
     key: Z2200000138
+- date: 2022-09-12
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '169822'
+    key: Z2200000138
 version_date:
-  kaz: 2022-07-12
-  rus: 2022-07-12
+  kaz: 2022-09-12
+  rus: 2022-09-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15348/kaz/12.07.2022
-  rus: https://zan.gov.kz/client/#!/doc/15348/rus/12.07.2022
+  kaz: https://zan.gov.kz/client/#!/doc/15348/kaz/12.09.2022
+  rus: https://zan.gov.kz/client/#!/doc/15348/rus/12.09.2022
 caused_by:
   code: '169822'
   key: Z2200000138
