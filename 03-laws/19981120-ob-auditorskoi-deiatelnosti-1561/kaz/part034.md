@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/1561/kaz/01.01.2022
+source: https://zan.gov.kz/client/#!/doc/1561/kaz/12.09.2022
 ---
 
 ## 28-бап. Дауларды қарау
