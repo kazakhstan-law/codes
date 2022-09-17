@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1/kaz/08.06.2022
+source: https://zan.gov.kz/client/#!/doc/1/kaz/17.09.2022
 ---
 
 # Қазақстан Республикасының Конституциясы

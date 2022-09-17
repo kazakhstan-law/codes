@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1/rus/08.06.2022
+source: https://zan.gov.kz/client/#!/doc/1/rus/17.09.2022
 ---
 
 # Конституция Республики Казахстан
