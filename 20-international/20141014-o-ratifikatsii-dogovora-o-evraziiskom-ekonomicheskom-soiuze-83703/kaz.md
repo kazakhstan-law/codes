@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83703/kaz/16.03.2022
+source: https://zan.gov.kz/client/#!/doc/83703/kaz/10.10.2022
 ---
 
 # Еуразиялық экономикалық одақ туралы шартты ратификациялау туралы
