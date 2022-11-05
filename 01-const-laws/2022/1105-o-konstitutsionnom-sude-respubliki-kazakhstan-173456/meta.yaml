@@ -1,0 +1,17 @@
+act_code: '173456'
+requisite: Конституционный закон Республики Казахстан от 5 ноября 2022 года № 153-VII ЗРК
+title:
+  rus: О Конституционном Суде Республики Казахстан
+  kaz: Қазақстан Республикасының Конституциялық Соты туралы
+form: КЗАК
+type_codes:
+- КЗАК
+approved_on: 2022-11-05
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2022-11-05
+  rus: 2022-11-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/173456/kaz/05.11.2022
+  rus: https://zan.gov.kz/client/#!/doc/173456/rus/05.11.2022
