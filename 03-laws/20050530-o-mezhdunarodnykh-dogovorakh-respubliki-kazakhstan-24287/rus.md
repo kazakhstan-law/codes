@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24287/rus/14.02.2022
+source: https://zan.gov.kz/client/#!/doc/24287/rus/05.11.2022
 ---
 
 # О международных договорах Республики Казахстан

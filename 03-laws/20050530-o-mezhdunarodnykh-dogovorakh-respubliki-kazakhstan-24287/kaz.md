@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24287/kaz/14.02.2022
+source: https://zan.gov.kz/client/#!/doc/24287/kaz/05.11.2022
 ---
 
 # Қазақстан Республикасының халықаралық шарттары туралы
