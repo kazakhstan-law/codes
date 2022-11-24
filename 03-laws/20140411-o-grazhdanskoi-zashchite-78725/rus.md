@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78725/rus/14.07.2022
+source: https://zan.gov.kz/client/#!/doc/78725/rus/24.11.2022
 ---
 
 # О гражданской защите

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/2215/rus/16.11.2020
+source: https://zan.gov.kz/client/#!/doc/2215/rus/24.11.2022
 ---
 
 # О карантине растений
