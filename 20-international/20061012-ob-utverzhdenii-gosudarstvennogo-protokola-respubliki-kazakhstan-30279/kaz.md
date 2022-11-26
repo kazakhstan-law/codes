@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/kaz/14.06.2022
+source: https://zan.gov.kz/client/#!/doc/30279/kaz/26.11.2022
 ---
 
 # Қазақстан Республикасының Мемлекеттiк протоколын бекiту туралы

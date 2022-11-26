@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30279/rus/14.06.2022
+source: https://zan.gov.kz/client/#!/doc/30279/rus/26.11.2022
 ---
 
 # Об утверждении Государственного протокола Республики Казахстан
