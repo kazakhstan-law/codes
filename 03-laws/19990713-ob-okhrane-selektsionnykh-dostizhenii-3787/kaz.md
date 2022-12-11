@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3787/kaz/21.08.2022
+source: https://zan.gov.kz/client/#!/doc/3787/kaz/11.12.2022
 ---
 
 # Селекциялық жетістіктерді қорғау туралы
