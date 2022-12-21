@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117004/kaz/11.07.2022
+source: https://zan.gov.kz/client/#!/doc/117004/kaz/21.12.2022
 ---
 
 ## 271-бап. Амортизациялық аударымдарды есептеу
