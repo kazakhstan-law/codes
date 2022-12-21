@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57639/rus/24.11.2022
+source: https://zan.gov.kz/client/#!/doc/57639/rus/21.12.2022
 ---
 
 # О государственном имуществе
