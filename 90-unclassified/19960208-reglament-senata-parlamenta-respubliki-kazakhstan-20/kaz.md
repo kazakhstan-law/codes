@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20/kaz/26.12.2019
+source: https://zan.gov.kz/client/#!/doc/20/kaz/22.12.2022
 ---
 
 # Қазақстан Республикасы Парламенті Сенатының Регламенті
