@@ -9,15 +9,15 @@ approved_on: 1996-02-08
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2019-12-26
-  rus: 2019-12-26
+  kaz: 2022-12-22
+  rus: 2022-12-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/20/kaz/26.12.2019
-  rus: https://zan.gov.kz/client/#!/doc/20/rus/26.12.2019
+  kaz: https://zan.gov.kz/client/#!/doc/20/kaz/22.12.2022
+  rus: https://zan.gov.kz/client/#!/doc/20/rus/22.12.2022
 caused_by:
-  code: '139835'
-  requisite: Постановление Сената Парламента Республики Казахстан от 26 декабря 2019 года № 641-VI СП
+  code: '175940'
+  requisite: Постановление Сената Парламента Республики Казахстан от 22 декабря 2022 года № 404-VII СП
   title:
     rus: О внесении изменений и дополнений в Регламент Сената Парламента Республики Казахстан
     kaz: Қазақстан Республикасы Парламенті Сенатының Регламентіне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/139835/rus
+  link: https://zan.gov.kz/client/#!/doc/175940/rus
