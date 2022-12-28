@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/34479/kaz/15.11.2020
+repealed_on: 2023-02-28
+repealed_by:
+  code: '176346'
+  title: Өзіндік ерекшелігі бар тауарларды бақылау туралы
+  link: https://zan.gov.kz/client/#!/doc/176346/kaz
 ---
 
 # Экспорттық бақылау туралы

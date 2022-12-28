@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/34479/rus/15.11.2020
+repealed_on: 2023-02-28
+repealed_by:
+  code: '176346'
+  title: О контроле специфических товаров
+  link: https://zan.gov.kz/client/#!/doc/176346/rus
 ---
 
 # Об экспортном контроле
