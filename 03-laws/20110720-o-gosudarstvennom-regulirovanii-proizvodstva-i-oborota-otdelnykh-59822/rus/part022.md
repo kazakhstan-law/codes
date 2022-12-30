@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59822/rus/14.09.2022
+source: https://zan.gov.kz/client/#!/doc/59822/rus/30.12.2022
 ---
 
 ## Статья 21. Условия оптовой реализации нефтепродуктов

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151312/rus/21.12.2022
+source: https://zan.gov.kz/client/#!/doc/151312/rus/30.12.2022
 ---
 
 ## РАЗДЕЛ 18. КЛИМАТ И ОЗОНОВЫЙ СЛОЙ АТМОСФЕРЫ

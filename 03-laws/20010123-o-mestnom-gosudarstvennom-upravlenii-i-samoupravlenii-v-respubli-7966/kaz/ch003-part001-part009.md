@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/7966/kaz/05.11.2022
+source: https://zan.gov.kz/client/#!/doc/7966/kaz/30.12.2022
 ---
 
 ## 33-бап. Аудан (облыстық маңызы бар қала) әкiмiнiң құзыретi
