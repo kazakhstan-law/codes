@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/05.11.2022
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/31.12.2022
 ---
 
 ## 29-бап. Байланыс желілерін дамыту

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/20494/rus/05.11.2022
+source: https://zan.gov.kz/client/#!/doc/20494/rus/31.12.2022
 ---
 
 ## Статья 29. Развитие сетей связи
