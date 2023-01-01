@@ -79,12 +79,19 @@ versions:
   cause:
     code: '169540'
     key: Z2200000134
+- date: 2023-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '169540'
+    key: Z2200000134
 version_date:
-  kaz: 2022-09-04
-  rus: 2022-09-04
+  kaz: 2023-01-01
+  rus: 2023-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/23601/kaz/04.09.2022
-  rus: https://zan.gov.kz/client/#!/doc/23601/rus/04.09.2022
+  kaz: https://zan.gov.kz/client/#!/doc/23601/kaz/01.01.2023
+  rus: https://zan.gov.kz/client/#!/doc/23601/rus/01.01.2023
 caused_by:
   code: '169540'
   key: Z2200000134
