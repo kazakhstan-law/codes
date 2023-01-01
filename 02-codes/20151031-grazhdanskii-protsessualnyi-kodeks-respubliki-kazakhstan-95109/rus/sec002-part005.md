@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/95109/rus/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/95109/rus/01.01.2023
 ---
 
 ## ПОДРАЗДЕЛ 4. ОСОБОЕ ПРОИЗВОДСТВО
