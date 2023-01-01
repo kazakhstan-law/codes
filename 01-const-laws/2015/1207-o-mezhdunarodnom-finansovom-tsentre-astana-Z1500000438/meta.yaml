@@ -51,12 +51,19 @@ versions:
   cause:
     code: '176666'
     key: Z2200000176
+- date: 2023-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '176666'
+    key: Z2200000176
 version_date:
-  kaz: 2022-12-30
-  rus: 2022-12-30
+  kaz: 2023-01-01
+  rus: 2023-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96102/kaz/30.12.2022
-  rus: https://zan.gov.kz/client/#!/doc/96102/rus/30.12.2022
+  kaz: https://zan.gov.kz/client/#!/doc/96102/kaz/01.01.2023
+  rus: https://zan.gov.kz/client/#!/doc/96102/rus/01.01.2023
 caused_by:
   code: '176666'
   key: Z2200000176
