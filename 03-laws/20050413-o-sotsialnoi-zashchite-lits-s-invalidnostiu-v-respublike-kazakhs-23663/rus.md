@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23663/rus/27.06.2022
+source: https://zan.gov.kz/client/#!/doc/23663/rus/01.01.2023
 ---
 
 # О социальной защите лиц с инвалидностью в Республике Казахстан
