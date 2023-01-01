@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16159/rus/12.09.2022
+source: https://zan.gov.kz/client/#!/doc/16159/rus/01.01.2023
 ---
 
 # О рынке ценных бумаг
