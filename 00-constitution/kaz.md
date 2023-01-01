@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1/kaz/17.09.2022
+source: https://zan.gov.kz/client/#!/doc/1/kaz/01.01.2023
 ---
 
 # Қазақстан Республикасының Конституциясы
@@ -28,4 +28,4 @@ source: https://zan.gov.kz/client/#!/doc/1/kaz/17.09.2022
 | Часть | Название |
 |---|---|
 | [`sec001`](kaz/sec001.md) | I бөлім |
-| [`sec005`](kaz/sec005.md) | V бөлім |
+| [`sec004`](kaz/sec004.md) | IV бөлім |
