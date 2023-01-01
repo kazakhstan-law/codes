@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/100975/kaz/04.09.2022
+source: https://zan.gov.kz/client/#!/doc/100975/kaz/01.01.2023
 ---
 
 # Халықты жұмыспен қамту туралы
