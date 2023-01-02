@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60862/rus/26.11.2022
+source: https://zan.gov.kz/client/#!/doc/60862/rus/02.01.2023
 ---
 
 ## "Мінсіз қызметі үшін" (приложение 79-1)
