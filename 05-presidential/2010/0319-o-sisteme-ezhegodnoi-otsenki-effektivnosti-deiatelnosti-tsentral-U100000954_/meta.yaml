@@ -208,17 +208,24 @@ versions:
   cause:
     code: '174321'
     key: U2200000005
+- date: 2023-01-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '178118'
+    key: U2300000106
 version_date:
-  kaz: 2022-11-26
-  rus: 2022-11-26
+  kaz: 2023-01-19
+  rus: 2023-01-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/51463/kaz/26.11.2022
-  rus: https://zan.gov.kz/client/#!/doc/51463/rus/26.11.2022
+  kaz: https://zan.gov.kz/client/#!/doc/51463/kaz/19.01.2023
+  rus: https://zan.gov.kz/client/#!/doc/51463/rus/19.01.2023
 caused_by:
-  code: '174321'
-  key: U2200000005
-  requisite: Указ Президента Республики Казахстан от 26 ноября 2022 года № 5
+  code: '178118'
+  key: U2300000106
+  requisite: Указ Президента Республики Казахстан от 19 января 2023 года № 106
   title:
-    rus: О некоторых вопросах Высшей аудиторской палаты Республики Казахстан
-    kaz: Қазақстан Республикасы Жоғары аудиторлық палатасының кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/174321/rus
+    rus: О некоторых вопросах Судебной администрации Республики Казахстан
+    kaz: Қазақстан Республикасы Сот әкімшілігінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/178118/rus
