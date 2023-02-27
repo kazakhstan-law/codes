@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/167955/kaz/21.05.2022
+source: https://zan.gov.kz/client/#!/doc/167955/kaz/27.02.2023
 ---
 
 # Қазақстан Республикасының биологиялық қауіпсіздігі туралы
