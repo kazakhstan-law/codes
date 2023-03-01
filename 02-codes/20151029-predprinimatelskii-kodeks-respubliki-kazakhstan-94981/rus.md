@@ -1,5 +1,5 @@
 ---
-version_id: '94981_620176'
+version_id: '94981_621753'
 act_code: '94981'
 language: rus
 title: Предпринимательский кодекс Республики Казахстан
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2015-10-29
-version_date: 2023-02-27
+version_date: 2023-03-01
 registry_number: '94981'
 caused_by:
-  code: '176347'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам контроля специфических товаров
-  link: https://zan.gov.kz/client/#!/doc/176347/rus
-source: https://zan.gov.kz/client/#!/doc/94981/rus/27.02.2023
+  code: '176459'
+  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам транспорта и недропользования
+  link: https://zan.gov.kz/client/#!/doc/176459/rus
+source: https://zan.gov.kz/client/#!/doc/94981/rus/01.03.2023
 ---
 
 ## ОГЛАВЛЕНИЕ
