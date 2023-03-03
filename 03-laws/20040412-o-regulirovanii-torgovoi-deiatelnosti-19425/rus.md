@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/19425/rus/01.01.2023
+source: https://zan.gov.kz/client/#!/doc/19425/rus/03.03.2023
 ---
 
 # О регулировании торговой деятельности
