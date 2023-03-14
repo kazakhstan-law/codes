@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85731/rus/01.03.2023
+source: https://zan.gov.kz/client/#!/doc/85731/rus/14.03.2023
 ---
 
 # О Национальной гвардии Республики Казахстан
