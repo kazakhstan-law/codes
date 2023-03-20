@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7/kaz/05.11.2022
+source: https://zan.gov.kz/client/#!/doc/7/kaz/20.03.2023
 ---
 
 # Тұрғын үй қатынастары туралы
