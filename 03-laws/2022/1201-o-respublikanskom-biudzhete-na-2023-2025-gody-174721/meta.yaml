@@ -10,8 +10,15 @@ approved_on: 2022-12-01
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2022-12-01
-  rus: 2022-12-01
+  kaz: 2023-03-28
+  rus: 2023-03-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/174721/kaz/01.12.2022
-  rus: https://zan.gov.kz/client/#!/doc/174721/rus/01.12.2022
+  kaz: https://zan.gov.kz/client/#!/doc/174721/kaz/28.03.2023
+  rus: https://zan.gov.kz/client/#!/doc/174721/rus/28.03.2023
+caused_by:
+  code: '179275'
+  requisite: Закон Республики Казахстан от 28 марта 2023 года № 218-VII ЗРК
+  title:
+    rus: О внесении изменений и дополнения в Закон Республики Казахстан «О республиканском бюджете на 2023 – 2025 годы»
+    kaz: «2023 – 2025 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңына өзгерістер мен толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/179275/rus
