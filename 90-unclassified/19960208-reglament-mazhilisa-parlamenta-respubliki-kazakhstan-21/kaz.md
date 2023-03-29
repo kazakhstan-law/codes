@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21/kaz/01.01.2023
+source: https://zan.gov.kz/client/#!/doc/21/kaz/29.03.2023
 ---
 
 # Қазақстан Республикасы Парламенті Мәжілісінің Регламенті
