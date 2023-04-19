@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62774/rus/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/62774/rus/19.04.2023
 ---
 
 # О газе и газоснабжении

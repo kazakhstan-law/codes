@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15924/kaz/07.03.2023
+source: https://zan.gov.kz/client/#!/doc/15924/kaz/19.04.2023
 ---
 
 ## 44-1-бап. Елді мекен шегінде объект салу үшін жер учаскесін беру

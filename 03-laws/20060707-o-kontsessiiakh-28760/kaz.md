@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28760/kaz/07.03.2022
+source: https://zan.gov.kz/client/#!/doc/28760/kaz/19.04.2023
 ---
 
 # Концессиялар туралы

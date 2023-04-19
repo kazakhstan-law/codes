@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12890/rus/05.11.2022
+source: https://zan.gov.kz/client/#!/doc/12890/rus/19.04.2023
 ---
 
 # О правах ребенка в Республике Казахстан

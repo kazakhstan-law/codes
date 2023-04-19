@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/968/rus/11.12.2022
+source: https://zan.gov.kz/client/#!/doc/968/rus/19.04.2023
 ---
 
 # О племенном животноводстве

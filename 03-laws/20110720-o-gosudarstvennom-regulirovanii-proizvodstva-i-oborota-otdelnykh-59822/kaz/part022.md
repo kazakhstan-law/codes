@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59822/kaz/03.03.2023
+source: https://zan.gov.kz/client/#!/doc/59822/kaz/19.04.2023
 ---
 
 ## 21-бап. Мұнай өнімдерін көтерме сауда арқылы өткізу талаптары

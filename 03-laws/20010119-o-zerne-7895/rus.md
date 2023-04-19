@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7895/rus/01.07.2021
+source: https://zan.gov.kz/client/#!/doc/7895/rus/19.04.2023
 ---
 
 # О зерне

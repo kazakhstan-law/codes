@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63062/kaz/27.06.2022
+source: https://zan.gov.kz/client/#!/doc/63062/kaz/19.04.2023
 ---
 
 # Телерадио хабарларын тарату туралы

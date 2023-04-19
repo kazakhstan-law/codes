@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28852/rus/07.03.2023
+source: https://zan.gov.kz/client/#!/doc/28852/rus/19.04.2023
 ---
 
 # Об особо охраняемых природных территориях
