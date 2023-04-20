@@ -1,0 +1,17 @@
+act_code: '180051'
+requisite: Кодекс Республики Казахстан от 20 апреля 2023 года № 224-VII ЗРК
+title:
+  rus: СОЦИАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  kaz: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ӘЛЕУМЕТТІК КОДЕКСІ
+form: КОД
+type_codes:
+- КОД
+approved_on: 2023-04-20
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2023-04-20
+  rus: 2023-04-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/180051/kaz/20.04.2023
+  rus: https://zan.gov.kz/client/#!/doc/180051/rus/20.04.2023
