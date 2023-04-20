@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/137693/kaz/01.01.2023
+repealed_on: 2023-07-01
+repealed_by:
+  code: '180051'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ӘЛЕУМЕТТІК КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/180051/kaz
 ---
 
 # Міндетті әлеуметтік сақтандыру туралы

@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/73114/rus/01.01.2023
+repealed_on: 2023-07-01
+repealed_by:
+  code: '180051'
+  title: СОЦИАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/180051/rus
 ---
 
 # О пенсионном обеспечении в Республике Казахстан

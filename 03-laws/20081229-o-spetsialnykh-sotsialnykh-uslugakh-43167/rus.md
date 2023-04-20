@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/43167/rus/05.11.2022
+repealed_on: 2023-07-01
+repealed_by:
+  code: '180051'
+  title: СОЦИАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/180051/rus
 ---
 
 # О специальных социальных услугах

@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/2491/rus/27.06.2022
+repealed_on: 2023-07-01
+repealed_by:
+  code: '180051'
+  title: СОЦИАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/180051/rus
 ---
 
 # О специальном государственном пособии в Республике Казахстан
