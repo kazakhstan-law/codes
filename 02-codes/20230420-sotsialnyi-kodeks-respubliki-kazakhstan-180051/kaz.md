@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/180051/kaz/20.04.2023
+source: https://zan.gov.kz/client/#!/doc/180051/kaz/01.07.2023
 ---
 
 # ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ӘЛЕУМЕТТІК КОДЕКСІ
