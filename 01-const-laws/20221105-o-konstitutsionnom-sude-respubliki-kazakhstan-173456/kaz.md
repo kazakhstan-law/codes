@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/173456/kaz/05.11.2022
+source: https://zan.gov.kz/client/#!/doc/173456/kaz/01.07.2023
 ---
 
 # Қазақстан Республикасының Конституциялық Соты туралы
