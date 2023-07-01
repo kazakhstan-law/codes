@@ -10,15 +10,15 @@ approved_on: 1999-07-13
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2018-07-02
-  rus: 2018-07-02
+  kaz: 2023-07-01
+  rus: 2023-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4051/kaz/02.07.2018
-  rus: https://zan.gov.kz/client/#!/doc/4051/rus/02.07.2018
+  kaz: https://zan.gov.kz/client/#!/doc/4051/kaz/01.07.2023
+  rus: https://zan.gov.kz/client/#!/doc/4051/rus/01.07.2023
 caused_by:
-  code: '123089'
-  requisite: Закон Республики Казахстан от 2 июля 2018 года № 165-VІ ЗРК
+  code: '180054'
+  requisite: Закон Республики Казахстан от 20 апреля 2023 года № 226-VII ЗРК
   title:
     rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам социального обеспечения
     kaz: Қазақстан Республикасының кейбір заңнамалық актілеріне әлеуметтік қамсыздандыру мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/123089/rus
+  link: https://zan.gov.kz/client/#!/doc/180054/rus
