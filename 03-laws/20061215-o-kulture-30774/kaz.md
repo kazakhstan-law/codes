@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30774/kaz/19.04.2023
+source: https://zan.gov.kz/client/#!/doc/30774/kaz/01.07.2023
 ---
 
 # Мәдениет туралы

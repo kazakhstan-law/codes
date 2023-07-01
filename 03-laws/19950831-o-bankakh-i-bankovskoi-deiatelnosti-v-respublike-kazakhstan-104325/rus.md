@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104325/rus/03.03.2023
+source: https://zan.gov.kz/client/#!/doc/104325/rus/01.07.2023
 ---
 
 # О банках и банковской деятельности в Республике Казахстан

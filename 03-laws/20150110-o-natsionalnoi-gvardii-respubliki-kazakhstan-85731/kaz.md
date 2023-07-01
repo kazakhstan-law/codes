@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85731/kaz/20.05.2023
+source: https://zan.gov.kz/client/#!/doc/85731/kaz/01.07.2023
 ---
 
 # Қазақстан Республикасының Ұлттық ұланы туралы

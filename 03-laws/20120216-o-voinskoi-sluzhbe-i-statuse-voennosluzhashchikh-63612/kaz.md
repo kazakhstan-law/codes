@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63612/kaz/14.03.2023
+source: https://zan.gov.kz/client/#!/doc/63612/kaz/01.07.2023
 ---
 
 # Әскери қызмет және әскери қызметшілердің мәртебесі туралы

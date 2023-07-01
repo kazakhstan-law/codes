@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11524/rus/19.04.2023
+source: https://zan.gov.kz/client/#!/doc/11524/rus/01.07.2023
 ---
 
 # О дипломатической службе Республики Казахстан
