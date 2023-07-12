@@ -10,15 +10,15 @@ approved_on: 2022-11-05
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2023-01-01
-  rus: 2023-01-01
+  kaz: 2023-07-12
+  rus: 2023-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/173441/kaz/01.01.2023
-  rus: https://zan.gov.kz/client/#!/doc/173441/rus/01.01.2023
+  kaz: https://zan.gov.kz/client/#!/doc/173441/kaz/12.07.2023
+  rus: https://zan.gov.kz/client/#!/doc/173441/rus/12.07.2023
 caused_by:
-  code: '173441'
-  requisite: Конституционный закон Республики Казахстан от 5 ноября 2022 года № 155-VII ЗРК
+  code: '183929'
+  requisite: Конституционный закон Республики Казахстан от 12 июля 2023 года № 22-VIII ЗРК
   title:
-    rus: О прокуратуре
-    kaz: Прокуратура туралы
-  link: https://zan.gov.kz/client/#!/doc/173441/rus
+    rus: О внесении изменений и дополнений в Конституционный закон Республики Казахстан «О прокуратуре»
+    kaz: «Прокуратура туралы» Қазақстан Республикасының Конституциялық заңына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/183929/rus
