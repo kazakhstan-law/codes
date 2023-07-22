@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96914/kaz/05.06.2023
+source: https://zan.gov.kz/client/#!/doc/96914/kaz/22.07.2023
 ---
 
 # Мемлекеттік қызмет өткерудің кейбір мәселелері туралы
