@@ -10,8 +10,15 @@ approved_on: 2013-05-30
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2013-05-30
-  rus: 2013-05-30
+  kaz: 2023-07-31
+  rus: 2023-07-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/72867/kaz/30.05.2013
-  rus: https://zan.gov.kz/client/#!/doc/72867/rus/30.05.2013
+  kaz: https://zan.gov.kz/client/#!/doc/72867/kaz/31.07.2023
+  rus: https://zan.gov.kz/client/#!/doc/72867/rus/31.07.2023
+caused_by:
+  code: '184506'
+  requisite: Указ Президента Республики Казахстан от 31 июля 2023 года № 290
+  title:
+    rus: О некоторых вопросах кадровой политики в системе органов государственной власти
+    kaz: Мемлекеттік билік органдары жүйесіндегі кадр саясатының кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/184506/rus
