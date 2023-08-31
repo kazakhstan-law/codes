@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/174321/kaz/30.05.2023
+source: https://zan.gov.kz/client/#!/doc/174321/kaz/31.08.2023
 ---
 
 > *Қазақстан Республикасының*  
