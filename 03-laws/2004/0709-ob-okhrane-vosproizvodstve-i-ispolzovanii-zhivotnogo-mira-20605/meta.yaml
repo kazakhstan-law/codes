@@ -10,11 +10,11 @@ approved_on: 2004-07-09
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2023-07-01
-  rus: 2023-07-01
+  kaz: 2023-09-01
+  rus: 2023-09-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/20605/kaz/01.07.2023
-  rus: https://zan.gov.kz/client/#!/doc/20605/rus/01.07.2023
+  kaz: https://zan.gov.kz/client/#!/doc/20605/kaz/01.09.2023
+  rus: https://zan.gov.kz/client/#!/doc/20605/rus/01.09.2023
 caused_by:
   code: '176872'
   requisite: Закон Республики Казахстан от 3 января 2023 года № 185-VII ЗРК
