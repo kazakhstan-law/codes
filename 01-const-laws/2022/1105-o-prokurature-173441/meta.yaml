@@ -10,11 +10,11 @@ approved_on: 2022-11-05
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2023-07-12
-  rus: 2023-07-12
+  kaz: 2023-09-12
+  rus: 2023-09-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/173441/kaz/12.07.2023
-  rus: https://zan.gov.kz/client/#!/doc/173441/rus/12.07.2023
+  kaz: https://zan.gov.kz/client/#!/doc/173441/kaz/12.09.2023
+  rus: https://zan.gov.kz/client/#!/doc/173441/rus/12.09.2023
 caused_by:
   code: '183929'
   requisite: Конституционный закон Республики Казахстан от 12 июля 2023 года № 22-VIII ЗРК
