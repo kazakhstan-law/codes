@@ -1,0 +1,17 @@
+act_code: '189612'
+requisite: Закон Республики Казахстан от 5 декабря 2023 года № 43-VIII ЗРК
+title:
+  rus: О республиканском бюджете на 2024 – 2026 годы
+  kaz: 2024 – 2026 жылдарға арналған республикалық бюджет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2023-12-05
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2023-12-05
+  rus: 2023-12-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/189612/kaz/05.12.2023
+  rus: https://zan.gov.kz/client/#!/doc/189612/rus/05.12.2023
