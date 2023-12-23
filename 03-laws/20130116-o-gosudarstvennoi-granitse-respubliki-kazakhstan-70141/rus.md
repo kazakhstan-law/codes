@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/70141/rus/01.07.2023
+source: https://zan.gov.kz/client/#!/doc/70141/rus/23.12.2023
 ---
 
 # О Государственной границе Республики Казахстан
