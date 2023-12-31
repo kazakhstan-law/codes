@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117004/rus/12.12.2023
+source: https://zan.gov.kz/client/#!/doc/117004/rus/31.12.2023
 ---
 
 ## Статья 257. Вычет расходов по начисленным доходам работников и иным выплатам физическим лицам
