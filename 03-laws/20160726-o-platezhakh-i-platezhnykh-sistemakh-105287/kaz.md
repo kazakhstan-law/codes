@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/105287/kaz/03.03.2023
+source: https://zan.gov.kz/client/#!/doc/105287/kaz/01.01.2024
 ---
 
 # Төлемдер және төлем жүйелері туралы
