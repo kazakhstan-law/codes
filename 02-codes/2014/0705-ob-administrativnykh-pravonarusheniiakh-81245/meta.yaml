@@ -10,15 +10,15 @@ approved_on: 2014-07-05
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2023-09-12
-  rus: 2023-09-12
+  kaz: 2024-01-01
+  rus: 2024-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/81245/kaz/12.09.2023
-  rus: https://zan.gov.kz/client/#!/doc/81245/rus/12.09.2023
+  kaz: https://zan.gov.kz/client/#!/doc/81245/kaz/01.01.2024
+  rus: https://zan.gov.kz/client/#!/doc/81245/rus/01.01.2024
 caused_by:
-  code: '183934'
-  requisite: Закон Республики Казахстан от 12 июля 2023 года № 24-VIII ЗРК
+  code: '169759'
+  requisite: Закон Республики Казахстан от 11 июля 2022 года № 137-VII ЗРК
   title:
     rus: О внесении изменений и дополнений в Кодекс Республики Казахстан об административных правонарушениях
     kaz: Қазақстан Республикасының Әкімшілік құқық бұзушылық туралы кодексіне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/183934/rus
+  link: https://zan.gov.kz/client/#!/doc/169759/rus
