@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151312/kaz/05.09.2023
+source: https://zan.gov.kz/client/#!/doc/151312/kaz/01.01.2024
 ---
 
 ## 2-БӨЛІМ. ҚОРШАҒАН ОРТАНЫ ҚОРҒАУ САЛАСЫНДАҒЫ МЕМЛЕКЕТТІК БАСҚАРУ
