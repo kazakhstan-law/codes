@@ -10,8 +10,15 @@ approved_on: 2023-02-06
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2023-02-06
-  rus: 2023-02-06
+  kaz: 2024-01-01
+  rus: 2024-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/178542/kaz/06.02.2023
-  rus: https://zan.gov.kz/client/#!/doc/178542/rus/06.02.2023
+  kaz: https://zan.gov.kz/client/#!/doc/178542/kaz/01.01.2024
+  rus: https://zan.gov.kz/client/#!/doc/178542/rus/01.01.2024
+caused_by:
+  code: '178542'
+  requisite: Закон Республики Казахстан от 6 февраля 2023 года № 193-VII ЗРК
+  title:
+    rus: О цифровых активах в Республике Казахстан
+    kaz: Қазақстан Республикасындағы цифрлық активтер туралы
+  link: https://zan.gov.kz/client/#!/doc/178542/rus
