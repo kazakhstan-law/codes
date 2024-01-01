@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7833/kaz/01.07.2023
+source: https://zan.gov.kz/client/#!/doc/7833/kaz/01.01.2024
 ---
 
 1-бөлiм. ЖАЛПЫ ЕРЕЖЕЛЕР
