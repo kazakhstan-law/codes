@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96914/rus/22.07.2023
+source: https://zan.gov.kz/client/#!/doc/96914/rus/03.01.2024
 ---
 
 # О некоторых вопросах прохождения государственной службы
