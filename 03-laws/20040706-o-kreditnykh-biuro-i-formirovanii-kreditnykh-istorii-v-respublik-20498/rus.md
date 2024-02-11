@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20498/rus/03.03.2023
+source: https://zan.gov.kz/client/#!/doc/20498/rus/11.02.2024
 ---
 
 # О кредитных бюро и формировании кредитных историй в Республике Казахстан
