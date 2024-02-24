@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/167955/rus/19.04.2023
+source: https://zan.gov.kz/client/#!/doc/167955/rus/24.02.2024
 ---
 
 # О биологической безопасности Республики Казахстан
