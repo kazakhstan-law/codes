@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/51792/rus/01.01.2024
+source: https://zan.gov.kz/client/#!/doc/51792/rus/16.05.2024
 ---
 
 # Об исполнительном производстве и статусе судебных исполнителей
