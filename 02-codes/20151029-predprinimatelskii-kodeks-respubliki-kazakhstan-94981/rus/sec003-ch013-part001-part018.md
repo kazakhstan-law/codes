@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/94981/rus/06.04.2024
+source: https://zan.gov.kz/client/#!/doc/94981/rus/27.05.2024
 ---
 
 ## Статья 144-2. Профилактический контроль с посещением субъекта (объекта) контроля и надзора

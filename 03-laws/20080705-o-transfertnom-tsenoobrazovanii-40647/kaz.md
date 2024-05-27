@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/40647/kaz/19.04.2023
+source: https://zan.gov.kz/client/#!/doc/40647/kaz/27.05.2024
 ---
 
 ## Части документа
@@ -11,4 +11,4 @@ source: https://zan.gov.kz/client/#!/doc/40647/kaz/19.04.2023
 | Часть | Название |
 |---|---|
 | [`h007`](kaz/h007.md) | Мазмұны |
-| [`part021`](kaz/part021.md) | 14-бап. "Шығындарға қосу" әдісі |
+| [`part020`](kaz/part020.md) | 13-бап. Салыстырымды бақыланбайтын баға әдісі |
