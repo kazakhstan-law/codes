@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83703/rus/19.04.2024
+source: https://zan.gov.kz/client/#!/doc/83703/rus/27.05.2024
 ---
 
 # О ратификации Договора о Евразийском экономическом союзе
