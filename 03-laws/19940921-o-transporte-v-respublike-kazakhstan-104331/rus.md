@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104331/rus/01.07.2023
+source: https://zan.gov.kz/client/#!/doc/104331/rus/08.06.2024
 ---
 
 # О транспорте в Республике Казахстан

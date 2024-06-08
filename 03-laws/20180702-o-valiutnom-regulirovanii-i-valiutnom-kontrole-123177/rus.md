@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123177/rus/01.01.2024
+source: https://zan.gov.kz/client/#!/doc/123177/rus/08.06.2024
 ---
 
 # О валютном регулировании и валютном контроле

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62912/kaz/03.09.2023
+source: https://zan.gov.kz/client/#!/doc/62912/kaz/08.06.2024
 ---
 
 # Энергия үнемдеу және энергия тиімділігін арттыру туралы

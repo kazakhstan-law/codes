@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/72060/kaz/24.02.2024
+source: https://zan.gov.kz/client/#!/doc/72060/kaz/08.06.2024
 ---
 
 # Мемлекеттік көрсетілетін қызметтер туралы

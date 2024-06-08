@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62912/rus/03.09.2023
+source: https://zan.gov.kz/client/#!/doc/62912/rus/08.06.2024
 ---
 
 # Об энергосбережении и повышении энергоэффективности
