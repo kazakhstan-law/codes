@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/95773/kaz/08.06.2024
+repealed_on: 2024-12-16
+repealed_by:
+  code: '197537'
+  title: Органикалық өнім өндірісі және айналымы туралы
+  link: https://zan.gov.kz/client/#!/doc/197537/kaz
 ---
 
 # Органикалық өнім өндіру туралы
