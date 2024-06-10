@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам ведения бизнеса
   link: https://zan.gov.kz/client/#!/doc/195399/rus
 source: https://zan.gov.kz/client/#!/doc/95773/rus/08.06.2024
+repealed_on: 2024-12-16
+repealed_by:
+  code: '197537'
+  title: О производстве и обороте органической продукции
+  link: https://zan.gov.kz/client/#!/doc/197537/rus
 ---
 
 # О производстве органической продукции
