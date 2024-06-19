@@ -17,6 +17,11 @@ caused_by:
   title: Қазақстан Республикасының кейбір заңнамалық актілеріне бизнес жүргізу мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
   link: https://zan.gov.kz/client/#!/doc/195399/kaz
 source: https://zan.gov.kz/client/#!/doc/3749/kaz/08.06.2024
+repealed_on: 2024-08-20
+repealed_by:
+  code: '197914'
+  title: Масс-медиа туралы
+  link: https://zan.gov.kz/client/#!/doc/197914/kaz
 ---
 
 1-тарау. Жалпы ережелер

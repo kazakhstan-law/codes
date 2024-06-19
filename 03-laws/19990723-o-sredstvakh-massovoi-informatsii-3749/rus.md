@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам ведения бизнеса
   link: https://zan.gov.kz/client/#!/doc/195399/rus
 source: https://zan.gov.kz/client/#!/doc/3749/rus/08.06.2024
+repealed_on: 2024-08-20
+repealed_by:
+  code: '197914'
+  title: О масс-медиа
+  link: https://zan.gov.kz/client/#!/doc/197914/rus
 ---
 
 Оглавление
