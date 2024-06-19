@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/94981/rus/16.06.2024
+source: https://zan.gov.kz/client/#!/doc/94981/rus/19.06.2024
 ---
 
 ## Статья 144. Порядок организации проверок
