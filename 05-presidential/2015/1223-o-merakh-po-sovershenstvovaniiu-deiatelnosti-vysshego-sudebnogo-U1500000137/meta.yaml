@@ -79,17 +79,24 @@ versions:
   cause:
     code: '182859'
     key: U2300000252
+- date: 2024-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '198731'
+    key: U2400000570
 version_date:
-  kaz: 2024-01-01
-  rus: 2024-01-01
+  kaz: 2024-07-01
+  rus: 2024-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96634/kaz/01.01.2024
-  rus: https://zan.gov.kz/client/#!/doc/96634/rus/01.01.2024
+  kaz: https://zan.gov.kz/client/#!/doc/96634/kaz/01.07.2024
+  rus: https://zan.gov.kz/client/#!/doc/96634/rus/01.07.2024
 caused_by:
-  code: '182859'
-  key: U2300000252
-  requisite: Указ Президента Республики Казахстан от 10 июня 2023 года № 252
+  code: '198731'
+  key: U2400000570
+  requisite: Указ Президента Республики Казахстан от 13 июня 2024 года № 570
   title:
     rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/182859/rus
+  link: https://zan.gov.kz/client/#!/doc/198731/rus
