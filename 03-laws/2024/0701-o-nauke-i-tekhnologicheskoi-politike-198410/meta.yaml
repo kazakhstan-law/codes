@@ -1,0 +1,17 @@
+act_code: '198410'
+requisite: Закон Республики Казахстан от 1 июля 2024 года № 103-VIII ЗРК
+title:
+  rus: О науке и технологической политике
+  kaz: Ғылым және технологиялық саясат туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2024-07-01
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2024-07-01
+  rus: 2024-07-01
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/198410/kaz/01.07.2024
+  rus: https://zan.gov.kz/client/#!/doc/198410/rus/01.07.2024
