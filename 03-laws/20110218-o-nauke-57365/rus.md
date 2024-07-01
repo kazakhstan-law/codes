@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам науки и образования
   link: https://zan.gov.kz/client/#!/doc/196566/rus
 source: https://zan.gov.kz/client/#!/doc/57365/rus/06.05.2024
+repealed_on: 2024-09-01
+repealed_by:
+  code: '198410'
+  title: О науке и технологической политике
+  link: https://zan.gov.kz/client/#!/doc/198410/rus
 ---
 
 # О науке
