@@ -1,0 +1,24 @@
+act_code: '198415'
+requisite: Закон Республики Казахстан от 1 июля 2024 года № 106-VIII ЗРК
+title:
+  rus: О государственных закупках
+  kaz: Мемлекеттiк сатып алу туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2024-07-01
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2024-07-01
+  rus: 2024-07-01
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/198415/kaz/01.07.2024
+  rus: https://zan.gov.kz/client/#!/doc/198415/rus/01.07.2024
+caused_by:
+  code: '198415'
+  requisite: Закон Республики Казахстан от 1 июля 2024 года № 106-VIII ЗРК
+  title:
+    rus: О государственных закупках
+    kaz: Мемлекеттiк сатып алу туралы
+  link: https://zan.gov.kz/client/#!/doc/198415/rus
