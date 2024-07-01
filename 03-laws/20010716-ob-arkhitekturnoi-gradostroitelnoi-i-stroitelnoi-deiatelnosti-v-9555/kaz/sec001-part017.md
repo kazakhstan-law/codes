@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/9555/kaz/08.06.2024
+source: https://zan.gov.kz/client/#!/doc/9555/kaz/01.07.2024
 ---
 
 ## 35-бап. Сәулет-құрылыс бақылауын және қадағалауын жүзеге асыратын лауазымды адамдар

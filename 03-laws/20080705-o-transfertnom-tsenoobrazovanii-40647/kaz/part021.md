@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/40647/kaz/27.05.2024
+source: https://zan.gov.kz/client/#!/doc/40647/kaz/01.07.2024
 ---
 
 ## 13-бап. Салыстырымды бақыланбайтын баға әдісі
