@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/95243/kaz/19.04.2023
+repealed_on: 2024-09-01
+repealed_by:
+  code: '198410'
+  title: Ғылым және технологиялық саясат туралы
+  link: https://zan.gov.kz/client/#!/doc/198410/kaz
 ---
 
 # Ғылыми және (немесе) ғылыми-техникалық қызмет нәтижелерін коммерцияландыру туралы
