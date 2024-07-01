@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/96093/rus/01.07.2024
+repealed_on: 2025-01-01
+repealed_by:
+  code: '198415'
+  title: О государственных закупках
+  link: https://zan.gov.kz/client/#!/doc/198415/rus
 ---
 
 # О государственных закупках
