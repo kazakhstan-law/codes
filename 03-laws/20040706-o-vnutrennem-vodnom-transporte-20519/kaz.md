@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20519/kaz/08.06.2024
+source: https://zan.gov.kz/client/#!/doc/20519/kaz/05.07.2024
 ---
 
 # Iшкi су көлiгi туралы

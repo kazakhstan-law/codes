@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/104327/rus/08.06.2024
+source: https://zan.gov.kz/client/#!/doc/104327/rus/05.07.2024
 ---
 
 ## Статья 16-1. Снятие с учетной регистрации филиала (представительства) юридического лица

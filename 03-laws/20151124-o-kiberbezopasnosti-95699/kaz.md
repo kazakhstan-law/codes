@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95699/kaz/01.07.2024
+source: https://zan.gov.kz/client/#!/doc/95699/kaz/05.07.2024
 ---
 
 # Ақпараттандыру туралы

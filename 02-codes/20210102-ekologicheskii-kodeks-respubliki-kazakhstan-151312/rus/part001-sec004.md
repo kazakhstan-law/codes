@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151312/rus/08.06.2024
+source: https://zan.gov.kz/client/#!/doc/151312/rus/05.07.2024
 ---
 
 ## РАЗДЕЛ 4. ЭКОНОМИЧЕСКОЕ РЕГУЛИРОВАНИЕ ОХРАНЫ ОКРУЖАЮЩЕЙ СРЕДЫ
