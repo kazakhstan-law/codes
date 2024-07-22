@@ -1,10 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57365/rus/06.05.2024
-repealed_on: 2024-09-01
-repealed_by:
-  code: '198410'
-  title: О науке и технологической политике
-  link: https://zan.gov.kz/client/#!/doc/198410/rus
+source: https://zan.gov.kz/client/#!/doc/57365/rus/22.07.2024
 ---
 
 # О науке

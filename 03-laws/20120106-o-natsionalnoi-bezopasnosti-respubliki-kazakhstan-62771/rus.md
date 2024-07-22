@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62771/rus/23.12.2023
+source: https://zan.gov.kz/client/#!/doc/62771/rus/22.07.2024
 ---
 
 # О национальной безопасности Республики Казахстан
