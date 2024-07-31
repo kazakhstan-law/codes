@@ -11,15 +11,15 @@ approved_on: 2015-12-29
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2024-07-01
-  rus: 2024-07-01
+  kaz: 2024-07-31
+  rus: 2024-07-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96914/kaz/01.07.2024
-  rus: https://zan.gov.kz/client/#!/doc/96914/rus/01.07.2024
+  kaz: https://zan.gov.kz/client/#!/doc/96914/kaz/31.07.2024
+  rus: https://zan.gov.kz/client/#!/doc/96914/rus/31.07.2024
 caused_by:
-  code: '198731'
-  requisite: Указ Президента Республики Казахстан от 13 июня 2024 года № 570
+  code: '199370'
+  requisite: Указ Президента Республики Казахстан от 31 июля 2024 года № 612
   title:
     rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/198731/rus
+  link: https://zan.gov.kz/client/#!/doc/199370/rus
