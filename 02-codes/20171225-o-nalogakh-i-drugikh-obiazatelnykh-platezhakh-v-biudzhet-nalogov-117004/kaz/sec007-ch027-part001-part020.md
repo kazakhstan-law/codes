@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117004/kaz/08.07.2024
+source: https://zan.gov.kz/client/#!/doc/117004/kaz/21.08.2024
 ---
 
 ## 240-бап. Кәсіпорынды мүліктік кешен ретінде сатудан түсетін кіріс (залал)
