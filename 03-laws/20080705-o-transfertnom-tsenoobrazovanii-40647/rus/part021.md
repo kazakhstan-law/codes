@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/40647/rus/01.07.2024
+source: https://zan.gov.kz/client/#!/doc/40647/rus/01.09.2024
 ---
 
 ## Статья 13. Метод сопоставимой неконтролируемой цены
