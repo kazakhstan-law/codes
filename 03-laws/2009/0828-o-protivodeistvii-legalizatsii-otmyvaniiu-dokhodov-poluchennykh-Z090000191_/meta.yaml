@@ -313,12 +313,19 @@ versions:
   cause:
     code: '198608'
     key: Z2400000113
+- date: 2024-09-05
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '198608'
+    key: Z2400000113
 version_date:
-  kaz: 2024-07-05
-  rus: 2024-07-05
+  kaz: 2024-09-05
+  rus: 2024-09-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/47702/kaz/05.07.2024
-  rus: https://zan.gov.kz/client/#!/doc/47702/rus/05.07.2024
+  kaz: https://zan.gov.kz/client/#!/doc/47702/kaz/05.09.2024
+  rus: https://zan.gov.kz/client/#!/doc/47702/rus/05.09.2024
 caused_by:
   code: '198608'
   key: Z2400000113
