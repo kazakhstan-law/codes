@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80091/kaz/20.08.2024
+source: https://zan.gov.kz/client/#!/doc/80091/kaz/09.09.2024
 ---
 
 # Рұқсаттар және хабарламалар туралы
