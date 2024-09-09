@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3787/rus/11.12.2022
+source: https://zan.gov.kz/client/#!/doc/3787/rus/09.09.2024
 ---
 
 # Об охране селекционных достижений
