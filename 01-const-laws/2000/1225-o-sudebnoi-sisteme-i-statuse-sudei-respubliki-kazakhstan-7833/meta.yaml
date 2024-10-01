@@ -10,11 +10,11 @@ approved_on: 2000-12-25
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2024-07-15
-  rus: 2024-07-15
+  kaz: 2024-10-01
+  rus: 2024-10-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/15.07.2024
-  rus: https://zan.gov.kz/client/#!/doc/7833/rus/15.07.2024
+  kaz: https://zan.gov.kz/client/#!/doc/7833/kaz/01.10.2024
+  rus: https://zan.gov.kz/client/#!/doc/7833/rus/01.10.2024
 caused_by:
   code: '198610'
   requisite: Конституционный закон Республики Казахстан от 5 июля 2024 года № 109-VIII ЗРК
