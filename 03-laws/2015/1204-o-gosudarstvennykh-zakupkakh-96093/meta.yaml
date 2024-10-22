@@ -10,18 +10,15 @@ approved_on: 2015-12-04
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2024-07-01
-  rus: 2024-07-01
+  kaz: 2024-10-22
+  rus: 2024-10-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96093/kaz/01.07.2024
-  rus: https://zan.gov.kz/client/#!/doc/96093/rus/01.07.2024
+  kaz: https://zan.gov.kz/client/#!/doc/96093/kaz/22.10.2024
+  rus: https://zan.gov.kz/client/#!/doc/96093/rus/22.10.2024
 caused_by:
-  code: '197920'
-repealed_on: 2025-01-01
-repealed_by:
-  code: '198415'
-  requisite: Закон Республики Казахстан от 1 июля 2024 года № 106-VIII ЗРК
+  code: '195897'
+  requisite: Закон Республики Казахстан от 19 апреля 2024 года № 74-VIII ЗРК
   title:
-    rus: О государственных закупках
-    kaz: Мемлекеттiк сатып алу туралы
-  link: https://zan.gov.kz/client/#!/doc/198415/rus
+    rus: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам здравоохранения
+    kaz: Қазақстан Республикасының кейбір заңнамалық актілеріне денсаулық сақтау мәселелері бойынша өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/195897/rus
