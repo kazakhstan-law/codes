@@ -1,10 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96093/kaz/01.07.2024
-repealed_on: 2025-01-01
-repealed_by:
-  code: '198415'
-  title: Мемлекеттiк сатып алу туралы
-  link: https://zan.gov.kz/client/#!/doc/198415/kaz
+source: https://zan.gov.kz/client/#!/doc/96093/kaz/22.10.2024
 ---
 
 # Мемлекеттiк сатып алу туралы
