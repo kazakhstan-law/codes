@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104325/kaz/01.10.2024
+source: https://zan.gov.kz/client/#!/doc/104325/kaz/22.11.2024
 ---
 
 # Қазақстан Республикасындағы банктер және банк қызметі туралы
