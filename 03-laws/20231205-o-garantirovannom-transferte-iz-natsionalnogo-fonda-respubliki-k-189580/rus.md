@@ -13,6 +13,11 @@ approval_date: 2023-12-05
 version_date: 2023-12-05
 registry_number: '189580'
 source: https://zan.gov.kz/client/#!/doc/189580/rus/05.12.2023
+repealed_on: 2025-01-01
+repealed_by:
+  code: '203648'
+  title: О гарантированном трансферте из Национального фонда Республики Казахстан на 2025 – 2027 годы
+  link: https://zan.gov.kz/client/#!/doc/203648/rus
 ---
 
 # О гарантированном трансферте из Национального фонда Республики Казахстан на 2024 – 2026 годы
