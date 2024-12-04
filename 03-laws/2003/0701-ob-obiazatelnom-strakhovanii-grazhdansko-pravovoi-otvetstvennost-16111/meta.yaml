@@ -10,11 +10,11 @@ approved_on: 2003-07-01
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2024-01-01
-  rus: 2024-01-01
+  kaz: 2024-12-04
+  rus: 2024-12-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/16111/kaz/01.01.2024
-  rus: https://zan.gov.kz/client/#!/doc/16111/rus/01.01.2024
+  kaz: https://zan.gov.kz/client/#!/doc/16111/kaz/04.12.2024
+  rus: https://zan.gov.kz/client/#!/doc/16111/rus/04.12.2024
 caused_by:
   code: '169822'
   requisite: Закон Республики Казахстан от 12 июля 2022 года № 138-VII ЗРК
