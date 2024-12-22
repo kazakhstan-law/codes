@@ -345,12 +345,19 @@ versions:
   cause:
     code: '197920'
     key: Z2400000097
+- date: 2024-12-22
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '197920'
+    key: Z2400000097
 version_date:
-  kaz: 2024-10-01
-  rus: 2024-10-01
+  kaz: 2024-12-22
+  rus: 2024-12-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/68894/kaz/01.10.2024
-  rus: https://zan.gov.kz/client/#!/doc/68894/rus/01.10.2024
+  kaz: https://zan.gov.kz/client/#!/doc/68894/kaz/22.12.2024
+  rus: https://zan.gov.kz/client/#!/doc/68894/rus/22.12.2024
 caused_by:
   code: '197920'
   key: Z2400000097
