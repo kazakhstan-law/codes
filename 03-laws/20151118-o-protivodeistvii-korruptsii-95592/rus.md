@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95592/rus/09.09.2024
+source: https://zan.gov.kz/client/#!/doc/95592/rus/01.01.2025
 ---
 
 # О противодействии коррупции
