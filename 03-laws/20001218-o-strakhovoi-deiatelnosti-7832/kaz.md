@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7832/kaz/22.10.2024
+source: https://zan.gov.kz/client/#!/doc/7832/kaz/01.01.2025
 ---
 
 # Сақтандыру қызметі туралы
