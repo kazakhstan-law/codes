@@ -309,12 +309,19 @@ versions:
   cause:
     code: '201214'
     key: U2400000662
+- date: 2025-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '201214'
+    key: U2400000662
 version_date:
-  kaz: 2024-10-01
-  rus: 2024-10-01
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96902/kaz/01.10.2024
-  rus: https://zan.gov.kz/client/#!/doc/96902/rus/01.10.2024
+  kaz: https://zan.gov.kz/client/#!/doc/96902/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/96902/rus/01.01.2025
 caused_by:
   code: '201214'
   key: U2400000662
