@@ -10,11 +10,11 @@ approved_on: 2015-12-29
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2024-10-01
-  rus: 2024-10-01
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96902/kaz/01.10.2024
-  rus: https://zan.gov.kz/client/#!/doc/96902/rus/01.10.2024
+  kaz: https://zan.gov.kz/client/#!/doc/96902/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/96902/rus/01.01.2025
 caused_by:
   code: '201214'
   requisite: Указ Президента Республики Казахстан от 1 октября 2024 года № 662
