@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/162412/kaz/10.10.2024
+source: https://zan.gov.kz/client/#!/doc/162412/kaz/01.01.2025
 ---
 
 # Өнеркәсіптік саясат туралы
