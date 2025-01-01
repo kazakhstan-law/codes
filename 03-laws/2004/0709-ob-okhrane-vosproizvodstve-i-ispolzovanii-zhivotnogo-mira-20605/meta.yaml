@@ -10,11 +10,11 @@ approved_on: 2004-07-09
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2024-06-08
-  rus: 2024-06-08
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/20605/kaz/08.06.2024
-  rus: https://zan.gov.kz/client/#!/doc/20605/rus/08.06.2024
+  kaz: https://zan.gov.kz/client/#!/doc/20605/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/20605/rus/01.01.2025
 caused_by:
   code: '195399'
   requisite: Закон Республики Казахстан от 6 апреля 2024 года № 71-VIII ЗРК
