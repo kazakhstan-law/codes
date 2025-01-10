@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/51792/kaz/20.08.2024
+source: https://zan.gov.kz/client/#!/doc/51792/kaz/10.01.2025
 ---
 
 # Атқарушылық iс жүргiзу және сот орындаушыларының мәртебесi туралы
