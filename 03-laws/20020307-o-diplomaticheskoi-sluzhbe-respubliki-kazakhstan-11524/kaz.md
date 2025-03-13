@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11524/kaz/10.01.2025
+source: https://zan.gov.kz/client/#!/doc/11524/kaz/13.03.2025
 ---
 
 # Қазақстан Республикасының дипломатиялық қызметі туралы
