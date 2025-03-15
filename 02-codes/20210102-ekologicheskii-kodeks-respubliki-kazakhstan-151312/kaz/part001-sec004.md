@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151312/kaz/13.12.2024
+source: https://zan.gov.kz/client/#!/doc/151312/kaz/15.03.2025
 ---
 
 ## 4-БӨЛІМ. ҚОРШАҒАН ОРТАНЫ ҚОРҒАУДЫ ЭКОНОМИКАЛЫҚ РЕТТЕУ

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/198642/kaz/08.07.2024
+source: https://zan.gov.kz/client/#!/doc/198642/kaz/15.03.2025
 ---
 
 # Жылу энергетикасы туралы
