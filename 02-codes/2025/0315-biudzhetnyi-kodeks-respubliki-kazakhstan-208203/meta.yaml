@@ -1,0 +1,25 @@
+act_code: '208203'
+requisite: Кодекс Республики Казахстан от 15 марта 2025 года № 171-VIII ЗРК
+title:
+  rus: Бюджетный кодекс Республики Казахстан
+  kaz: Қазақстан Республикасының Бюджет кодексі
+form: КОД
+type_codes:
+- КОД
+approved_on: 2025-03-15
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2025-03-15
+  rus: 2025-03-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/208203/kaz/15.03.2025
+  rus: https://zan.gov.kz/client/#!/doc/208203/rus/15.03.2025
+replaces:
+- code: '42587'
+  requisite: Кодекс Республики Казахстан от 4 декабря 2008 года № 95-IV. Утратил силу Кодексом Республики Казахстан от 15 марта 2025 года № 171-VIII (вводится в действие с 1 января 2025 года)
+  title:
+    rus: Бюджетный кодекс Республики Казахстан
+    kaz: Қазақстан Республикасының Бюджет кодексі
+  link: https://zan.gov.kz/client/#!/doc/42587/rus
+  path: 02-codes/2008/1204-biudzhetnyi-kodeks-respubliki-kazakhstan-42587
