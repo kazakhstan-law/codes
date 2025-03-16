@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151312/rus/15.03.2025
+source: https://zan.gov.kz/client/#!/doc/151312/rus/16.03.2025
 ---
 
 ## РАЗДЕЛ 3. ГОСУДАРСТВЕННОЕ РЕГУЛИРОВАНИЕ ЭКОЛОГИЧЕСКИХ ОТНОШЕНИЙ
