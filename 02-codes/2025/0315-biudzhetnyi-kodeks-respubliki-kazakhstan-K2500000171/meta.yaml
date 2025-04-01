@@ -17,12 +17,27 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2025-04-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '208203'
+    key: K2500000171
 version_date:
-  kaz: 2025-03-15
-  rus: 2025-03-15
+  kaz: 2025-04-01
+  rus: 2025-04-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/208203/kaz/15.03.2025
-  rus: https://zan.gov.kz/client/#!/doc/208203/rus/15.03.2025
+  kaz: https://zan.gov.kz/client/#!/doc/208203/kaz/01.04.2025
+  rus: https://zan.gov.kz/client/#!/doc/208203/rus/01.04.2025
+caused_by:
+  code: '208203'
+  key: K2500000171
+  requisite: Кодекс Республики Казахстан от 15 марта 2025 года № 171-VIII ЗРК
+  title:
+    rus: Бюджетный кодекс Республики Казахстан
+    kaz: Қазақстан Республикасының Бюджет кодексі
+  link: https://zan.gov.kz/client/#!/doc/208203/rus
 replaces:
 - code: '42587'
   key: K080000095_
