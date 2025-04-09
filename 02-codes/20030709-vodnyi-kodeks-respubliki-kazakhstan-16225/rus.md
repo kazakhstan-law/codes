@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/16225/rus/18.03.2025
+repealed_on: 2025-06-10
+repealed_by:
+  code: '209026'
+  title: Водный кодекс Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/209026/rus
 ---
 
 ## ОГЛАВЛЕНИЕ

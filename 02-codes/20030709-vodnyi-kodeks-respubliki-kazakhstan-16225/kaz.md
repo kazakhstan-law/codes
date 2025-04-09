@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/16225/kaz/18.03.2025
+repealed_on: 2025-06-10
+repealed_by:
+  code: '209026'
+  title: Қазақстан Республикасының Су кодексі
+  link: https://zan.gov.kz/client/#!/doc/209026/kaz
 ---
 
 ## МАЗМҰНЫ
