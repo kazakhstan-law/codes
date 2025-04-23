@@ -65,17 +65,24 @@ versions:
   cause:
     code: '199260'
     key: U2400000608
+- date: 2025-04-23
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '209478'
+    key: U2500000853
 version_date:
-  kaz: 2024-07-29
-  rus: 2024-07-29
+  kaz: 2025-04-23
+  rus: 2025-04-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/77515/kaz/29.07.2024
-  rus: https://zan.gov.kz/client/#!/doc/77515/rus/29.07.2024
+  kaz: https://zan.gov.kz/client/#!/doc/77515/kaz/23.04.2025
+  rus: https://zan.gov.kz/client/#!/doc/77515/rus/23.04.2025
 caused_by:
-  code: '199260'
-  key: U2400000608
-  requisite: Указ Президента Республики Казахстан от 29 июля 2024 года № 608
+  code: '209478'
+  key: U2500000853
+  requisite: Указ Президента Республики Казахстан от 23 апреля 2025 года № 853
   title:
     rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/199260/rus
+  link: https://zan.gov.kz/client/#!/doc/209478/rus
