@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/130101/kaz/01.01.2024
+source: https://zan.gov.kz/client/#!/doc/130101/kaz/19.05.2025
 ---
 
 # Арнайы экономикалық және индустриялық аймақтар туралы
