@@ -785,12 +785,19 @@ versions:
   cause:
     code: '209027'
     key: Z2500000179
+- date: 2025-06-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '209027'
+    key: Z2500000179
 version_date:
-  kaz: 2025-04-09
-  rus: 2025-04-09
+  kaz: 2025-06-10
+  rus: 2025-06-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/9555/kaz/09.04.2025
-  rus: https://zan.gov.kz/client/#!/doc/9555/rus/09.04.2025
+  kaz: https://zan.gov.kz/client/#!/doc/9555/kaz/10.06.2025
+  rus: https://zan.gov.kz/client/#!/doc/9555/rus/10.06.2025
 caused_by:
   code: '209027'
   key: Z2500000179
