@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/1561/rus/01.09.2024
+source: https://zan.gov.kz/client/#!/doc/1561/rus/12.06.2025
 ---
 
 ## Статья 21. Права и обязанности аудиторских организаций
