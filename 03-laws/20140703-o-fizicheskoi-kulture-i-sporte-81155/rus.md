@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/81155/rus/15.04.2025
+source: https://zan.gov.kz/client/#!/doc/81155/rus/16.06.2025
 ---
 
 # О физической культуре и спорте
