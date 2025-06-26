@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34392/rus/15.03.2025
+source: https://zan.gov.kz/client/#!/doc/34392/rus/26.06.2025
 ---
 
 # О статусе столицы Республики Казахстан

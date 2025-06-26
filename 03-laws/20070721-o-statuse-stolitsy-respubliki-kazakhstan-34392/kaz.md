@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34392/kaz/15.03.2025
+source: https://zan.gov.kz/client/#!/doc/34392/kaz/26.06.2025
 ---
 
 # Қазақстан Республикасы астанасының мәртебесі туралы

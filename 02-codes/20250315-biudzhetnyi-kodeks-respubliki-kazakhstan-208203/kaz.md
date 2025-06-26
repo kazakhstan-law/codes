@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/208203/kaz/24.06.2025
+source: https://zan.gov.kz/client/#!/doc/208203/kaz/26.06.2025
 ---
 
 # ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ БЮДЖЕТ КОДЕКСІ
