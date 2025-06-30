@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34583/kaz/25.05.2025
+source: https://zan.gov.kz/client/#!/doc/34583/kaz/30.06.2025
 ---
 
 # Жылжымайтын мүлікке құқықтарды мемлекеттік тіркеу туралы
