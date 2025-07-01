@@ -1,5 +1,5 @@
 ---
-version_id: '198642_750549'
+version_id: '198642_769667'
 act_code: '198642'
 language: rus
 title: О теплоэнергетике
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2024-07-08
-version_date: 2025-03-15
+version_date: 2025-07-01
 registry_number: '198642'
 caused_by:
-  code: '208202'
-  title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам совершенствования бюджетного законодательства и признании утратившим силу Закона Республики Казахстан «О концессиях»
-  link: https://zan.gov.kz/client/#!/doc/208202/rus
-source: https://zan.gov.kz/client/#!/doc/198642/rus/15.03.2025
+  code: '198642'
+  title: О теплоэнергетике
+  link: https://zan.gov.kz/client/#!/doc/198642/rus
+source: https://zan.gov.kz/client/#!/doc/198642/rus/01.07.2025
 ---
 
 # О теплоэнергетике

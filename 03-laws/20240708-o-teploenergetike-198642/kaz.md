@@ -1,5 +1,5 @@
 ---
-version_id: '198642_750548'
+version_id: '198642_769666'
 act_code: '198642'
 language: kaz
 title: Жылу энергетикасы туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '102000000000'
 approval_date: 2024-07-08
-version_date: 2025-03-15
+version_date: 2025-07-01
 registry_number: '198642'
 caused_by:
-  code: '208202'
-  title: Қазақстан Республикасының кейбір заңнамалық актілеріне бюджет заңнамасын жетілдіру мәселелері бойынша өзгерістер мен толықтырулар енгізу және «Концессиялар туралы» Қазақстан Республикасы Заңының күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/208202/kaz
-source: https://zan.gov.kz/client/#!/doc/198642/kaz/15.03.2025
+  code: '198642'
+  title: Жылу энергетикасы туралы
+  link: https://zan.gov.kz/client/#!/doc/198642/kaz
+source: https://zan.gov.kz/client/#!/doc/198642/kaz/01.07.2025
 ---
 
 # Жылу энергетикасы туралы
