@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/101088/kaz/30.06.2025
+source: https://zan.gov.kz/client/#!/doc/101088/kaz/17.07.2025
 ---
 
 # Тұрғын үй құрылысына үлестік қатысу туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95275/kaz/19.05.2025
+source: https://zan.gov.kz/client/#!/doc/95275/kaz/17.07.2025
 ---
 
 # Өзін-өзі реттеу туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28852/kaz/26.06.2025
+source: https://zan.gov.kz/client/#!/doc/28852/kaz/17.07.2025
 ---
 
 # Ерекше қорғалатын табиғи аумақтар туралы

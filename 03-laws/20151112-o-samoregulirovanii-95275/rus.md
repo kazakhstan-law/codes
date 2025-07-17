@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95275/rus/19.05.2025
+source: https://zan.gov.kz/client/#!/doc/95275/rus/17.07.2025
 ---
 
 # О саморегулировании

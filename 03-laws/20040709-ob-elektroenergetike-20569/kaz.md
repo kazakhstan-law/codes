@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20569/kaz/01.07.2025
+source: https://zan.gov.kz/client/#!/doc/20569/kaz/17.07.2025
 ---
 
 # Электр энергетикасы туралы
