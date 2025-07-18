@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/117004/kaz/15.07.2025
+repealed_on: 2026-01-01
+repealed_by:
+  code: '212543'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ САЛЫҚ КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/212543/kaz
 ---
 
 ## МАЗМҰНЫ
