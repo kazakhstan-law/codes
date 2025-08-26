@@ -10,15 +10,15 @@ approved_on: 2002-04-02
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2024-06-29
-  rus: 2024-06-29
+  kaz: 2025-08-26
+  rus: 2025-08-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/11731/kaz/29.06.2024
-  rus: https://zan.gov.kz/client/#!/doc/11731/rus/29.06.2024
+  kaz: https://zan.gov.kz/client/#!/doc/11731/kaz/26.08.2025
+  rus: https://zan.gov.kz/client/#!/doc/11731/rus/26.08.2025
 caused_by:
-  code: '198356'
-  requisite: Указ Президента Республики Казахстан от 29 июня 2024 года № 591
+  code: '213592'
+  requisite: Указ Президента Республики Казахстан от 26 августа 2025 года № 975
   title:
     rus: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір актілеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/198356/rus
+  link: https://zan.gov.kz/client/#!/doc/213592/rus
