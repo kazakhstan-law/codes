@@ -1,5 +1,5 @@
 ---
-version_id: '184506_780565'
+version_id: '184506_781201'
 act_code: '184506'
 language: rus
 title: О некоторых вопросах кадровой политики в системе органов государственной власти
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '101000000000'
 approval_date: 2023-07-31
-version_date: 2025-03-17
+version_date: 2025-08-26
 registry_number: '184506'
 caused_by:
-  code: '208247'
-  title: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/208247/rus
-source: https://zan.gov.kz/client/#!/doc/184506/rus/17.03.2025
+  code: '213592'
+  title: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/213592/rus
+source: https://zan.gov.kz/client/#!/doc/184506/rus/26.08.2025
 ---
 
 # О некоторых вопросах кадровой политики в системе органов государственной власти
