@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1561/kaz/12.06.2025
+source: https://zan.gov.kz/client/#!/doc/1561/kaz/31.08.2025
 ---
 
 # Аудиторлық қызмет туралы

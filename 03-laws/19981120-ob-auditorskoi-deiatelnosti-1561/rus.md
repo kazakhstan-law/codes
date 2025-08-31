@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1561/rus/12.06.2025
+source: https://zan.gov.kz/client/#!/doc/1561/rus/31.08.2025
 ---
 
 # Об аудиторской деятельности
