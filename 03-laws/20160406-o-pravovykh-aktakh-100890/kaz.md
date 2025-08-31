@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/100890/kaz/15.03.2025
+source: https://zan.gov.kz/client/#!/doc/100890/kaz/31.08.2025
 ---
 
 # Құқықтық актілер туралы
