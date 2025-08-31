@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/208203/rus/18.07.2025
+source: https://zan.gov.kz/client/#!/doc/208203/rus/31.08.2025
 ---
 
 # БЮДЖЕТНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
