@@ -86,12 +86,19 @@ versions:
   cause:
     code: '212370'
     key: U2500000946
+- date: 2025-09-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '212370'
+    key: U2500000946
 version_date:
-  kaz: 2025-07-14
-  rus: 2025-07-14
+  kaz: 2025-09-01
+  rus: 2025-09-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/153121/kaz/14.07.2025
-  rus: https://zan.gov.kz/client/#!/doc/153121/rus/14.07.2025
+  kaz: https://zan.gov.kz/client/#!/doc/153121/kaz/01.09.2025
+  rus: https://zan.gov.kz/client/#!/doc/153121/rus/01.09.2025
 caused_by:
   code: '212370'
   key: U2500000946
