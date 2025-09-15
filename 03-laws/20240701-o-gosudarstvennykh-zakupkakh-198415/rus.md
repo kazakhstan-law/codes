@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/198415/rus/25.08.2025
+source: https://zan.gov.kz/client/#!/doc/198415/rus/15.09.2025
 ---
 
 # О государственных закупках
