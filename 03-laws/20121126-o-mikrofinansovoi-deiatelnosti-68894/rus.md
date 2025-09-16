@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/68894/rus/15.09.2025
+source: https://zan.gov.kz/client/#!/doc/68894/rus/16.09.2025
 ---
 
 # О микрофинансовой деятельности
