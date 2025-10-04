@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/116856/kaz/15.02.2021
+source: https://zan.gov.kz/client/#!/doc/116856/kaz/04.10.2025
 ---
 
 # Еуразиялық экономикалық одақтың Кеден кодексі туралы шартты ратификациялау туралы
@@ -43,6 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/116856/kaz/15.02.2021
 | [`an001-sec005-ch038`](kaz/an001-sec005-ch038.md) | 38-тарау. |
 | [`an001-sec005-ch039`](kaz/an001-sec005-ch039.md) | 39-тарау |
 | [`an001-sec005-ch042`](kaz/an001-sec005-ch042.md) | 42-тарау |
+| [`an001-sec005-ch043`](kaz/an001-sec005-ch043.md) | `!` 43-тарау |
 | [`an001-sec006`](kaz/an001-sec006.md) | VI БӨЛІМ КЕДЕНДІК БАҚЫЛАУДЫ ЖҮРГІЗУ |
 | [`an001-sec006-ch045`](kaz/an001-sec006-ch045.md) | 45-тарау |
 | [`an001-sec006-ch046`](kaz/an001-sec006-ch046.md) | 46-тарау |
