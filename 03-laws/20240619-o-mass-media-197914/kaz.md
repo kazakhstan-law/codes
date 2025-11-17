@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/197914/kaz/01.01.2025
+source: https://zan.gov.kz/client/#!/doc/197914/kaz/17.11.2025
 ---
 
 # Масс-медиа туралы
