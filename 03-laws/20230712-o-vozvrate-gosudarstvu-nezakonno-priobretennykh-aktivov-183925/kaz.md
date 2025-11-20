@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183925/kaz/12.07.2023
+source: https://zan.gov.kz/client/#!/doc/183925/kaz/20.11.2025
 ---
 
 # Заңсыз иемденілген активтерді мемлекетке қайтару туралы

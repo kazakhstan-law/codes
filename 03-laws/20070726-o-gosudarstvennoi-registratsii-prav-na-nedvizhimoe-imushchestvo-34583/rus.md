@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34583/rus/15.09.2025
+source: https://zan.gov.kz/client/#!/doc/34583/rus/20.11.2025
 ---
 
 # О государственной регистрации прав на недвижимое имущество

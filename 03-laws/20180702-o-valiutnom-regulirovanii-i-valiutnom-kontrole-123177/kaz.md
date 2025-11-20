@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123177/kaz/19.09.2025
+source: https://zan.gov.kz/client/#!/doc/123177/kaz/20.11.2025
 ---
 
 # Валюталық реттеу және валюталық бақылау туралы
