@@ -10,11 +10,11 @@ approved_on: 2003-12-31
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2025-10-24
-  rus: 2025-10-24
+  kaz: 2025-11-20
+  rus: 2025-11-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18098/kaz/24.10.2025
-  rus: https://zan.gov.kz/client/#!/doc/18098/rus/24.10.2025
+  kaz: https://zan.gov.kz/client/#!/doc/18098/kaz/20.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/18098/rus/20.11.2025
 caused_by:
   code: '216062'
   requisite: Указ Президента Республики Казахстан от 24 октября 2025 года № 1066
