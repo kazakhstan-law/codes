@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104305/kaz/08.06.2024
+source: https://zan.gov.kz/client/#!/doc/104305/kaz/24.11.2025
 ---
 
 # Авторлық құқық және сабақтас құқықтар туралы
