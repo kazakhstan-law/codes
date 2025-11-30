@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/104327/rus/08.01.2025
+source: https://zan.gov.kz/client/#!/doc/104327/rus/30.11.2025
 ---
 
 ## Статья 16. Государственная регистрация прекращения деятельности юридического лица
