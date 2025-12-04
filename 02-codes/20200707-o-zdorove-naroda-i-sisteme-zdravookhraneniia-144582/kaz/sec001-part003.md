@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/144582/kaz/16.09.2025
+source: https://zan.gov.kz/client/#!/doc/144582/kaz/04.12.2025
 ---
 
 ## 2-тарау. ДЕНСАУЛЫҚ САҚТАУ САЛАСЫНДАҒЫ МЕМЛЕКЕТТІК РЕТТЕУ МЕН БАСҚАРУ
