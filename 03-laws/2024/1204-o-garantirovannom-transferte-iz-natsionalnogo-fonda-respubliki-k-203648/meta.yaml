@@ -15,3 +15,11 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/203648/kaz/04.12.2024
   rus: https://zan.gov.kz/client/#!/doc/203648/rus/04.12.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '218360'
+  requisite: Закон Республики Казахстан от 8 декабря 2025 года № 239-VIII ЗРК
+  title:
+    rus: О республиканском бюджете на 2026 – 2028 годы
+    kaz: 2026 – 2028 жылдарға арналған республикалық бюджет туралы
+  link: https://zan.gov.kz/client/#!/doc/218360/rus
