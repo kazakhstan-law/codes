@@ -13,6 +13,11 @@ approval_date: 2024-12-04
 version_date: 2024-12-04
 registry_number: '203648'
 source: https://zan.gov.kz/client/#!/doc/203648/kaz/04.12.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '218360'
+  title: 2026 – 2028 жылдарға арналған республикалық бюджет туралы
+  link: https://zan.gov.kz/client/#!/doc/218360/kaz
 ---
 
 # Қазақстан Республикасының Ұлттық қорынан 2025 – 2027 жылдарға арналған кепілдендірілген трансферт туралы

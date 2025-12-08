@@ -13,6 +13,11 @@ approval_date: 2024-12-04
 version_date: 2024-12-04
 registry_number: '203648'
 source: https://zan.gov.kz/client/#!/doc/203648/rus/04.12.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '218360'
+  title: О республиканском бюджете на 2026 – 2028 годы
+  link: https://zan.gov.kz/client/#!/doc/218360/rus
 ---
 
 # О гарантированном трансферте из Национального фонда Республики Казахстан на 2025 – 2027 годы
