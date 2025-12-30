@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/20570/kaz/19.04.2023
+repealed_on: 2026-03-02
+repealed_by:
+  code: '220220'
+  title: Құқық бұзушылық профилактикасы туралы
+  link: https://zan.gov.kz/client/#!/doc/220220/kaz
 ---
 
 # Қоғамдық тәртiптi қамтамасыз етуге азаматтардың қатысуы туралы

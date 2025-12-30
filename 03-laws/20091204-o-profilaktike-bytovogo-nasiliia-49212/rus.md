@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/49212/rus/30.06.2025
+repealed_on: 2026-03-02
+repealed_by:
+  code: '220220'
+  title: О профилактике правонарушений
+  link: https://zan.gov.kz/client/#!/doc/220220/rus
 ---
 
 # О профилактике бытового насилия

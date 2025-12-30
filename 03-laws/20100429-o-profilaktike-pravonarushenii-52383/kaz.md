@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/52383/kaz/17.07.2025
+repealed_on: 2026-03-02
+repealed_by:
+  code: '220220'
+  title: Құқық бұзушылық профилактикасы туралы
+  link: https://zan.gov.kz/client/#!/doc/220220/kaz
 ---
 
 # Құқық бұзушылық профилактикасы туралы
