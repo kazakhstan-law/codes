@@ -1,0 +1,17 @@
+act_code: '220220'
+requisite: Закон Республики Казахстан от 30 декабря 2025 года № 245-VIII ЗРК
+title:
+  rus: О профилактике правонарушений
+  kaz: Құқық бұзушылық профилактикасы туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2025-12-30
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2025-12-30
+  rus: 2025-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/220220/kaz/30.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/220220/rus/30.12.2025
