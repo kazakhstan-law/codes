@@ -87,12 +87,19 @@ versions:
   cause:
     code: '213338'
     key: U2500000965
+- date: 2026-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '213338'
+    key: U2500000965
 version_date:
-  kaz: 2025-08-18
-  rus: 2025-08-18
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/147213/kaz/18.08.2025
-  rus: https://zan.gov.kz/client/#!/doc/147213/rus/18.08.2025
+  kaz: https://zan.gov.kz/client/#!/doc/147213/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/147213/rus/01.01.2026
 caused_by:
   code: '213338'
   key: U2500000965
