@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20605/kaz/13.08.2025
+source: https://zan.gov.kz/client/#!/doc/20605/kaz/01.01.2026
 ---
 
 # Жануарлар дүниесiн қорғау, өсiмiн молайту және пайдалану туралы
