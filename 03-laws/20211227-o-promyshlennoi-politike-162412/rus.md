@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/162412/rus/27.09.2025
+source: https://zan.gov.kz/client/#!/doc/162412/rus/01.01.2026
 ---
 
 # О промышленной политике
