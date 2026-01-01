@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/212543/kaz/18.07.2025
+source: https://zan.gov.kz/client/#!/doc/212543/kaz/01.01.2026
 ---
 
 # ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ САЛЫҚ КОДЕКСІ
