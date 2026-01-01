@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/209026/rus/15.09.2025
+source: https://zan.gov.kz/client/#!/doc/209026/rus/01.01.2026
 ---
 
 # Водный кодекс Республики Казахстан
