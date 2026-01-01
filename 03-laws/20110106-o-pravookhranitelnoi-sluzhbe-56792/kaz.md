@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56792/kaz/30.06.2025
+source: https://zan.gov.kz/client/#!/doc/56792/kaz/01.01.2026
 ---
 
 # Құқық қорғау қызметі туралы
