@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63612/rus/16.09.2025
+source: https://zan.gov.kz/client/#!/doc/63612/rus/01.01.2026
 ---
 
 # О воинской службе и статусе военнослужащих
