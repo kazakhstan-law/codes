@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95237/kaz/18.07.2025
+source: https://zan.gov.kz/client/#!/doc/95237/kaz/01.01.2026
 ---
 
 # Мемлекеттік-жекешелік әріптестік туралы
