@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59822/kaz/24.06.2025
+source: https://zan.gov.kz/client/#!/doc/59822/kaz/01.01.2026
 ---
 
 # Мұнай өнiмдерiнiң жекелеген түрлерiн өндiрудi және олардың айналымын мемлекеттiк реттеу туралы
