@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183925/rus/20.11.2025
+source: https://zan.gov.kz/client/#!/doc/183925/rus/03.01.2026
 ---
 
 # О возврате государству незаконно приобретенных активов

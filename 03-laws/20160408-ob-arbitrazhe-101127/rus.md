@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/101127/rus/19.06.2024
+source: https://zan.gov.kz/client/#!/doc/101127/rus/03.01.2026
 ---
 
 # Об арбитраже
