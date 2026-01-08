@@ -12,15 +12,15 @@ approved_on: 2014-01-13
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2025-08-26
-  rus: 2025-08-26
+  kaz: 2026-01-08
+  rus: 2026-01-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/76855/kaz/26.08.2025
-  rus: https://zan.gov.kz/client/#!/doc/76855/rus/26.08.2025
+  kaz: https://zan.gov.kz/client/#!/doc/76855/kaz/08.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/76855/rus/08.01.2026
 caused_by:
-  code: '213592'
-  requisite: Указ Президента Республики Казахстан от 26 августа 2025 года № 975
+  code: '221099'
+  requisite: Указ Президента Республики Казахстан от 8 января 2026 года № 1152
   title:
     rus: О внесении изменений и дополнений в некоторые акты Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір актілеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/213592/rus
+  link: https://zan.gov.kz/client/#!/doc/221099/rus
