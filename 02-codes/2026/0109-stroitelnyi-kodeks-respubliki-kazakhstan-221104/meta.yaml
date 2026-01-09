@@ -1,0 +1,17 @@
+act_code: '221104'
+requisite: Кодекс Республики Казахстан от 9 января 2026 года № 253-VIII ЗРК
+title:
+  rus: СТРОИТЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  kaz: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ҚҰРЫЛЫС КОДЕКСІ
+form: КОД
+type_codes:
+- КОД
+approved_on: 2026-01-09
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2026-01-09
+  rus: 2026-01-09
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/221104/kaz/09.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/221104/rus/09.01.2026
