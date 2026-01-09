@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам налогообложения
   link: https://zan.gov.kz/client/#!/doc/212545/rus
 source: https://zan.gov.kz/client/#!/doc/14027/rus/01.01.2026
+repealed_on: 2026-07-12
+repealed_by:
+  code: '221101'
+  title: ЦИФРОВОЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/221101/rus
 ---
 
 ## Оглавление
