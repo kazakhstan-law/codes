@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/14027/kaz/01.01.2026
+repealed_on: 2026-07-12
+repealed_by:
+  code: '221101'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ЦИФРЛЫҚ КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/221101/kaz
 ---
 
 1-тарау. ЖАЛПЫ ЕРЕЖЕЛЕР
