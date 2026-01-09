@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/9555/kaz/31.08.2025
+repealed_on: 2026-07-01
+repealed_by:
+  code: '221104'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ҚҰРЫЛЫС КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/221104/kaz
 ---
 
 # Қазақстан Республикасындағы сәулет, қала құрылысы және құрылыс қызметі туралы

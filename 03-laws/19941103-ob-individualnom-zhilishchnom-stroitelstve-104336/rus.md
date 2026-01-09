@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104336/rus/22.11.2024
+repealed_on: 2026-07-01
+repealed_by:
+  code: '221104'
+  title: СТРОИТЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН
+  link: https://zan.gov.kz/client/#!/doc/221104/rus
 ---
 
 # Об индивидуальном жилищном строительстве

@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104336/kaz/22.11.2024
+repealed_on: 2026-07-01
+repealed_by:
+  code: '221104'
+  title: ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ҚҰРЫЛЫС КОДЕКСІ
+  link: https://zan.gov.kz/client/#!/doc/221104/kaz
 ---
 
 # Жеке тұрғын үй құрылысы туралы
