@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/1561/kaz/20.11.2025
+source: https://zan.gov.kz/client/#!/doc/1561/kaz/09.01.2026
 ---
 
 ## 25-бап. Аудиттелетін субъектінің құқықтары мен міндеттері

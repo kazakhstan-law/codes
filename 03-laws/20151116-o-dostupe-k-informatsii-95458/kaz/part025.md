@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/95458/kaz/16.03.2025
+source: https://zan.gov.kz/client/#!/doc/95458/kaz/09.01.2026
 ---
 
 ## 19-1-бап. Ақпаратқа қол жеткізу саласындағы мемлекеттік бақылау

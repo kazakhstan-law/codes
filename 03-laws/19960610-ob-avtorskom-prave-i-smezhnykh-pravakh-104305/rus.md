@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104305/rus/24.11.2025
+source: https://zan.gov.kz/client/#!/doc/104305/rus/09.01.2026
 ---
 
 # ОБ АВТОРСКОМ ПРАВЕ И СМЕЖНЫХ ПРАВАХ
