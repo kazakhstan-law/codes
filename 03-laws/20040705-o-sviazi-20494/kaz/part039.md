@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/20494/kaz/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/20494/kaz/16.01.2026
 ---
 
 ## 28-6-бап. Радиоэлектрондық құралдар мен жоғары жиiлiктi құрылғылар иелерiнiң құқықтары

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80091/rus/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/80091/rus/16.01.2026
 ---
 
 # О разрешениях и уведомлениях

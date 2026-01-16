@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/111946/rus/16.09.2025
+source: https://zan.gov.kz/client/#!/doc/111946/rus/16.01.2026
 ---
 
 # О коллекторской деятельности
