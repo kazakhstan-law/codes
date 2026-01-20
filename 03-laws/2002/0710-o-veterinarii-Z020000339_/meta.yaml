@@ -428,12 +428,19 @@ versions:
   cause:
     code: '212519'
     key: Z2500000213
+- date: 2026-01-20
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '212519'
+    key: Z2500000213
 version_date:
-  kaz: 2025-07-17
-  rus: 2025-07-17
+  kaz: 2026-01-20
+  rus: 2026-01-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/12676/kaz/17.07.2025
-  rus: https://zan.gov.kz/client/#!/doc/12676/rus/17.07.2025
+  kaz: https://zan.gov.kz/client/#!/doc/12676/kaz/20.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/12676/rus/20.01.2026
 caused_by:
   code: '212519'
   key: Z2500000213
