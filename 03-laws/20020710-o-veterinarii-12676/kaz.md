@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/12676/kaz/17.07.2025
+source: https://zan.gov.kz/client/#!/doc/12676/kaz/20.01.2026
 ---
 
 # Ветеринария туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/180051/rus/16.01.2026
+source: https://zan.gov.kz/client/#!/doc/180051/rus/20.01.2026
 ---
 
 # СОЦИАЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН

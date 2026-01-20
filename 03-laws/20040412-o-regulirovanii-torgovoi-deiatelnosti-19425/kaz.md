@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/19425/kaz/18.01.2026
+source: https://zan.gov.kz/client/#!/doc/19425/kaz/20.01.2026
 ---
 
 # Сауда қызметін реттеу туралы
