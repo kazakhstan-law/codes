@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/15924/kaz/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/15924/kaz/04.02.2026
 ---
 
 ## Мазмұны
