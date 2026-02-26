@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15924/rus/04.02.2026
+source: https://zan.gov.kz/client/#!/doc/15924/rus/26.02.2026
 ---
 
 ## Статья 44-1. Предоставление земельного участка для строительства объекта в черте поселка, села
