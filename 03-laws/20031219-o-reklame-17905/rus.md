@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/17905/rus/15.09.2025
+source: https://zan.gov.kz/client/#!/doc/17905/rus/02.03.2026
 ---
 
 # О рекламе

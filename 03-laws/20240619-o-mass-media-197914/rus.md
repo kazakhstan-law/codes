@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/197914/rus/18.01.2026
+source: https://zan.gov.kz/client/#!/doc/197914/rus/02.03.2026
 ---
 
 # О масс-медиа
