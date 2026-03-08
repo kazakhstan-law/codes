@@ -10,11 +10,11 @@ approved_on: 2016-04-08
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2026-01-03
-  rus: 2026-01-03
+  kaz: 2026-03-08
+  rus: 2026-03-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/101127/kaz/03.01.2026
-  rus: https://zan.gov.kz/client/#!/doc/101127/rus/03.01.2026
+  kaz: https://zan.gov.kz/client/#!/doc/101127/kaz/08.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/101127/rus/08.03.2026
 caused_by:
   code: '220848'
   requisite: Закон Республики Казахстан от 3 января 2026 года № 251-VIII ЗРК
