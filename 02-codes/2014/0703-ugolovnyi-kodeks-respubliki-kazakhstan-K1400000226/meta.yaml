@@ -597,12 +597,19 @@ versions:
   cause:
     code: '220837'
     key: Z2600000252
+- date: 2026-03-08
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '220837'
+    key: Z2600000252
 version_date:
-  kaz: 2026-01-03
-  rus: 2026-01-03
+  kaz: 2026-03-08
+  rus: 2026-03-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/81097/kaz/03.01.2026
-  rus: https://zan.gov.kz/client/#!/doc/81097/rus/03.01.2026
+  kaz: https://zan.gov.kz/client/#!/doc/81097/kaz/08.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/81097/rus/08.03.2026
 caused_by:
   code: '220837'
   key: Z2600000252
