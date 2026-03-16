@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/31394/kaz/30.12.2025
+source: https://zan.gov.kz/client/#!/doc/31394/kaz/16.03.2026
 ---
 
 1-бап. Осы Заңда пайдаланылатын негiзгi ұйымдар
