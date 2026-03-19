@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20519/rus/25.08.2025
+source: https://zan.gov.kz/client/#!/doc/20519/rus/19.03.2026
 ---
 
 # О внутреннем водном транспорте

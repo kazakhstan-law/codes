@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15924/kaz/12.03.2026
+source: https://zan.gov.kz/client/#!/doc/15924/kaz/19.03.2026
 ---
 
 ## 44-1-бап. Кент, ауыл шегінде объект салу үшін жер учаскесін беру

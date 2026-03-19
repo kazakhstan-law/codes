@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11113/kaz/13.04.2025
+source: https://zan.gov.kz/client/#!/doc/11113/kaz/19.03.2026
 ---
 
 # Сауда мақсатында теңізде жүзу туралы
