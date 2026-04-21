@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/30774/rus/02.03.2026
+source: https://zan.gov.kz/client/#!/doc/30774/rus/21.04.2026
 ---
 
 # О культуре

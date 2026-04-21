@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57639/kaz/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/57639/kaz/21.04.2026
 ---
 
 # Мемлекеттік мүлік туралы
