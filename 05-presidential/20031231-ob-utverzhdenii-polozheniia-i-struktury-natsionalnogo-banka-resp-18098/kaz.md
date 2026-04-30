@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/18098/kaz/01.01.2026
+source: https://zan.gov.kz/client/#!/doc/18098/kaz/30.04.2026
 ---
 
 # Қазақстан Республикасы Ұлттық Банкiнiң ережесiн және құрылымын бекiту туралы
