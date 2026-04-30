@@ -10,15 +10,15 @@ approved_on: 2021-02-20
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2026-01-26
-  rus: 2026-01-26
+  kaz: 2026-04-30
+  rus: 2026-04-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/153121/kaz/26.01.2026
-  rus: https://zan.gov.kz/client/#!/doc/153121/rus/26.01.2026
+  kaz: https://zan.gov.kz/client/#!/doc/153121/kaz/30.04.2026
+  rus: https://zan.gov.kz/client/#!/doc/153121/rus/30.04.2026
 caused_by:
-  code: '221582'
-  requisite: Указ Президента Республики Казахстан от 26 января 2026 года № 1159
+  code: '225155'
+  requisite: Указ Президента Республики Казахстан от 30 апреля 2026 года № 1251
   title:
     rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/221582/rus
+  link: https://zan.gov.kz/client/#!/doc/225155/rus
