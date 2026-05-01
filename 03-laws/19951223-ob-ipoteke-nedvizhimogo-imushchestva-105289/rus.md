@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/105289/rus/19.03.2026
+source: https://zan.gov.kz/client/#!/doc/105289/rus/01.05.2026
 ---
 
 # Об ипотеке недвижимого имущества
