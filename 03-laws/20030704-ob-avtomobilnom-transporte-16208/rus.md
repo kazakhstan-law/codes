@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16208/rus/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/16208/rus/17.05.2026
 ---
 
 # Об автомобильном транспорте
