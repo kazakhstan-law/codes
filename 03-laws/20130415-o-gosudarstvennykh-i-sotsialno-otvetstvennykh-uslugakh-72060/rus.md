@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/72060/rus/12.03.2026
+source: https://zan.gov.kz/client/#!/doc/72060/rus/19.05.2026
 ---
 
 # О государственных и социально ответственных услугах

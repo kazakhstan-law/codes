@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63315/rus/08.03.2026
+source: https://zan.gov.kz/client/#!/doc/63315/rus/19.05.2026
 ---
 
 # О специальных государственных органах Республики Казахстан
