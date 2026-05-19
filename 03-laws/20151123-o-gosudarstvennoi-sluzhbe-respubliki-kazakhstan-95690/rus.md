@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/95690/rus/08.03.2026
+repealed_on: 2026-07-01
+repealed_by:
+  code: '225398'
+  title: О государственной службе Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/225398/rus
 ---
 
 Глава 1. ОБЩИЕ ПОЛОЖЕНИЯ
