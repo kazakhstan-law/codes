@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/132690/rus/04.02.2026
+source: https://zan.gov.kz/client/#!/doc/132690/rus/02.06.2026
 ---
 
 # Об утверждении типовых договоров предоставления регулируемых услуг
