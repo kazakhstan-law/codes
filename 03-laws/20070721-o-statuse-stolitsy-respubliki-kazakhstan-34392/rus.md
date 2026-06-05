@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/34392/rus/09.01.2026
+repealed_on: 2026-07-01
+repealed_by:
+  code: '226152'
+  title: О статусе столицы Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/226152/rus
 ---
 
 # О статусе столицы Республики Казахстан

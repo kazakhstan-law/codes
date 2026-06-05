@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/34392/kaz/09.01.2026
+repealed_on: 2026-07-01
+repealed_by:
+  code: '226152'
+  title: Қазақстан Республикасы астанасының мәртебесі туралы
+  link: https://zan.gov.kz/client/#!/doc/226152/kaz
 ---
 
 # Қазақстан Республикасы астанасының мәртебесі туралы
