@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104143/rus/19.04.2023
+repealed_on: 2026-07-01
+repealed_by:
+  code: '226143'
+  title: О Курултае Республики Казахстан и статусе его депутатов
+  link: https://zan.gov.kz/client/#!/doc/226143/rus
 ---
 
 # О комитетах и комиссиях Парламента Республики Казахстан
