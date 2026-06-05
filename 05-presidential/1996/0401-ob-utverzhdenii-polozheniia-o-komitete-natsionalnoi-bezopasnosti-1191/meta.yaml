@@ -11,15 +11,15 @@ approved_on: 1996-04-01
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2026-05-02
-  rus: 2026-05-02
+  kaz: 2026-06-05
+  rus: 2026-06-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/1191/kaz/02.05.2026
-  rus: https://zan.gov.kz/client/#!/doc/1191/rus/02.05.2026
+  kaz: https://zan.gov.kz/client/#!/doc/1191/kaz/05.06.2026
+  rus: https://zan.gov.kz/client/#!/doc/1191/rus/05.06.2026
 caused_by:
-  code: '224938'
-  requisite: Указ Президента Республики Казахстан от 2 мая 2026 года № 1258
+  code: '226191'
+  requisite: Указ Президента Республики Казахстан от 5 июня 2026 года № 1304
   title:
     rus: О внесении изменений и дополнений в некоторые указы Президента Республики Казахстан
     kaz: Қазақстан Республикасы Президентінің кейбір жарлықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/224938/rus
+  link: https://zan.gov.kz/client/#!/doc/226191/rus
