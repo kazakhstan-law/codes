@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104183/kaz/05.07.2024
+repealed_on: 2026-07-01
+repealed_by:
+  code: '226155'
+  title: Қазақстан Республикасының әкiмшiлiк-аумақтық құрылысы туралы
+  link: https://zan.gov.kz/client/#!/doc/226155/kaz
 ---
 
 # Қазақстан Республикасының әкiмшiлiк-аумақтық құрылысы туралы
