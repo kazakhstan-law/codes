@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104312/kaz/05.07.2024
+repealed_on: 2026-07-01
+repealed_by:
+  code: '226138'
+  title: Қазақстан Республикасының Президенті туралы
+  link: https://zan.gov.kz/client/#!/doc/226138/kaz
 ---
 
 # Қазақстан Республикасының Президентi туралы
