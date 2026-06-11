@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/173441/rus/12.09.2023
+source: https://zan.gov.kz/client/#!/doc/173441/rus/11.06.2026
 ---
 
 # О прокуратуре
