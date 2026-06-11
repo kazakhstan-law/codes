@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95458/rus/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/95458/rus/11.06.2026
 ---
 
 # О доступе к информации

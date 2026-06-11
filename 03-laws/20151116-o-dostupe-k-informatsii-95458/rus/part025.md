@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/95458/rus/09.01.2026
+source: https://zan.gov.kz/client/#!/doc/95458/rus/11.06.2026
 ---
 
 ## Статья 19-1. Государственный контроль в области доступа к информации
