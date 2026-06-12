@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104314/rus/18.01.2026
+source: https://zan.gov.kz/client/#!/doc/104314/rus/12.06.2026
 ---
 
 # Об органах национальной безопасности Республики Казахстан

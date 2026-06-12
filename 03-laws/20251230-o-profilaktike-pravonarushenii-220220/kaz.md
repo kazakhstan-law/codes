@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/220220/kaz/19.05.2026
+source: https://zan.gov.kz/client/#!/doc/220220/kaz/12.06.2026
 ---
 
 # Құқық бұзушылық профилактикасы туралы
