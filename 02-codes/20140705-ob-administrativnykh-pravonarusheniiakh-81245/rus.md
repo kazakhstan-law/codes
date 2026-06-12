@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/81245/rus/10.06.2026
+source: https://zan.gov.kz/client/#!/doc/81245/rus/12.06.2026
 ---
 
 ## ОГЛАВЛЕНИЕ
