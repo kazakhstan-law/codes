@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/143079/kaz/21.05.2020
+source: https://zan.gov.kz/client/#!/doc/143079/kaz/17.06.2026
 ---
 
 ## Қосымшалардың түпкілікті мәтіндері және қайта қаралған мәтіндері
