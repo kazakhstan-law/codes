@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/198410/rus/27.09.2025
+source: https://zan.gov.kz/client/#!/doc/198410/rus/24.06.2026
 ---
 
 # О науке и технологической политике

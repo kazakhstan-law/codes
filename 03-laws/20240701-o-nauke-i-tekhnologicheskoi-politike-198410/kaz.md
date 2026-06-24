@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/198410/kaz/27.09.2025
+source: https://zan.gov.kz/client/#!/doc/198410/kaz/24.06.2026
 ---
 
 # Ғылым және технологиялық саясат туралы
