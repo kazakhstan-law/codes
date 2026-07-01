@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/111946/kaz/19.03.2026
+source: https://zan.gov.kz/client/#!/doc/111946/kaz/01.07.2026
 ---
 
 # Коллекторлық қызмет туралы
