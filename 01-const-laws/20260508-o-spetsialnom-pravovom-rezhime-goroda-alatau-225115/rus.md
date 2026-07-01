@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/225115/rus/08.05.2026
+source: https://zan.gov.kz/client/#!/doc/225115/rus/01.07.2026
 ---
 
 # О специальном правовом режиме города Алатау

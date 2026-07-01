@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/225115/kaz/08.05.2026
+source: https://zan.gov.kz/client/#!/doc/225115/kaz/01.07.2026
 ---
 
 # Алатау қаласының арнаулы құқықтық режимі туралы

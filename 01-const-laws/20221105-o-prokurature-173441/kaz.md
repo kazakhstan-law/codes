@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/173441/kaz/11.06.2026
+source: https://zan.gov.kz/client/#!/doc/173441/kaz/01.07.2026
 ---
 
 # Прокуратура туралы
