@@ -1,0 +1,17 @@
+act_code: '227250'
+requisite: Указ Президента Республики Казахстан от 2 июля 2026 года № 1343
+title:
+  rus: О некоторых вопросах Қазақстан Халық Кеңесі
+  kaz: Қазақстан Халық Кеңесінің кейбір мәселелері туралы
+form: УКАЗ
+type_codes:
+- УКАЗ
+approved_on: 2026-07-02
+approved_by:
+- '101000000000'
+version_date:
+  kaz: 2026-07-02
+  rus: 2026-07-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/227250/kaz/02.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/227250/rus/02.07.2026
