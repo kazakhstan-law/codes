@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78910/rus/30.12.2025
+source: https://zan.gov.kz/client/#!/doc/78910/rus/02.07.2026
 ---
 
 # О дорожном движении
