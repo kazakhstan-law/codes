@@ -1232,12 +1232,19 @@ versions:
   also_caused_by:
   - code: '225400'
     key: Z2600000291
+- date: 2026-07-02
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '226350'
+    key: Z2600000306
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-02
+  rus: 2026-07-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7966/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/7966/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/7966/kaz/02.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/7966/rus/02.07.2026
 caused_by:
   code: '226350'
   key: Z2600000306
