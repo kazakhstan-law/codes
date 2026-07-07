@@ -1,0 +1,17 @@
+act_code: '227497'
+requisite: Закон Республики Казахстан от 7 июля 2026 года № 335-VIII ЗРК
+title:
+  rus: Об обращении с радиоактивными отходами
+  kaz: Радиоактивті қалдықтармен жұмыс істеу туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2026-07-07
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2026-07-07
+  rus: 2026-07-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/227497/kaz/07.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/227497/rus/07.07.2026
