@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151312/kaz/01.07.2026
+source: https://zan.gov.kz/client/#!/doc/151312/kaz/08.07.2026
 ---
 
 ## 3-БӨЛІМ. ЭКОЛОГИЯЛЫҚ ҚАТЫНАСТАРДЫ МЕМЛЕКЕТТІК РЕТТЕУ
