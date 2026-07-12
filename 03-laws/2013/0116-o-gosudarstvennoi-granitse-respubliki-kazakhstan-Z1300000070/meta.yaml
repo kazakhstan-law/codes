@@ -341,12 +341,19 @@ versions:
   cause:
     code: '221115'
     key: Z2600000256
+- date: 2026-07-12
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '221115'
+    key: Z2600000256
 version_date:
-  kaz: 2026-01-09
-  rus: 2026-01-09
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/70141/kaz/09.01.2026
-  rus: https://zan.gov.kz/client/#!/doc/70141/rus/09.01.2026
+  kaz: https://zan.gov.kz/client/#!/doc/70141/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/70141/rus/12.07.2026
 caused_by:
   code: '221115'
   key: Z2600000256
