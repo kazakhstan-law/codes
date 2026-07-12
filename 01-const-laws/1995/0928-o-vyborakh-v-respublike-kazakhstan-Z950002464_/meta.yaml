@@ -263,12 +263,19 @@ versions:
   cause:
     code: '226347'
     key: Z2600000305
+- date: 2026-07-12
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '226347'
+    key: Z2600000305
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/4/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/4/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/4/rus/12.07.2026
 caused_by:
   code: '226347'
   key: Z2600000305
