@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/178542/kaz/01.05.2026
+source: https://zan.gov.kz/client/#!/doc/178542/kaz/12.07.2026
 ---
 
 # Қазақстан Республикасындағы цифрлық активтер туралы

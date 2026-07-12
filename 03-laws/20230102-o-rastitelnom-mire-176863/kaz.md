@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/176863/kaz/13.08.2025
+source: https://zan.gov.kz/client/#!/doc/176863/kaz/12.07.2026
 ---
 
 # Өсімдіктер дүниесі туралы

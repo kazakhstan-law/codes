@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104314/kaz/01.07.2026
+source: https://zan.gov.kz/client/#!/doc/104314/kaz/12.07.2026
 ---
 
 # Қазақстан Республикасының ұлттық қауiпсiздiк органдары туралы

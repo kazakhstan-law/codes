@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/176863/rus/13.08.2025
+source: https://zan.gov.kz/client/#!/doc/176863/rus/12.07.2026
 ---
 
 # О растительном мире

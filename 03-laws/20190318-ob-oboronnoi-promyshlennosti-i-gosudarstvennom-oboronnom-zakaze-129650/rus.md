@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/129650/rus/16.07.2025
+source: https://zan.gov.kz/client/#!/doc/129650/rus/12.07.2026
 ---
 
 # Об оборонной промышленности и государственном оборонном заказе

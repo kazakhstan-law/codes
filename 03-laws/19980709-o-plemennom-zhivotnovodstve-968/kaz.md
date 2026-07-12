@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/968/kaz/19.05.2025
+source: https://zan.gov.kz/client/#!/doc/968/kaz/12.07.2026
 ---
 
 # Асыл тұқымды мал шаруашылығы туралы
