@@ -10,11 +10,11 @@ approved_on: 1995-09-28
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/4/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/4/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/4/rus/12.07.2026
 caused_by:
   code: '226347'
   requisite: Конституционный закон Республики Казахстан от 11 июня 2026 года № 305-VIII ЗРК
