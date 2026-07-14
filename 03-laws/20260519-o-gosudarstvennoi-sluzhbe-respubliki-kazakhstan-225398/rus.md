@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/225398/rus/19.05.2026
+source: https://zan.gov.kz/client/#!/doc/225398/rus/14.07.2026
 ---
 
 # О государственной службе Республики Казахстан

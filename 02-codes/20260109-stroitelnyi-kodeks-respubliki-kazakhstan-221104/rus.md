@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/221104/rus/01.07.2026
+source: https://zan.gov.kz/client/#!/doc/221104/rus/14.07.2026
 ---
 
 # СТРОИТЕЛЬНЫЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН

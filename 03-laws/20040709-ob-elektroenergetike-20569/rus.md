@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/20569/rus/24.06.2026
+source: https://zan.gov.kz/client/#!/doc/20569/rus/14.07.2026
 ---
 
 # Об электроэнергетике

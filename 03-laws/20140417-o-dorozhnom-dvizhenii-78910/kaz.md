@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78910/kaz/12.07.2026
+source: https://zan.gov.kz/client/#!/doc/78910/kaz/14.07.2026
 ---
 
 # Жол жүрісі туралы

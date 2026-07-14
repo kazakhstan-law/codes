@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/225398/kaz/19.05.2026
+source: https://zan.gov.kz/client/#!/doc/225398/kaz/14.07.2026
 ---
 
 # Қазақстан Республикасының мемлекеттік қызметі туралы
