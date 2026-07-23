@@ -1,0 +1,17 @@
+act_code: '229181'
+requisite: Закон Республики Казахстан от 23 июля 2026 года № 351-VIII ЗРК
+title:
+  rus: О кредитной рейтинговой деятельности
+  kaz: Кредиттік рейтингтік қызмет туралы
+form: ЗАК
+type_codes:
+- ЗАК
+approved_on: 2026-07-23
+approved_by:
+- '102000000000'
+version_date:
+  kaz: 2026-07-23
+  rus: 2026-07-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229181/kaz/23.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/229181/rus/23.07.2026
