@@ -581,12 +581,19 @@ versions:
   cause:
     code: '227250'
     key: U2600001343
+- date: 2026-09-08
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '227250'
+    key: U2600001343
 version_date:
-  kaz: 2026-07-02
-  rus: 2026-07-02
+  kaz: 2026-09-08
+  rus: 2026-09-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2026/kaz/02.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/2026/rus/02.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/2026/kaz/08.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/2026/rus/08.09.2026
 caused_by:
   code: '227250'
   key: U2600001343
