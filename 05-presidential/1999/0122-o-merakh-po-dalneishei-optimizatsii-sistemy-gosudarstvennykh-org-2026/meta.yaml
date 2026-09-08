@@ -10,11 +10,11 @@ approved_on: 1999-01-22
 approved_by:
 - '101000000000'
 version_date:
-  kaz: 2026-07-02
-  rus: 2026-07-02
+  kaz: 2026-09-08
+  rus: 2026-09-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2026/kaz/02.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/2026/rus/02.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/2026/kaz/08.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/2026/rus/08.09.2026
 caused_by:
   code: '227250'
   requisite: Указ Президента Республики Казахстан от 2 июля 2026 года № 1343
