@@ -497,12 +497,19 @@ versions:
   cause:
     code: '229182'
     key: Z2600000352
+- date: 2026-10-21
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '229182'
+    key: Z2600000352
 version_date:
-  kaz: 2026-08-21
-  rus: 2026-08-21
+  kaz: 2026-10-21
+  rus: 2026-10-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/16192/kaz/21.08.2026
-  rus: https://zan.gov.kz/client/#!/doc/16192/rus/21.08.2026
+  kaz: https://zan.gov.kz/client/#!/doc/16192/kaz/21.10.2026
+  rus: https://zan.gov.kz/client/#!/doc/16192/rus/21.10.2026
 caused_by:
   code: '229182'
   key: Z2600000352
